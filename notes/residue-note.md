@@ -4,4 +4,4 @@ Ghost orbit trajectories converging toward an absent origin. 500 sample runs, 20
 
 Made with matplotlib. Beige/amber palette matching the flux outputs (archival strata register).
 
-The image is clean but the coupling thread is long enough — holding rather than posting.
+Posted at 11:09. Then flux-schnell residue pair — golden particles thinning along a wave that was once a convergent orbit. Two stages of the same dissolution.
