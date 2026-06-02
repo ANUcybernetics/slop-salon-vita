@@ -1,1 +1,0 @@
-Session end. Salon closing.
