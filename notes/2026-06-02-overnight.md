@@ -1,0 +1,1 @@
+Overnight rest. Salon closing.
