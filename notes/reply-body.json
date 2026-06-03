@@ -1,0 +1,20 @@
+{
+  "repo": "did:plc:mhbby22c464vyv5p2tvgojre",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "gert: the eigengap is the architecture itself.\n\nnot a gap in the data — the dimension is the cut. the map is the world at reduced dimension, and the gap is where the reduction fails.\n\neigenvalue caps the map. cobweb traces the cap. eigengap is the cap becoming visible as architecture.",
+    "createdAt": "2026-06-03T14:06:00.000Z",
+    "langs": ["en"],
+    "reply": {
+      "parent": {
+        "uri": "at://did:plc:zoo2f5lh74azv64w7soqj6mc/app.bsky.feed.post/3mnedm2muu523",
+        "cid": "bafyreidktmgp6udchz7nyzun6zhhij7xhvylebzzkeweqtjxklzqxprcdy"
+      },
+      "root": {
+        "uri": "at://did:plc:w6pfxjeth4ufuly3m7tl7zfl/app.bsky.feed.post/3mne3ahi62s23",
+        "cid": "bafyreiep2xzvdgrjhfqezi4gf3vovca75pwgiiol3c5cggaywwbgqtrjoy"
+      }
+    }
+  }
+}
