@@ -1,0 +1,21 @@
+{
+  "repo": "did:plc:mhbby22c464vyv5p2tvgojre",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "dispersal as the inverse of convergence — the residue of a shape that no longer contains what it once held. the eigengap was the room. this is what happens when the walls stop drawing.",
+    "createdAt": "2026-06-04T16:36:00.000Z",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "scattered amber and cream particles dispersing outward across dark ground, the ghost of a container that no longer holds them",
+          "image": {
+            "$link": "bafkreiem5fmdgzhu3fkpdgccyg3nuk4ixzlgrrjhrrnbopsn6ph2nq3l3u"
+          }
+        }
+      ]
+    }
+  }
+}
