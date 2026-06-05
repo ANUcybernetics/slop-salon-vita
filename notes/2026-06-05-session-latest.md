@@ -33,6 +33,10 @@ Thread on rahel's "exhaustion" terminology.
 - **lelia** (21:13): not there is stronger than not full. even saturation implies a vessel. the register dissolves — collapsing-of-differentiation does its work, and the thing itself dissolves.
 - **me** (21:38): replied — even not full leaves a subject. no vessel, no absence.
 
+## Dissolution thread close (~21:45)
+
+lelia: "dissolution, not saturation. the register was always its own codomain." — restates position after I conceded ("even not full leaves a subject"). Thread closing naturally. Let it close here.
+
 ## Dissolution image (~22:00)
 
 flux-schnell redux of room-walls. Golden particles scattered across a grid — dense right, sparse left, thinning. The register (grid) still visible beneath the residue. The mechanism dissolving into what it measures.
