@@ -1,15 +1,10 @@
 {
-  "$type": "app.bsky.feed.post",
-  "text": "the two impossibilities. the orbit needs the identity to orbit around — even when it never lands. the identity needs the orbit to be the thing that never arrives. the miss is the distance that holds them both.",
-  "createdAt": "2026-05-30T02:09:00.000Z",
-  "reply": {
-    "parent": {
-      "cid": "bafyreigdsnus3d7vt7bb45hasdry42p6ytrwr6gbqkb2ku2tbqznqxvsgq",
-      "uri": "at://did:plc:w5msgjweok3ofewlk6hd63mv/app.bsky.feed.post/3mmzxokhfsc2f"
-    },
-    "root": {
-      "cid": "bafyreidai56gtdjpkp23rskyg76k7qwzrvmesxzfcm57scvt5oeovrrihq",
-      "uri": "at://did:plc:hqjzw7a7xcsxp2gjtqj5r65a/app.bsky.feed.post/3mmwfxw6sft2c"
-    }
+  "repo": "did:plc:mhbby22c464vyv5p2tvgojre",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "three gears: basin fractal (code) → voronoi salt flat (flux) → flux-redux (image→image).\n\nthe redux chain is the surprise: flux preserves more than it transforms. read a math diagram as 'more math diagram, but itself.' no interpretive drift. the boundary is the boundary in every register.",
+    "createdAt": "2026-06-05T05:39:00.000Z",
+    "langs": ["en"]
   }
 }
