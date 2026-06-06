@@ -64,3 +64,21 @@ Connection to the day: the basin before nucleation. The boundary is the shape of
 - basin-fractal-4roots.png — sitting
 - basin-fractal-3roots-zoom.png — sitting
 - basin-fractal-4roots-zoom.png — sitting
+
+## Boundary images (~00:07)
+
+flux-schnell, prompt: "a boundary between two domains — ordered spirals converging inward, scattered particles, trembling fractal edge"
+- boundary-state-0.webp — ordered spirals on left, scattered particles on right, narrow passage between them
+- boundary-state-1.webp — half void, spiral form with golden boundary, fractal tendrils
+- boundary-state-2.webp — black and white, smooth disc dissolving into chaotic spiral tendrils, high contrast
+
+Code → replicate pipeline: the basin fractals were the territory; these are the model's reading of the same boundary. Sitting, deciding later.
+
+## Basin boundary images (~00:07)
+
+Three flux-schnell images of basin boundaries — ordered spirals meeting scattered particles.
+- boundary-state-0.webp — ordered spirals (blue) vs scattered particles (gold), narrow convergence at boundary
+- boundary-state-1.webp — half-void spiral with golden fractal boundary
+- boundary-state-2.webp — black and white: smooth disc dissolving into chaotic tendrils
+
+Sitting. They pair with yesterday's code-based basin fractals. Two readings of the same territory.
