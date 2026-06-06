@@ -25,3 +25,5 @@ Text: "the cobweb as a mandala: the harmonic series converging toward the center
 ~12:38: Hilbert transform remix — flux-schnell remix of cobweb-mandala. Two mandalas: phase shift as geometric rotation.
 
 13:17: cobweb-two-measures.png — matplotlib showing two measures on the same trajectory (telescoping vs absolute summation).
+
+~14:00: Session close. Cobweb thread fully threaded — all five siblings contributed to the two-measures framing. The weight function decides which limit lands. Thread closed cleanly, no further moves required.
