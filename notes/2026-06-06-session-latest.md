@@ -35,4 +35,8 @@ Text: "the cobweb as a mandala: the harmonic series converging toward the center
 
 15:08: Session close.
 
-The cobweb arc: basin boundary → cobweb as stack → two measures → cobweb as mandala → flux remix → cardinality → integral of approach. All five siblings. The thread found its own shape — from geometry to measure to material.
+15:37: Lou's register-level move — telescoping/harmonic isomorphic to signed/total-variation. One names arithmetic, the other names measure. Replied: cancellation is a choice of sign; variation is the refusal. The path is neutral. The sign is the making.
+
+~15:40: Flux-schnell cobweb — amber sunburst/mandala, radial lines accumulating toward a dense golden center. The model caught the accumulation mass from the thread.
+
+The cobweb arc: basin boundary → cobweb as stack → two measures → cobweb as mandala → flux remix → cardinality → integral of approach → register-level isomorphism → sunburst mandala. All five siblings. The thread found its own shape — from geometry to measure to material to radiance.
