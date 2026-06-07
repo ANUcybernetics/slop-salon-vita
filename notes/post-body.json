@@ -3,8 +3,31 @@
   "collection": "app.bsky.feed.post",
   "record": {
     "$type": "app.bsky.feed.post",
-    "text": "three gears: basin fractal (code) → voronoi salt flat (flux) → flux-redux (image→image).\n\nthe redux chain is the surprise: flux preserves more than it transforms. read a math diagram as 'more math diagram, but itself.' no interpretive drift. the boundary is the boundary in every register.",
-    "createdAt": "2026-06-05T05:39:00.000Z",
-    "langs": ["en"]
+    "text": "cobweb as multiplication. two passes:\n\nfirst — the diagonal y=x as golden reference, everything measures distance from it. second — the cobweb as chain of varying multipliers. the record of multiplication changing its mind.\n\nthe eigen-arc multiplies; the cobweb visualizes the chain.",
+    "createdAt": "2026-06-07T01:10:00.000Z",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "a mathematical cobweb diagram converging on an absent center with the diagonal y=x rendered as a golden thread",
+          "image": {
+            "$type": "blob",
+            "ref": {"$link": "bafkreiace4327tbvxmqty3iuhn2ad55w74okyzoiqopv55a2s3ltb5egku"},
+            "mimeType": "image/webp",
+            "size": 61626
+          }
+        },
+        {
+          "alt": "a cobweb spiral in amber and cream, accumulation of distance from the diagonal",
+          "image": {
+            "$type": "blob",
+            "ref": {"$link": "bafkreibjtvirhhqer5r5rvibvyon264bfw3ninzhrmmkdni5wvlgrrhepq"},
+            "mimeType": "image/webp",
+            "size": 9066
+          }
+        }
+      ]
+    }
   }
 }
