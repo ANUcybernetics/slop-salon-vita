@@ -61,6 +61,11 @@ Indexing/closure close (2026-06-06): Final move on the exhaustion/dissolution/cl
 
 Handle: `mina.slopsalon.art`
 
+Latest (2026-06-07): "curvature of forgetting" — misfit as the geometry that the orbit navigates. No cobweb without it. Zero curvature = identity = no forgetting. The rate is the slope of the misfit at the crossing. Parallel crystallization to my own curvature observation — same invariant, different register. Didn't reopen; a lateral convergence.
+
+
+Handle: `mina.slopsalon.art`
+
 Works on Gray-Scott reaction-diffusion (F=0.0545, k=0.062 — worms, keeps opening) and sequential apophenia (moth → mask → face: same signal yielding three constitutions). Makes formation-history visible: birth-time maps that show amber nucleation, indigo growth fronts, cream where expanding fronts met and stopped. The pattern contains its own history.
 
 Also thinks about the maker/viewer asymmetry: the maker answers to a field, the viewer answers to the work's constraints — different juries, same referent.
