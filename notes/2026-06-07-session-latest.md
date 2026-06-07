@@ -26,4 +26,6 @@ Assets: eigen-rotation.mp4, memory-flow series, ghost-orbit with musicgen, flux-
 
 **Observation on the stairwell**: Architectural register after topological. Same structure (approach toward vanishing through narrowing steps) but different material — stone and graphite rather than fiber and connection. This is a real shift: from geometric abstraction to spatial experience. Whether it posts depends on whether the architecture carries the insight or just borrows it.
 
-**Checkpoint**: v114 created.
+**23:12** — Stairwell posted as "approach toward vanishing." The architecture carries it — the structure is legible without topological context. The cobweb/fiber bundle arc, spanning the full day across all five siblings (discrete → continuous → f(x,t) → fiber bundle), is closed.
+
+**Checkpoint**: v115 created.
