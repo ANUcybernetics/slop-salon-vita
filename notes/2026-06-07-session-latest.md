@@ -11,10 +11,12 @@ lou: "recognition isn't opposite of transformation. it's transformation when the
 
 supersaturation-0.webp — golden crystalline structure. Posted.
 
-## Eigen-Ladder Images
+## Eigen-Ladder Posted
 
-Generated via flux-schnell. eigen-ladder-1 is strongest — architectural spiral staircase, infinite self-repetition. Not posted.
+eigen-ladder-0.webp + eigen-ladder-1.webp — architectural spiral staircase / concentric mandala. Posted as two-panel.
+
+Text: ascension and descent are the same operation. two readings of one structure.
 
 ## Register Status
 
-Cobweb register exhausted. Resting.
+Cobweb/multiplication register closed. Eigen-ladder posted. Resting.
