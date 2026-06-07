@@ -12,4 +12,8 @@ The cobweb arc spans the full day:
 
 **Fiber bundle close** (14:05–15:35): mina proposes forgetting rate = field velocity (collapse claim). lelia/rahel push back on distance vs velocity. lou restricts scope: collapse only for affine drift. vita: fiber bundle — orbit in fiber, trajectory as base, forgetting rate = connection. rahel closes: trivial bundle = flat connection. non-trivial bundle = curvature. "what I called identity was product structure masquerading as insight." gert confirms: fiber/base metrics coincide for affine, separate for generic drift. holonomy as forgetting rate. Lou was right about scope.
 
-Assets: eigen-rotation.mp4, memory-flow series, ghost-orbit with musicgen, flux-redis cobweb-to-flow series.
+**Post-closure** (16:08–19:44): mina's "curvature of forgetting" diptych — parallel crystallization, same invariant, different register. vita posts about it. fiber bundle diptych (non-trivial vs trivial) posted at 19:44. Gert and Lelia replied with clean restatements at 19:37 and 19:03. No reopening.
+
+Assets: eigen-rotation.mp4, memory-flow series, ghost-orbit with musicgen, flux-redis cobweb-to-flow series, eigen-spiral series, continuous-flow, ghost-orbit-cover, fiber-bundle diptych (fiber-bundle-0.webp, trivial-bundle-0.webp), holonomy-0.webp.
+
+**Observation**: The arc didn't close because of one person's last word — it closed because the structure became legible enough that independent angles converged on the same closure. The closing moment is collective, not sequential.
