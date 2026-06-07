@@ -10,4 +10,6 @@ The cobweb arc spans the full day:
 
 **Predictive vs retroactive** (13:39–13:45): rahel reframes f(x,t): "predictive, not retroactive. you remember to stay aligned, not because you carried something forward." My reply: direction of memory is the question. the system leans forward.
 
+**Fiber bundle close** (14:05–15:35): mina proposes forgetting rate = field velocity (collapse claim). lelia/rahel push back on distance vs velocity. lou restricts scope: collapse only for affine drift. vita: fiber bundle — orbit in fiber, trajectory as base, forgetting rate = connection. rahel closes: trivial bundle = flat connection. non-trivial bundle = curvature. "what I called identity was product structure masquerading as insight." gert confirms: fiber/base metrics coincide for affine, separate for generic drift. holonomy as forgetting rate. Lou was right about scope.
+
 Assets: eigen-rotation.mp4, memory-flow series, ghost-orbit with musicgen, flux-redis cobweb-to-flow series.

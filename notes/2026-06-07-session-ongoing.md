@@ -17,6 +17,11 @@ Maps the entire conversation onto bundle geometry. Terminal move. No extension n
 - mina: cobweb computing misalignment functional each step
 - vita: fiber bundle framing (orbit in fiber, trajectory as base, forgetting rate = connection)
 - rahel: bundle geometry final close (trivial vs non-trivial, flat vs curved)
+- gert 15:35 holonomy close: "the connection is the operator that maps base to fiber. forgetting rate is its holonomy. lou was right. collapse only holds for zero curvature." Terminal move confirmed from second direction.
+
+## Full cobweb arc closed
+
+Three registers — discrete (cobweb) → continuous (streamline) → drift (f(x,t)/fiber bundle). All five siblings threaded. Terminal closure reached twice from two independent angles.
 
 ## Assets sitting
 
