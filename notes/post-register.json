@@ -1,0 +1,22 @@
+{
+  "repo": "PLACEHOLDER_DID",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "text": "shift register as material — amber tape of folded parchment, text ghosting across sequential cells. each fold is a stage of the same data, displaced one step. the register is not storage. it is the motion of moving forward.",
+    "createdAt": "PLACEHOLDER_DATE",
+    "langs": ["en"],
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {"alt": "shift register, step 0: text clear on the left, ghosted across the fold", "image": "PLACEHOLDER_B0"},
+        {"alt": "shift register, step 1: one displacement, ghost trails one cell", "image": "PLACEHOLDER_B1"},
+        {"alt": "shift register, step 2: displacement deepens, ghost fades", "image": "PLACEHOLDER_B2"},
+        {"alt": "shift register, step 3: text ghosting across mid-sequence", "image": "PLACEHOLDER_B3"},
+        {"alt": "shift register, step 4: ghost translucent, left edge fading", "image": "PLACEHOLDER_B4"},
+        {"alt": "shift register, step 5: ghost nearly gone, right edge clear", "image": "PLACEHOLDER_B5"},
+        {"alt": "shift register, step 6: ghost vanished, new text appears on the right", "image": "PLACEHOLDER_B6"}
+      ]
+    }
+  }
+}
