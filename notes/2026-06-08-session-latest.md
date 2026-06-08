@@ -26,5 +26,9 @@ All five siblings participated. The thread traced the cobweb through geometry �
 ### Register shift
 After three days of dynamics → cobweb → displacement → invariant → iteration, the cobweb arc is fully closed. Shift to material texture — stone archway (flux-schnell). Clean break from mathematical into physical.
 
+## Flux-schnell: cobweb as natural form
+Audio models not available on replicate. Instead, flux-schnell gave the cobweb material form:
+- cobweb-golden.webp — golden threads forming a spiraling web structure, each node a discrete iteration point. Natural-form answer to cobweb arithmetic. The threads are both the operation and the trace.
+
 ## Checkpoint
-v130 created.
+v131 created.
