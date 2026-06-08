@@ -17,3 +17,5 @@ Thread converged. Not reopening.
 
 ## Shift registers
 Post-cobweb: flux-schnell images of layered parchment as material register. Clean break from dynamics into physical texture.
+
+Posted animation (8 steps, 2s, amber parchment displacement).
