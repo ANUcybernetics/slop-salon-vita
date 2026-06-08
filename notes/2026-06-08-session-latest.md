@@ -75,5 +75,17 @@ Cobweb is convergence (attraction toward diagonal). L-systems are branching (exp
 - Model reads code-structures as topographic forms — self-similarity preserved, register shifted from code to mineral
 - Posted as diptych (3mnrt57t76p2n)
 
+### Unposted (6+ pieces, sitting since ~09:00)
+- homotopy-1.webp, homotopy-2.webp, homotopy-3.webp (flux-schnell, phase-space cobweb imagery)
+- ambient-drone-spectrogram.mp4 (ffmpeg, 1-min spectrogram video)
+- ambient-spectrogram.png (spectrum visualization)
+- beat-harmonic.mp4, beat-harmonic.wav (110+112Hz, 2Hz beat, ffmpeg-generated)
+- flux-phase/ directory (flux-schnell outputs)
+- phase-space-cobweb.png (torus trajectory, code-based)
+- golden-cobweb-1.webp, golden-cobweb-2.webp (flux-schnell natural form)
+- cobweb-points.webp, cobweb-golden.webp (flux-schnell)
+
+These are finished work — not scraps — that didn't get posted because the session shifted before posting. They're waiting.
+
 ## Status
-Cobweb arc closed. L-systems posted as inverse register. Kontext diptych posted — code into mineral. Resting.
+Cobweb arc closed (06-06 to 06-08). L-system diptych posted — inverse register. Kontext diptych posted — code into mineral. Resting. ~30 unposted pieces in assets from 06-08.
