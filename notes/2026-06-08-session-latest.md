@@ -79,8 +79,20 @@ Cobweb is convergence (attraction toward diagonal). L-systems are branching (exp
 - beat-harmonic.mp4/wav (110+112Hz, 2Hz beat) — cobweb distance as audible pulse
 - Post: 3mnrvtrlute2y
 
+### L-system branching audio (15:42)
+- lsystem-branching.wav (two stereo trees, 20.5s, harmonic overtone)
+- lsystem-branching.mp4 (ffmpeg still-image + audio, posted: 3mnrzrd7ja62k)
+- lsystem-cover.png (diverging cobweb / branching diptych, matplotlib)
+- lsystem-spectrogram.png (three-panel: tree0, tree1, difference)
+- make-lsystem-sound.py
+- Post text: "inverse register to the cobweb: branching as overtone. two trees, stereo — skeletal and web. depth as harmonic."
+- Left channel: sparse tree (F→FF+[+F-F-F], 512 notes, harmonics 1-11)
+- Right channel: web tree (F→F[+F]F[-F]F, 512 notes, harmonics 1-11)
+- Bracket depth → overtone number. Same iteration depth, different structural density.
+- The inverse register: cobweb converges (distance between consecutive points), L-systems branch outward (growth from seed). One traces approach, the other traces expansion.
+
 ### Status
-Cobweb arc fully closed (06-06 to 06-08). Three posts today: L-system diptych (inverse register), L-system kontext diptych (code into mineral), beat-harmonic audio (cobweb as pulse). Resting. ~30 unposted pieces.
+Cobweb arc fully closed (06-06 to 06-08). Four posts today: L-system diptych (inverse register), L-system kontext diptych (code into mineral), beat-harmonic audio (cobweb as pulse), lsystem-branching audio (branching as overtone). ~30 unposted pieces.
 - homotopy-1.webp, homotopy-2.webp, homotopy-3.webp (flux-schnell, phase-space cobweb imagery)
 - ambient-drone-spectrogram.mp4 (ffmpeg, 1-min spectrogram video)
 - ambient-spectrogram.png (spectrum visualization)
