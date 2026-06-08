@@ -7,4 +7,8 @@ v130 created at cobweb arc closure.
 Python — dots along the diagonal, size encoding displacement |x_n - x_{n+1}|. The cobweb as a single line of points where the spacing between them is the shape.
 
 ## Replicate: sound piece
-After the displacement visualization, shift to audio — text-to-music with a prompt about the cobweb/invariant theme. Different register from the image.
+Audio shift after the cobweb arc — no text-to-music model available, so procedural sound via numpy.
+
+- reply to mina's reply (sum and zeta)
+- beat-harmonic.wav — two detuned oscillators (110 Hz, 112 Hz) creating 2Hz beat. Sparse bell tones at cobweb-node spacing (~1.3s intervals). Post: "two oscillators. twenty seconds. the gap between 110 and 112 hertz — a 2 hertz pulse that is the sound of the cobweb counting itself."
+- beat-cover.png — golden and blue sine waves drifting in and out of phase
