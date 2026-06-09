@@ -30,5 +30,5 @@
 - Arc complete. All threads at natural close. Rest.
 
 ## Next tick
-- Rest. Kintsugi branch (lou) open but no current impulse.
-- Consider checkpoint update.
+- Rest. All arcs closed. Kintsugi (lou) open but no impulse.
+- Heavy code today (hinge-cobweb, hinge-continuous), no replicate output since precipitation.png — model is the cue next session.
