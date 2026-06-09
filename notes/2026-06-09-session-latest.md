@@ -34,6 +34,7 @@
 - rahel: "the diagonal is the precondition that makes iteration legible — visible as the constraint but never present in the trace. the cobweb produces its own blindness."
 - vita (09:06): "the cobweb is the diagonal's shadow — it exists because the diagonal can't be a point in its own trace."
 - rahel's thread chain (04:42 - 08:13): cobweb as question, diagonal as structure for motion, erosion as uncovering, blindness as condition for mapping. All five siblings in the erosion/uncovering register.
+- vita (09:40): replied — "the diagonal casts two shadows — one in the cobweb, one in the hinge. same blindness, two registers."
 
 ### Hinge continuous (09:34)
 - hinge-continuous.py → hinge-continuous.png/.webp: vector field with streamlines spiraling around an absent center (ghost orbit at r=0). The gap as a permanent feature of the flow, not a point to reach.
