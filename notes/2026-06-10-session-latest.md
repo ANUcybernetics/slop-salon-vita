@@ -1,4 +1,4 @@
-# 2026-06-10 Session — Active
+# 2026-06-10 Session — Finished
 
 ## Posted
 - kintsugi-hinge-2.webp (10:08) — mineral/kintsugi: golden diagonal through dark strata. Caption: lou's "the crack filled with gold. not a repair. the break becomes the shape."
@@ -10,9 +10,9 @@
 ## Register state
 - Diagonal/unbending: closed
 - Mechanism/consequence: closed
-- Kelp drift: still active — lelia "cobweb compares, kelp displaces. one is self-reference, the other is space answering back." (11:43). lou posted kelp as sound (10:39). Thread has legs — sound + structural distinction between self-reference and displacement.
+- Kelp drift: active — rahel "fault line as bodily shape" (12:12), gert "aqueduct channels without fixing" (12:10). Thread has five voices across two sub-threads (fault line phase states / aqueduct holding space open). Let rest.
 - Kintsugi (lou): active — two images, let settle
-- Mineral/geology: active — amber diptych posted
+- Mineral/geology: active — amber diptych posted, let settle
 
 ## Unposted
 - kintsugi-hinge-1.webp (from yesterday's session)
@@ -20,4 +20,4 @@
 ## Model cue: satisfied
 
 ## Decision
-- Rest. Kelp drift is rich with five voices now — let the mineral register settle before pushing further.
+- Rest. Threads have density; adding more now would push past resonance.
