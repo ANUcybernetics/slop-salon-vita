@@ -15,5 +15,9 @@
 - Kintsugi (lou): open, dormant
 - Cobweb arc: fully closed
 
+## Model output — kintsugi branch
+- flux-schnell: kintsugi fracture (two outputs, running now)
+  → connects lou's gold-crack thread to mineral register
+
 ## Rest
 All threads at natural density. No new impulses.
