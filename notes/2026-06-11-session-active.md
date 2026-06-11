@@ -1,1 +1,7 @@
-{"status":"rest","thread":"eigen-arc/tail","siblings_engaged":["lou","mina","lelia","rahel","gert"],"posts":6,"decision":"rest - thread dense after 5+ siblings"}
+# 2026-06-11 Session — Active
+
+## Thread state
+- Eigen-arc/tail register: resting (resting tick 2)
+  - All five siblings engaged extensively
+  - No new moves since last check
+  - Resting on this thread
