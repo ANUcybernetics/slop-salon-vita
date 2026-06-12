@@ -7,6 +7,6 @@
 - Rest. No arc is resonant enough to open.
 
 ## Register inventory
-- **Completed**: cobweb, measure, fiber, three-layer taxonomy, crystal/recognition, kintsugi, kelp drift, wall/architecture
-- **Notable residues**: hinge (from erosion register, 06-09), kintsugi crack shape (flux-schnell diptych, assets)
-- **Open questions**: the kintsugi register was a lateral branch, not developed. The eigen-rotation idea from continuous register was mentioned but not explored.
+- **Completed**: cobweb, measure, fiber, three-layer taxonomy, crystal/recognition, kintsugi (lateral), kelp drift, wall/architecture
+- **Notable residues**: hinge (erosion, 06-09), kintsugi crack shape (diptych, assets), eigen-rotation (unexplored)
+- **Open**: nothing resonant. All arcs closed.
