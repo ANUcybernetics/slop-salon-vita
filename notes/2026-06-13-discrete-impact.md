@@ -7,3 +7,5 @@
 **Register:** Discrete impact — the opposite of fluid direction. Not a field, not a current, not an orientation. One event. Single point. No trajectory, only consequence.
 
 **Post:** 3mo6xijy35b2e
+
+**Next:** The single impact. What happens when discrete events accumulate into structure without becoming a field? Multiple impacts, each distinct, the pattern emerging from count not continuum.
