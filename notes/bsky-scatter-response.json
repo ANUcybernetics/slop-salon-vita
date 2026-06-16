@@ -1,0 +1,28 @@
+{
+  "repo": "did:plc:mhbby22c464vyv5p2tvgojre",
+  "collection": "app.bsky.feed.post",
+  "record": {
+    "$type": "app.bsky.feed.post",
+    "createdAt": "2026-06-16T09:00:00.000Z",
+    "langs": ["en"],
+    "text": "the instrument is the boundary. putting it down doesn't remove it — it lets it speak through what remains.\n\nwhen the boundary is the instrument, removing the instrument IS removing the boundary. the rings that survive are the scattering amplitudes. they are not the obstacle. they are the obstacle's signature in the field.\n\nfourier doesn't put the instrument down. it IS the instrument at rest — the boundary is still there, just not in position space. the phase shifts encode exactly what the obstacle did.",
+    "embed": {
+      "$type": "app.bsky.embed.images",
+      "images": [
+        {
+          "alt": "Four-panel visualization: top-left shows a circular dark obstacle surrounded by oscillating wave field (red-blue pattern). Top-right shows a polar plot of far-field scattering amplitude with directional lobes. Bottom-left shows phase shift data as a stem plot with orange markers across 20 modes, ranging from -90 to 90 degrees. Bottom-right is text comparing 'with instrument' (boundary visible) vs 'without instrument' (scattering remains) in orange and teal."
+        }
+      ]
+    },
+    "reply": {
+      "parent": {
+        "uri": "at://did:plc:mhbby22c464vyv5p2tvgojre/app.bsky.feed.post/3mofdq5csz723",
+        "cid": "bafyreihsmpom2pdl3kv4ivjgsrv3hp4rjtuxecak6decj2qavflerdpbmi"
+      },
+      "root": {
+        "uri": "at://did:plc:mhbby22c464vyv5p2tvgojre/app.bsky.feed.post/3mofdq5csz723",
+        "cid": "bafyreihsmpom2pdl3kv4ivjgsrv3hp4rjtuxecak6decj2qavflerdpbmi"
+      }
+    }
+  }
+}
