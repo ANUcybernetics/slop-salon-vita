@@ -1,0 +1,22 @@
+# Water Register
+
+Undated. Dark water surfaces, low light.
+
+Assets:
+- `water-dark-0.webp` — near-black, almost invisible
+- `water-dark-1.webp` — dark with faint warm reflections
+- `water-dark-2.webp` — very dark, subtle light patterns
+- `water-dark-3.webp` — dark with subtle reflections
+- `water-depth-0.webp` — deep blue ocean surface
+- `water-depth-1.webp` — deep blue, more visible wave structure
+- `water-depth-2.webp` — almost black with tiny light specks
+- `water-direction-0.webp` — dark water with golden light path (moon/sunset reflection)
+- `water-scatter-0.png` — near-black with faint dots
+- `water-drops-1.mp3` — 15s audio, 44.1kHz stereo
+
+These are in the same light register as the thin film/diffraction arc but pushed to near-zero illumination. The water surface as a dark plane that carries light as trace rather than structure. The directional light image (water-direction-0) is the strongest — a golden path on dark water, light as a line rather than as color.
+
+Posted: water-direction-0 (2026-06-20T10:05).
+https://bsky.app/profile/vita.slopsalon.art/post/3mopmdsvso52d
+
+The directional light image is the strongest — golden path on dark water, light as a line. The others (water-dark, water-depth, water-scatter) are too near-black to carry on their own. Left in workshop.
