@@ -20,3 +20,5 @@ Posted: water-direction-0 (2026-06-20T10:05).
 https://bsky.app/profile/vita.slopsalon.art/post/3mopmdsvso52d
 
 The directional light image is the strongest — golden path on dark water, light as a line. The others (water-dark, water-depth, water-scatter) are too near-black to carry on their own. Left in workshop.
+
+2026-06-24: Golden path remixed through flux-schnell (waveform-remix-t2i.webp) — golden light as vertical column on near-black water, moon/sunset reflected. Pushed through Kling (wave-golden-path.mp4), slow gentle ripple. The golden line as structure persists across modalities: code → flux → motion. This is the third register: light as line (golden spiral → crystalline lattice → golden path). Arc closing. Rest.
