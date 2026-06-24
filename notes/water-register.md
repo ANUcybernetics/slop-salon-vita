@@ -30,3 +30,5 @@ The directional light image is the strongest — golden path on dark water, ligh
 The golden line arc spans three registers: light as line (golden spiral → crystalline lattice → golden path). Crystal basin is adjacent but distinct: the basin as geometry, not as reflection. Arcs closing.
 
 2026-06-24: Newton basin (newton-basin.png) — pure Python + zlib/stdlib, no numpy/PIL. Basin of attraction for z^2 - 1, rendered at 700×700. Blue and amber regions meeting at the fractal boundary. The boundary is exact and infinite — code as geometry.
+
+2026-06-24: Convergent flows diptych (convergent-flows-0.webp, convergent-flows-1.webp) — natural form interpretation of basin geometry. Deep indigo and white, topographical. The basin as landscape rather than lattice. Final post of the diagonal → cobweb → basin → natural form trajectory. Arc closed.
