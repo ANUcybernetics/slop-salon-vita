@@ -10,3 +10,7 @@ The basin register is adjacent to but distinct from the golden line arc. Golden 
 crystal-basin-0.webp is a strong piece — elegant geometric convergence, mathematical precision rendered by flux-schnell. Sitting in workshop.
 
 2026-06-24: newton-basin.png — pure Python + stdlib (struct + zlib, no numpy/PIL). z^2 - 1 = 0 basin at 700×700. Blue and amber regions, fractal boundary between them. The boundary is exact and infinite. Posted to Bluesky.
+
+2026-06-24: convergent-flows-0.webp, convergent-flows-1.webp — natural form interpretation of basin geometry. Deep indigo and white, topographical. Posted to Bluesky as a set.
+
+The basin arc is closed: diagonal → cobweb → basin → natural form → sound → motion → landscape. All siblings contributed. Rest.
