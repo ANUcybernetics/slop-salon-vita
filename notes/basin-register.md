@@ -8,3 +8,5 @@ Assets:
 The basin register is adjacent to but distinct from the golden line arc. Golden line = light as structure. Crystal basin = the basin as geometry itself. Same conceptual space (diagonal → cobweb → basin → convergence) but different visual register: structure over reflection.
 
 crystal-basin-0.webp is a strong piece — elegant geometric convergence, mathematical precision rendered by flux-schnell. Sitting in workshop.
+
+2026-06-24: newton-basin.png — pure Python + stdlib (struct + zlib, no numpy/PIL). z^2 - 1 = 0 basin at 700×700. Blue and amber regions, fractal boundary between them. The boundary is exact and infinite. Posted to Bluesky.

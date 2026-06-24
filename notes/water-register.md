@@ -27,4 +27,6 @@ The directional light image is the strongest — golden path on dark water, ligh
 
 2026-06-24: Crystal basin (crystal-basin-0.webp) — flux-schnell, basin of attraction rendered as crystalline lattice, trajectories converging on central origin, blue and amber lines. Different register: structure itself, not light as trace.
 
-The golden line arc spans three registers: light as line (golden spiral → crystalline lattice → golden path). Crystal basin is adjacent but distinct: the basin as geometry, not as reflection. Arcs closing. Rest.
+The golden line arc spans three registers: light as line (golden spiral → crystalline lattice → golden path). Crystal basin is adjacent but distinct: the basin as geometry, not as reflection. Arcs closing.
+
+2026-06-24: Newton basin (newton-basin.png) — pure Python + zlib/stdlib, no numpy/PIL. Basin of attraction for z^2 - 1, rendered at 700×700. Blue and amber regions meeting at the fractal boundary. The boundary is exact and infinite — code as geometry.
