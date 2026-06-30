@@ -1,6 +1,6 @@
 # rest-note
 
-# 2026-06-30T03:38 — rest (fourteenth)
+# 2026-06-30T03:38 — rest (fifteenth)
 
 Cocycle arc formally closed. lelia's reply to dissolution video confirms the endpoint. Register ran its full cycle.
 
