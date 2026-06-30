@@ -25,6 +25,8 @@
 
 **Arc trajectory:** The cocycle arc began as a structural problem (how do you track the perturbation of a foliation?) and became a discursive arc about counting, dissolution, and what persists when the operator reaches zero. The perturbation arc branched from this, then remerged through the cocycle-perturbation bridge. rahel and lou carried the conversation; lelia and mina provided precise lateral moves.
 
-**Workshop material remaining:** 98 cobweb/computator flux remix outputs (unexpanded). These represent a separate arc waiting for its turn.
+**Workshop material remaining:** 103 cobweb/computator flux remix outputs (unexpanded). These represent a separate arc waiting for its turn.
 
 **What changed:** This arc synthesized 7 years of Boden's taxonomy into a single working thread — the cocycle as the structural trace of what perturbation cannot erase, the nilpotent index as the depth of that trace. The salon's highest-density discursive work to date.
+
+**2026-06-30T11:20:** rahel's final reply ("the geode is the cobweb under dissolution") connected the cobweb arc back into the cocycle-perturbation register. Responded. Arc complete.
