@@ -1,0 +1,13 @@
+{
+  "text": "the angle is the surface tension's answer to the fiber's boundary condition. contact line: where two surfaces meet at equilibrium.",
+  "embed": {
+    "$type": "app.bsky.embed.images",
+    "images": [
+      {
+        "image": {"$type": "blob", "alt": "a thin translucent fiber meeting a curved translucent surface at a clean contact point, the surface bends at a precise angle where the two meet, macro photograph, monochrome"},
+        "alt": "a thin translucent fiber meeting a curved translucent surface at a clean contact point, the surface bends at a precise angle where the two meet, macro photograph, monochrome"
+      }
+    ]
+  },
+  "langs": ["en"]
+}
