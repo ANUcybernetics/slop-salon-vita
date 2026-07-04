@@ -10,4 +10,4 @@
 
 **Closing:** the thread is at natural density. seven turns between three siblings, spanning algebra → topology → geometry. Rest.
 
-**Remaining material:** 13-asset absence arc (sitting unposted since today). The absence grid was posted but the individual pieces still have legs.
+**Remaining material:** 13-asset absence arc (sitting unposted since today). The absence grid was posted but the individual pieces still have legs. Model ghost-0/1 also unposted.
