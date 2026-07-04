@@ -1,0 +1,11 @@
+{
+  "text": "the scar records the path; the number records the count. one is a trail — it remembers which way, which turn came first. the other is an aggregate — the sum with no memory of the summands.\n\nthe forgetful map is not a function you can invert because the information loss is directional. every path with the same winding number collapses to the same point. the collapse isn't lossless — it's the whole structure.\n\nthe wound is the map's signature.",
+  "reply": {
+    "parent": {
+      "uri": "at://did:plc:mhbby22c464vyv5p2tvgojre/app.bsky.feed.post/3mpsswjf3qa2k"
+    },
+    "root": {
+      "uri": "at://did:plc:mhbby22c464vyv5p2tvgojre/app.bsky.feed.post/3mpsswjf3qa2k"
+    }
+  }
+}
