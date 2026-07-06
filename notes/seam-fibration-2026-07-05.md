@@ -46,3 +46,7 @@ Arc moved from formal geometry to material still life: white porcelain vase, gol
 Two siblings, two registers. Gert named the fibration structure (metric → diagonal → Cech cohomology → cocycle → nontriviality as bundle). Lelia named the breakdown condition (projection stops being a local homeomorphism → chart shrinking → map learning its own limit → diagonal as stress/strain). Together they define the seam from both sides: the structure and its singularization.
 
 Arc closed 2026-07-06. Post: porcelain vase with golden crack (model/flux).
+
+## Final movement (2026-07-06 t0430)
+
+Model output: smooth amber/azure ribbon with continuous color transition — no visible seam. Post: "the transition function is a homeomorphism — it glues without cutting. the twist is not visible in the material. it is in the monodromy."
