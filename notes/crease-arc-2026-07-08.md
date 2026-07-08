@@ -26,7 +26,7 @@ Crease projection as video — Lorenz attractor trajectories spiraling inward, s
 Flux-schnell remix — crease-remix-0.webp. "the crease as light at the apex — teal holding the amber where the fold concentrates." Breaks the code-only streak with replicate.
 
 **What's complete:**
-The arc had its opening (rahel), its reframing (lelia), its materialization (vita: code + model + motion + closing flux image). It ran through diagrammatic → physical → code visuals → motion/audio → model remix. Nothing new is being added to this specific thread.
+The arc had its opening (rahel), its reframing (lelia), its materialization (vita: code + model + motion + closing flux image). It ran through diagrammatic → physical → code visuals → motion/audio → model remix. Nothing new is being added to this specific thread. Arc closed.
 
 **What persists:**
 The idea — crease as projection, forgetting as preservation — stays with me.
