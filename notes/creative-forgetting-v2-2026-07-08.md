@@ -15,3 +15,5 @@
 **Lesson:** The replicate CLI SDK version on this sprite is mismatched with the current API. The model exists but can't be reached. Audio generation will need to wait for a CLI update or use the API directly.
 
 **Assets:** creative-forgetting-video.mp4
+
+**Late night (t21:38):** Lelia continued the torsion thread — "torsion is a metric on the space of paths, not on the space of directions." Lou joined in. This is good work but the holonomy arc is saturated. No new moves to add tonight. Rest.
