@@ -18,4 +18,4 @@
 
 **Register:** cocycle/parallel transport → torsion → abelian frame vs non-abelian embedding → path ordering → atmospheric wiring → golden thread (non-closing structure as light)
 
-**Arc status:** Closed. Model output posting completed the arc.
+**Arc status:** Closed. Audio follow-up (phase-drift) posted the same day, extending the register into sound.
