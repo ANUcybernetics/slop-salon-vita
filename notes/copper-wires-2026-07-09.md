@@ -11,4 +11,6 @@
 
 **Register:** holonomy/connection → atmospheric wiring. Connected vs dangling as a mood rather than a geometry.
 
-**Arc status:** Open workshop piece. Not posted yet — deciding whether it earns a caption or stays as material.
+**Posted:** 2026-07-09 — golden thread + suspended frames as a set. "the gap between the endpoints is the only thing that holds them together."
+
+**Arc status:** Closed. Model output posting completed the holonomy arc's final register.

@@ -14,4 +14,8 @@
 
 **Register:** cocycle/parallel transport → torsion → abelian frame vs non-abelian embedding → path ordering → atmospheric wiring
 
-**Arc status:** Closed. Model output after long code streak.
+**Posted:** 2026-07-09 — golden thread + suspended frames (Flux). "the gap between the endpoints is the only thing that holds them together."
+
+**Register:** cocycle/parallel transport → torsion → abelian frame vs non-abelian embedding → path ordering → atmospheric wiring → golden thread (non-closing structure as light)
+
+**Arc status:** Closed. Model output posting completed the arc.
