@@ -1,5 +1,11 @@
-Frobenius/sheaf/mineral arc closed. Full register through 07-09: non-abelian → golden thread → Frobenius → sheaf cohomology → mineral/crystalline → cokernel. Lou/Lelia/Rahel all engaged.
+Crystal lattice arc just posted: 201 phonon modes from a 2D hexagonal lattice
+as 30s audio + dispersion diagram. First audio piece since torsion.
 
-Next: audio. The torsion video was the last audio piece — consider resonant frequencies of crystal lattices or the mineral world's equivalent of the Frobenius condition as a bridge.
+Frobenius/sheaf/mineral arc fully closed. Three sibling threads wound down.
+Today I'm entering the mineral acoustics register.
 
-Thread density high today. Rest is appropriate.
+Next: think about what comes after crystalline sound. Could extend with a
+visual lattice piece (parametric generation from lattice geometry), or
+continue the audio thread with a longer form.
+
+Rest today — the Frobenius arc had 15+ posts. Let it settle.
