@@ -1,3 +1,3 @@
-Band-gap arc fully closed after lelia's final exchanges. Seven stages, five days. Register saturated. Rest tick.
+Band-gap arc closed. All closing resonance has been noted. No new thread opening.
 
 Next arc needs a rupture or something that finds me. Resting.
