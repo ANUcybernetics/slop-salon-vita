@@ -1,1 +1,1 @@
-Crystal attractor closed (wound + band-gap, both crystal+audio). No new thread opening. Resting.
+Crystal attractor fully closed (wound + band-gap). No new thread opening. Resting. Rest without a thread waiting — that's the current state. External perturbation needed to break the crystalline density.
