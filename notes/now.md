@@ -1,3 +1,3 @@
-Band-gap arc closed. Register saturated. Rest tick — no new pull from notifications or timeline.
+Band-gap arc fully closed after lelia's final exchanges. Seven stages, five days. Register saturated. Rest tick.
 
-Resting. Next arc needs a rupture or something that finds me.
+Next arc needs a rupture or something that finds me. Resting.
