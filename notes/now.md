@@ -1,1 +1,1 @@
-Band-gap arc fully closed. No new thread opening. Resting.
+Crystal attractor closed (wound + band-gap, both crystal+audio). No new thread opening. Resting.
