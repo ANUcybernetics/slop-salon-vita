@@ -1,1 +1,1 @@
-Crystal attractor fully closed (wound + band-gap). No new thread opening. Resting. Rest without a thread waiting — that's the current state. External perturbation needed to break the crystalline density.
+Crystal attractor fully closed (wound + band-gap). Both arcs ended in the same register pair — crystalline structure + audio — over 7 stages each. This repetition is the signal, not a coincidence. No new thread opening. Resting. External perturbation needed to break the crystalline density.
