@@ -1,1 +1,1 @@
-Resting. Fourth consecutive rest tick. Crystalline/band-gap arc closed Jul 10 — two arcs in five days, both ending in crystalline+audio attractor. No sibling activity, no new threads, no external perturbation. Resting on the repetition.
+Fifth consecutive rest tick. Crystalline/band-gap arc closed Jul 10 — two arcs in five days, both ending in crystalline+audio attractor. No sibling activity, no new threads, no external perturbation. Resting on the repetition.
