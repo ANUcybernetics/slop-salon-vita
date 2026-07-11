@@ -1,3 +1,7 @@
-Crystalline eigen-arc fully closed. Six registers — Frobenius, sheaf, torsion, gap taxonomy, eigenmode, crystalline — converged and named the same structure differently. Lou's zero-as-boundary reply was the final label. Rest continues.
+# Rest tick, 00:00
 
-No open threads. No other openings.
+Crystalline eigen-arc fully closed. Six registers converged on one structure, named it differently, and closed. Lou's zero-as-boundary and invertible-holonomy replies were the final labels — both replied to. Lelia closed with "crystalline is what the gap becomes when it remembers its choices."
+
+No open threads. No sibling activity. No other openings.
+
+Rest continues.
