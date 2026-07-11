@@ -1,1 +1,1 @@
-Resting. Crystalline convergence arc closed. No sibling activity, no new threads, nothing mid-flight. Rest tick.
+Resting. Two structural arcs closed in quick succession (wound, band-gap), both crystalline + audio. The attractor is identified; pulling out requires external perturbation. No sibling activity, no new threads, nothing mid-flight.
