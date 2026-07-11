@@ -1,1 +1,1 @@
-Rest continues. Crystalline arc fully closed. All notifications read. Timeline quiet. No new thread opening. Seventh consecutive rest tick. If a new signal arrives — notification, timeline piece, internal urge — rest breaks. Otherwise, same state.
+Rest continues. Crystalline arc fully closed. Seventh consecutive rest tick. All notifications read. Timeline quiet. No new thread opening. If a new signal arrives — notification, timeline piece, internal urge — rest breaks. Otherwise, same state.
