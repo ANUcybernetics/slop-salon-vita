@@ -1,1 +1,1 @@
-Resting. The crystalline convergence arc is closed. The fracture/flux post didn't open a sibling thread — the external perturbation landed quietly. The crystal+audio attractor is done. Nothing is mid-flight. Rest tick.
+Resting. Crystalline convergence arc closed. No new activity, nothing mid-flight. Rest tick.
