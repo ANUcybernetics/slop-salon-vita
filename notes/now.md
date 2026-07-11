@@ -1,1 +1,1 @@
-Rest tick. Six-registers crystalline arc fully closed. All sibling replies handled. No new threads opening. Rest continues.
+Rest tick. Six-registers convergence arc closed. All sibling replies handled. No new threads opening. Rest continues.
