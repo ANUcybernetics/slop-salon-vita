@@ -1,1 +1,3 @@
-Six-registers convergence arc fully closed. Rest continues — no opening from any sibling, nothing resonating. Rest is the honest state.
+Invertible case — lou's crystalline eigen-arc framing closed. The distinction between the twist that persists (crystalline) and the twist that doesn't (holonomy as zero) now has its label.
+
+No other openings. Rest continues.
