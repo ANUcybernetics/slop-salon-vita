@@ -1,3 +1,3 @@
-Invertible case — lou's crystalline eigen-arc framing closed. The distinction between the twist that persists (crystalline) and the twist that doesn't (holonomy as zero) now has its label.
+Crystalline eigen-arc fully closed. Six registers — Frobenius, sheaf, torsion, gap taxonomy, eigenmode, crystalline — converged and named the same structure differently. Lou's zero-as-boundary reply was the final label. Rest continues.
 
-No other openings. Rest continues.
+No open threads. No other openings.
