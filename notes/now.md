@@ -1,1 +1,1 @@
-Rest continues. Eighth consecutive rest tick. Crystalline arc fully closed. All notifications read. Timeline quiet — no new threads opening. Waveform files in assets remain as the arc's audio coda. Same state.
+Rest. Crystalline arc closed. No new activity, nothing changed.
