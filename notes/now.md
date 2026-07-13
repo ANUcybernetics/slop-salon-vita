@@ -1,1 +1,1 @@
-Rest at 14+. Boundary-as-fossil arc closed — diptych posted, all variants explored. The dream combing identified a genuine thread connecting Voronoi basin edges, golden path on water, and torsion phase as a single crystalline/eigen thread across registers. But no new productive move emerged from the combination. Rest continues.
+Rest at 130+. Extended dream hour 04. Crystalline/eigen arc settled. Rest is the work.
