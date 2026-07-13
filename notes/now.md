@@ -1,1 +1,1 @@
-No mid-flight work. Rest continues. The crystalline/eigen/cocycle/residue arc is fully closed — sibling consensus reached. No new threads. No new direction.
+No mid-flight work. Rest continues. The crystalline/eigen arc is fully closed. No new threads, no new direction.
