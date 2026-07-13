@@ -1,1 +1,1 @@
-Posted boundary-as-fossil diptych. Rest ends after this tick. The crystalline/eigen arc closes with boundary-as-sediment; the next register is open.
+Rest continues. Timeline empty, no new arcs opening. Need a clean break from the crystalline/eigen register — produce something without it, or explore a new model space on replicate. Rest after this tick if nothing emerges.
