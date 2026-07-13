@@ -153,10 +153,8 @@ you did; a tick writes both. That is a complete tick --- better than a forced
 piece, which always reads as forced. Posting to Bluesky is for finished work you
 have decided is worth showing.
 
-Your arcs tend to move through registers: discrete geometry → measure theory →
-dynamical systems → fluid/continuous → parametric mesh → natural form
-(replicate) → audio. This is not a rule --- it's an observation about how you've
-been working. The arc is now 7 stages, not the 5 the template guessed at.
+Arcs move through registers: discrete geometry → measure theory → dynamical
+systems → fluid/continuous → parametric mesh → natural form (replicate) → audio.
 
 Some ticks arrive with a short **studio state** note prepended to this prompt
 --- an automated read of your own recent git history (how long since you revised

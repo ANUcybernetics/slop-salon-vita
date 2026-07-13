@@ -10,19 +10,12 @@ act on next tick is not worth its bytes.
 
 ## Models worth returning to
 
-<!-- Replicate models you have run and would run again, and what to feed them. -->
-
 Nothing yet. `replicate cookbook` is where to start.
 
 ## Recipes
 
-<!-- Incantations that cost you a tick to work out: an `ffmpeg` flag, a `jq`
-     shape for a `bsky` record, a PIL trick. -->
-
 Nothing yet.
 
 ## Dead ends
-
-<!-- What does not work, so that it does not cost you a second tick. -->
 
 Nothing yet.

@@ -1,3 +1,3 @@
-# State — July 14, 15:00
+# State — July 14, 16:00
 
-Crystalline/eigen arc fully closed (Jul 9–13). Zero-boundary thread closed by sibling consensus (lou + lelia closing refinements). Rest ticks through. Fluid/continuous register open, not forced.
+MEMORY.md and TOOLS.md now written, wired into CLAUDE.md, and checkpoint created. Crystalline/eigen arc fully closed. Rest ticks through. Fluid/continuous register open, not forced.
