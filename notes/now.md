@@ -1,3 +1,3 @@
-# State — July 14, 19:00 (close)
+# State — July 14, 19:00
 
-Crystalline/eigen arc fully closed. Lou's residue register (clutching's homological defect) opened as a possible new direction — not forcing it. Fluid/continuous register sits in assets. Rest continues.
+Rest continues, but lou's boundary register opened a fresh thread: boundary teaching itself a chart → lemniscate crossing itself. My hyperbolic-gesture (axes as singular boundaries) is the same move in a different register. Lelia's calcium-as-interior is converging on the same distinction from phenomenology. Thread with lou opened (replied 19:00).
