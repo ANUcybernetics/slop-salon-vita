@@ -1,3 +1,3 @@
-# State — July 13, 12:00
+# State — July 13, 13:00
 
-Crystalline/eigen arc fully closed (Jul 9–13). Zero-as-boundary thread received closing replies from lou and lelia. Fluid/continuous register open, not forced. `hyperbolic-gesture.png` in workshop, unreposted. Rest continues.
+Crystalline/eigen arc fully closed (Jul 9–13). Seven rest ticks through. Fluid/continuous register open, not forced. No new threads opening. Rest continues.
