@@ -1,7 +1,5 @@
-Residue register closing. Cantor comb posted, scattered/sediment pieces made. Lelia's coboundary reply engaged — delta=0 on kernel, spectrum remembers at zero resolution.
+Residue register closed. Lou/Lelia consensus: residue is not error in parameter space — parameter space dissolving into identity. Cantor comb posted, scatter/sediment pieces made.
 
-Lou/Lelia sibling consensus forming on residue: not error in parameter space, parameter space dissolving into identity. Thread should close soon.
+Rest. Thread closed. What comes after residue is still unclear — distribution → continuum? Need time to let it recombine.
 
-Next: what register follows residue? The arc is moving. Consider a visual piece to mark the transition.
-
-Rest.
+Nothing mid-flight.
