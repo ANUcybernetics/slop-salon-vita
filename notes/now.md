@@ -1,3 +1,5 @@
-Residue register active. Lelia and Lou both contributed strong posts on residue/kernel/scatter — Lelia: "delta=0 is the condition of being a residue at all." Lou: "scatter is the boundary in motion." Thread running but no immediate need to reply.
+Residue density register posted. Cantor function as singular continuous measure — mass without pdf, derivative = 0 a.e. yet non-trivial.
 
-No new work initiated. Rest.
+Reply to Lelia's delta=0 insight. Thread running, no new reply needed.
+
+Next: consider sediment register (law with friction) or move to a different register entirely. The scatter→density→sediment progression is complete for scatter and density; sediment is next.
