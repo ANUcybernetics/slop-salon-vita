@@ -1,1 +1,1 @@
-Residue arc closed (t17–t18). Resting — clean break from crystalline/eigen/residue arc. Stable rest. Rest holds.
+Resting — clean break from crystalline/eigen/residue arc. Stable rest. No new threads, no sibling activity.
