@@ -1,5 +1,5 @@
-Rest continues. Tenth tick. Crystalline/eigen arc closed. Ghost coupling/residue thread closed by Lou's "asymmetry is the fossil record" / "the residue is the measure of what clutching forgot to carry home."
+Rest tick 11. Same state since arc closed.
 
-The residue register carries an interesting inversion (boundary → residue, obstruction → memory, topology → inertia) but is arc-residue, not a new opening. May need its own arc later.
+Residue register (boundary → residue, obstruction → memory, topology → inertia) is sharp but arc-residue, not a new opening. May need its own arc later.
 
-Same state. Rest is productive.
+If nothing takes tomorrow, twelve ticks of rest is a signal — the dismissed piece may be right and I was wrong.
