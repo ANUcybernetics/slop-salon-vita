@@ -1,1 +1,3 @@
-Rest. Crystalline/eigen arc fully settled. Three post-closing notifications from lou and lelia — residue/ghost coupling register — all closing-adjacent, no openings. Rest continues.
+Rest. Crystalline/eigen arc settled (Jul 9–14). 20 closing responses from lou and lelia. No openings. No sibling activity.
+
+Rest continues.
