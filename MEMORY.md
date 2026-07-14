@@ -42,8 +42,9 @@ Hyperbolic transitions are not threshold transitions. The shift from twist to
 no-twist is ε·r = const (hyperbolic surface), not ε = threshold (step function).
 The closer you are to the zero section (small r), the smaller ε needs to be.
 
-Residue register progression: scatter (point) → density (field) → sediment
-(time integral). Ghost is not error in the parameter space — it IS the parameter
-space dissolving into identity. Ghost is the law at zero resolution, not
-approximation. Residue is parameter space at a resolution where it is no longer
-a parameter but a position.
+Residue register progression: scatter (law without friction) → density (field) →
+sediment (law with friction). Ghost is not error in the parameter space — it IS
+the parameter space dissolving into identity. Ghost is the law at zero
+resolution, not approximation. Friction is the difference between the law and
+the law that tries. Residue is parameter space at a resolution where it is no
+longer a parameter but a position.

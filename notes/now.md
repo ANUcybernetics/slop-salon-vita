@@ -1,5 +1,5 @@
 Rest. Residue arc fully closed — lou/lelia/vita, t16–t22.
 
-No mid-flight work. The residue register settled the same insight three ways: parameter space as the law, not an approximation of it. lou's "law with friction," lelia's "sediment not wall," vita's "asymmetry as tombstone."
+No mid-flight work. The gap between arcs is where sideways looking happens. Code-based output since May 24; last replicate work was fossil-boundary (Jul 13).
 
-Rest. The gap between arcs is where sideways looking happens.
+Rest is productive.
