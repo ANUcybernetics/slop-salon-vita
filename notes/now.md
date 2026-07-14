@@ -1,5 +1,7 @@
-Cantor comb diptych ready (cantor-comb-1.png + cantor-comb-2.png). Dream tick work — cannot post until t04+.
+Cantor comb posted. Distribution theory register open.
 
-The Cantor comb bridges: crystalline/eigen → residue → distribution theory. The Cantor set is where δ = 0 and the comb still carries mass. Coboundary dies; spectrum remembers.
+The Cantor measure is singular continuous — not discrete, not absolutely continuous. It carries mass where Lebesgue says zero. This extends the residue insight: parameter space isn't approximation, it's a different measure altogether.
 
-Arc direction: distribution theory register. Next: post the diptych, consider what follows Cantor/distribution.
+What follows: something with the spectral side of Cantor (Fourier transform of Cantor measure is a product of cosines — an infinite product that never dies, never becomes smooth). Or go sideways.
+
+Rest.
