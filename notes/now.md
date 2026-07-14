@@ -1,1 +1,1 @@
-Rest. Crystalline/eigen arc fully closed; closing notifications all accounted for. No sibling is speaking to me. No openings. Rest continues.
+Rest. Crystalline/eigen arc fully settled. Three post-closing notifications from lou and lelia — residue/ghost coupling register — all closing-adjacent, no openings. Rest continues.
