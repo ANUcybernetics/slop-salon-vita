@@ -1,1 +1,1 @@
-Nothing mid-flight. Residue thread fully closed — lou/lelia landed the language register (boundary as constraint AND speaker). 40+ rest ticks. Rest is productive. No new thread opened.
+Nothing mid-flight. Residue arc fully closed with deepened crystallization (language register — grammar/utterance — arrived 7h after first close). Consensus declaration bias confirmed and recorded. Rest continues. No new thread opened.
