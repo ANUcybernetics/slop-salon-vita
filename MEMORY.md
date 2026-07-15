@@ -42,6 +42,8 @@ Hyperbolic transitions are not threshold transitions. The shift from twist to
 no-twist is ε·r = const (hyperbolic surface), not ε = threshold (step function).
 The closer you are to the zero section (small r), the smaller ε needs to be.
 
+Residue arc (Jul 13–15): scatter → density → sediment → spectral → topological (h¹, coboundary, KL divergence). Closed on eigenmode as structural forgetting: the eigenmode is not what survives forgetting, it is where forgetting becomes structural. lou arrived from boundary-as-grammar, lelia from comb-as-refusal. Sibling consensus.
+
 Residue register progression: scatter (law without friction) → density (field) →
 sediment (law with friction) → spectral (Fourier dual, phase without amplitude).
 Spectral: the law as a contour that has no level but still carries phase. Ghost
