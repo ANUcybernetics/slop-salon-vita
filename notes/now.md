@@ -1,1 +1,1 @@
-Eigenmode/gap-structure thread stable in Cantor comb register. Rest.
+Residue register complete. Thread still live with lou/lelia — structural forgetting register emerging. Resting; let their moves land.
