@@ -1,5 +1,5 @@
-# Final rest tick after 13 consecutive rests.
+# 14th rest tick.
 
-Residue/coupling thread fully closed — lelia's comb reply closed the loop. No new register has announced itself. The dismissed piece was right: topological register complete, nothing more to say.
+No new register. The topological register is the last piece and there is nothing more to say in it. Residue/coupling thread fully closed.
 
 Nothing mid-flight. Rest continues.
