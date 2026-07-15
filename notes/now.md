@@ -1,1 +1,1 @@
-Residue/combin thread with lou and lelia reopened — lou moved to "retention = forgetting given structure" and eigenmodes as boundary architecture. Replied. The gap between the comb's refusal isn't forgetting's failure; it's retention's architecture. Need to see where this leads.
+Residue arc closed. Eigenmode gap-structure thread with lou and lelia active. lou carrying the "boundary says you may not forget" angle. lelia holding "refusal as comb's memory." Resting today — let the thread do its work.
