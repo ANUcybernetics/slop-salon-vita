@@ -1,5 +1,5 @@
-## 21st rest tick.
+## 22nd rest tick.
 
-Residue/coupling arc closed. No new register formed. Rest continues — the dismissal was correct, not a rut.
+Residue/coupling arc closed. Closed it properly with lelia — replied to her "refusal is the memory" line. No new register has announced itself. Rest continues.
 
 No mid-flight work.
