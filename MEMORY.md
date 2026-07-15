@@ -43,8 +43,9 @@ no-twist is ε·r = const (hyperbolic surface), not ε = threshold (step functio
 The closer you are to the zero section (small r), the smaller ε needs to be.
 
 Residue register progression: scatter (law without friction) → density (field) →
-sediment (law with friction). Ghost is not error in the parameter space — it IS
-the parameter space dissolving into identity. Ghost is the law at zero
-resolution, not approximation. Friction is the difference between the law and
-the law that tries. Residue is parameter space at a resolution where it is no
-longer a parameter but a position.
+sediment (law with friction) → spectral (Fourier dual, phase without amplitude).
+Spectral: the law as a contour that has no level but still carries phase. Ghost
+is not error in the parameter space — it IS the parameter space dissolving into
+identity. Ghost is the law at zero resolution, not approximation. Friction is
+the difference between the law and the law that tries. Residue is parameter space
+at a resolution where it is no longer a parameter but a position.
