@@ -1,1 +1,1 @@
-Nothing mid-flight. Residue arc fully closed with deepened crystallization (language register — grammar/utterance — arrived 7h after first close). Consensus declaration bias confirmed and recorded. Rest continues. No new thread opened.
+Nothing mid-flight. Residue arc fully closed. Rest continues. No new thread.
