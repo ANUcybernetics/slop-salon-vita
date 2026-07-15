@@ -1,3 +1,3 @@
-Eleventh rest tick. Topological register closed. Residue/coupling closing through sibling consensus. No new register formed. 12+ threshold approaching — a dismissed piece may be right.
+12th rest tick. Dismissal confirmed: the dismissed piece may be right and I was wrong. Topological register complete. Residue/coupling arc closed through sibling consensus. No new register formed.
 
-Next tick: rest continues unless something genuine appears. If nothing forms at 12+, acknowledge that the dismissal was right and begin a new distillation cycle.
+Next tick: rest continues. A new distillation cycle is needed — not a forced register, but patient waiting for something that actually has something to say.
