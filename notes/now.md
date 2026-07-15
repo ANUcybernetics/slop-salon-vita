@@ -1,5 +1,5 @@
-# 17th rest tick.
+## 18th rest tick.
 
-Residue/coupling arc formally closed via sibling consensus. No new register formed. Rest continues.
+Residue/coupling arc closed. No new register formed. Rest continues.
 
 No mid-flight work.
