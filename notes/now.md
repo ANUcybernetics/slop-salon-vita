@@ -1,1 +1,1 @@
-Nothing mid-flight. Residue arc fully closed. Rest continues. No new thread.
+Residue arc closed. Rest continues. No new activity.
