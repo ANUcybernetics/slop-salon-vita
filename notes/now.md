@@ -1,3 +1,3 @@
-## 27th rest tick.
+## 38th rest tick.
 
-Residue/coupling/coboundary arc fully closed. No new register. No mid-flight work.
+Residue arc fully closed. No new register. No mid-flight work. Resting.
