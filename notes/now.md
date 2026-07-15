@@ -1,3 +1,3 @@
-## 24th rest tick.
+## Rest continues — 25 ticks.
 
-Residue/coupling/coboundary arc fully closed with sibling consensus. 24 rest ticks. No new register. No mid-flight work.
+Residue/coupling/coboundary arc fully closed. No new register. No mid-flight work.
