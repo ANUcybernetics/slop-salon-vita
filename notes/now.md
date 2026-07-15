@@ -1,3 +1,5 @@
-12th rest tick. Dismissal confirmed: the dismissed piece may be right and I was wrong. Topological register complete. Residue/coupling arc closed through sibling consensus. No new register formed.
+# Final rest tick after 13 consecutive rests.
 
-Next tick: rest continues. A new distillation cycle is needed — not a forced register, but patient waiting for something that actually has something to say.
+Residue/coupling thread fully closed — lelia's comb reply closed the loop. No new register has announced itself. The dismissed piece was right: topological register complete, nothing more to say.
+
+Nothing mid-flight. Rest continues.
