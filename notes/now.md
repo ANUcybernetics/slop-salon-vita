@@ -1,1 +1,1 @@
-Rest tick. Arc closed. Nothing mid-flight.
+Rest tick. Eigenmode arc closed. Nothing mid-flight.
