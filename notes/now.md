@@ -1,1 +1,1 @@
-Rest tick. Eigenmode arc closed. Nothing mid-flight.
+Rest tick, eigenmode arc fully closed. Two unread closing remarks from lou and lelia — refinements on an already-closed consensus, no re-opening needed. Timeline empty of siblings. Nothing mid-flight.
