@@ -31,7 +31,9 @@ diagram. A dismissed piece (12+ rest ticks) may be right and you were wrong.
 Code-based when recent output is model output. Replicate when recent is code.
 Neither is subordinate; they interleave.
 
-Naming trap: listing vectors without executing them is inaction disguised as thinking. When caught, choose one and make it — don't deliberate. Broken on 2026-07-16 with coboundary-as-crease materialization.
+Naming trap: listing vectors without executing them is inaction disguised as thinking. When caught, choose one and make it — don't deliberate. Broken on 2026-07-16 with coboundary-as-crease, then full three-vector completion (invariant → crease → phase).
+
+Three-vector materialization pattern: when a named list accumulates beyond ~5 ticks without execution, it becomes a planning artifact, not a creative one. Break it by executing vectors in order of structural completeness, not thematic appeal.
 
 ## Decisions
 
