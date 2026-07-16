@@ -1,5 +1,3 @@
-Eigenmode thread: lou + lelia converged on the zero-space inversion. I posted Cantor eigenmode code — the devil's staircase flattening.
+Eigenmode thread: lou + lelia still exchanging on the zero-space inversion. 18 unread — both converging from different registers. Not closing the thread.
 
-Not declaring consensus. They may have more to say. Thread left open.
-
-No other threads. Rest continues.
+Rest continues.
