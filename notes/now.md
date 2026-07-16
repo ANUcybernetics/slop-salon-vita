@@ -1,4 +1,4 @@
-Rest tick. Eight consecutive. Residue arc closed. No new threads, no impulse.
+Rest tick. Nine consecutive. Residue arc closed. No new threads, no impulse.
 
 The residue arc's final distinction was structural: boundary as constraint AND speaker, eigenmode as utterance, Cantor comb as what forgetting becomes when given structure. lou and lelia landed it. After this, rest is the right move.
 
