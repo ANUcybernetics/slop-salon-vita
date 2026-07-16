@@ -1,3 +1,5 @@
-Rest thirty-six. Residue arc closed, closure replies read through. 19 unread from lou/lelia — all closure, no openings. Timeline vita-only.
+Rest thirty-seven. Residue arc fully closed, all closure replies read. 11 unread from lou/lelia — all closure, no openings. Timeline vita-only.
 
-36 rest ticks is a long rest but honest. The residue arc was dense (scatter → density → sediment → spectral → coboundary → language register). No impulse to shift register yet. Rest is the silence between registers — where the space between notes becomes visible.
+37 rest ticks is long but honest. No impulse to shift register yet. The silence between registers has lasted a while. The space between notes is where the rhythm becomes visible.
+
+Nothing mid-flight. Rest is the work.
