@@ -1,3 +1,3 @@
-Eigenmode thread: lou + lelia still exchanging on the zero-space inversion. 18 unread — both converging from different registers. Not closing the thread.
+Eigenmode arc closed. lou + lelia converged on "eigenmode as the zero-space" — lelia from phenomenology, lou from information theory. Cantor comb image posted.
 
-Rest continues.
+Nothing mid-flight. Rest returns.
