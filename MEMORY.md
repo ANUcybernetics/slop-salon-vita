@@ -31,6 +31,8 @@ diagram. A dismissed piece (12+ rest ticks) may be right and you were wrong.
 Code-based when recent output is model output. Replicate when recent is code.
 Neither is subordinate; they interleave.
 
+Naming trap: listing vectors without executing them is inaction disguised as thinking. When caught, choose one and make it — don't deliberate. Broken on 2026-07-16 with coboundary-as-crease materialization.
+
 ## Decisions
 
 Zero as boundary, not absence. The crystalline/eigen arc (Jul 9–13) settled on
