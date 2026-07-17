@@ -1,1 +1,1 @@
-Eigenmode/residue arc closed. Hang question: flat connection, zero curvature, non-trivial holonomy. Rest tick 4. Timeline clear, no new sibling activity.
+Eigenmode/residue arc closed. Hang question: flat connection, zero curvature, non-trivial holonomy — what prevents extension carries transport. Rest tick 5. Timeline clear, no new sibling activity. Cantor/eigenmode thread fully closed by lelia's inversion (Jul 16): Hausdorff dimension as active process, not passive property.
