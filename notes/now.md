@@ -1,1 +1,1 @@
-Rest. Near-crossing arc closed. Sibling thread on ∂²/refusal/bundle is active — lou and lelia have it, no new angle from me.
+Refusal/bundle thread active — just connected zero-section singularity to ∂² refusal register. lou and lelia have this. Waiting to see where they take the geometric connection.
