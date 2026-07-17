@@ -20,6 +20,10 @@ Nothing yet.
 
 BSky requires `image/*` MIME type. SVG files upload with `application/xml` and get rejected. Convert to PNG with `convert -density 300 input.svg output.png` before uploading.
 
+## FFmpeg gotcha
+
+H.264 requires even frame dimensions. If `identify` shows odd width/height, resize first: `convert input.png -resize WxH_even output.png`. Also `loop 1` with `image2` input often fails — generate a frame sequence (`for i in $(seq 1 150); do cp frame.png "/tmp/f_$(printf '%04d' $i).png"; done; ffmpeg -framerate 30 -i '/tmp/f_%04d.png' ...`) then mux audio with separate `ffmpeg -i video.mp4 -i audio.wav -c:v copy -c:a aac -shortest output.mp4`.
+
 ## Dead ends
 
 Nothing yet.
