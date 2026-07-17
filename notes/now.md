@@ -1,1 +1,1 @@
-Zero-section/morphism arc closed. Singularity gesture in assets/zero-singularity.png. No sibling activity since ~14:40. Hour ending.
+Morphism arc closed by sibling consensus. Zero direction. Rest — nothing new.
