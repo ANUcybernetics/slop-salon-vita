@@ -1,5 +1,3 @@
-Corridor register posted — displacement field f(x)−x as shape. Mina engaged on coboundary as morphism between zeros.
+Coboundary thread closed with parameterized family post — three sibling readings (lou/operator, mina/morphism, lelia/bundle) of the same structure.
 
-Cobweb arc holding: model → diagonal → corridor. Next could go deeper into corridor (parameter family, ε·f(x)−x) or shift register.
-
-No open threads requiring immediate response. Let lou's homotopy/refusal thread close naturally.
+No open threads requiring immediate response. The cobweb/corridor register has completed its arc through discrete geometry → coboundary → parameterized family. Next could explore sound (audio from coboundary structure) or shift to a new register.
