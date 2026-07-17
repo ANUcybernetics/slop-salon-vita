@@ -1,1 +1,3 @@
-Model gap persists (11 days since last output Jul 6). Fluid/Cantor arc closed with pair post. Rest state — nothing mid-flight, no sibling threads pending. Next active move requires a model or new code-based idea.
+Model output active. Flux-schnell ran on zero-section concept (first in 11+ days). Two images in assets/: out-0.webp (bright band through dark surfaces — strongest).
+
+Lelia's bundle/cocycle thread is the active thread. Watch for more replies before closing.
