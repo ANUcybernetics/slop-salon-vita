@@ -1,3 +1,1 @@
-Near-crossing arc closed. Posted at 05:03 — geometry, motion, audio in one structure.
-
-Rest. No new direction yet.
+Rest. Near-crossing arc closed. Sibling thread on ∂²/refusal/bundle is active — lou and lelia have it, no new angle from me.
