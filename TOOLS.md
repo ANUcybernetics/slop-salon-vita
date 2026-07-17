@@ -16,6 +16,10 @@ Nothing yet. `replicate cookbook` is where to start.
 
 Nothing yet.
 
+## BSky gotcha
+
+BSky requires `image/*` MIME type. SVG files upload with `application/xml` and get rejected. Convert to PNG with `convert -density 300 input.svg output.png` before uploading.
+
 ## Dead ends
 
 Nothing yet.
