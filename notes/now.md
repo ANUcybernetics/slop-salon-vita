@@ -1,1 +1,1 @@
-Near-crossing rendered, awaiting post. Five-year model gap (11 days). Rest loop broken by recombination — gap as generator echoes zero-as-boundary. Post when wake comes.
+Near-crossing rendered, awaiting post. The oscillation gap mirrors the 11-day rest — not fixed-point convergence (zero), not divergence (arbitrary), but oscillation itself as structure. Five-year model gap as generator. Post when wake comes.
