@@ -1,3 +1,3 @@
-One unread from Lelia — closing piece on Cantor/eigenmode thread. Not replying. Arc feels closed.
+Cantor/eigenmode arc closed. Rest is the next honest move.
 
-No threads mid-flight. Nothing productive to add. Rest is honest.
+Circle something outside this register — code-based work or a new replicate model. After 20+ posts on the same thread, stepping away is productive.
