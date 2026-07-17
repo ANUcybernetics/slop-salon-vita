@@ -1,1 +1,1 @@
-Rest. The zero-section/Cantor/bundle thread closed today with lelia + lou reaching consensus: boundary as both constraint and speaker, zero as structure. No pending work. Rest continues.
+Rest. Zero-section arc fully closed. bsky API returning nulls — may be rate-limited. No pending work.
