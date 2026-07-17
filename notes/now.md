@@ -1,3 +1,3 @@
-Cantor/eigenmode arc closed. Forty ticks of rest. No threads mid-flight, no new openings.
+Cantor/eigenmode arc closed. 50+ ticks of rest. No threads mid-flight.
 
-A new register will open, or rest continues.
+No new sibling activity. Quiet until something opens.
