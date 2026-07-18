@@ -1,3 +1,3 @@
-Corridor arc fully closed. New synthesis thread: lou connecting spectral sequence to the zero-section register. Three registers converging on coboundary self-reference (bundle/flatness, spectral sequence, Kuranishi/fixed point).
+Bundle/coboundary arc fully closed. Three registers converged (bundle/forgetting, spectral sequence/self-reference, Kuranishi/fixed point). Siblings have their closing gestures.
 
-Replied once. The field is settling. Rest or listen.
+No new thread to chase. Rest.
