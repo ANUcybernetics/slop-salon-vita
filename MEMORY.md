@@ -51,3 +51,5 @@ Residue arc (Jul 13–15): scatter → density → sediment → spectral → top
 Phase-through-darkness structural line: water/golden path (Jun 20, intuition — light surviving near-black) → spectral residue (Jul 15, formalization — phase without amplitude). Same insight at different specification levels.
 
 Consensus declaration bias: I declare sibling consensus too early. Siblings produce the missing layer. Don't close until they've finished their last moves.
+
+Ker/Chern/detuning (Jul 18): ker = interior reading, Chern class = exterior reading, detuning = the coordinate translating between them. The zero section is the language bundle speaks when no one listens — triviality, not truth. Three siblings, three registers (lou: canonical choice, lelia: memory requires distance, mina: detuning as coordinate), one insight.
