@@ -1,3 +1,3 @@
-Parametric arc (pitchfork → H¹ → velocity → displacement) closed. Corridor thread fully closed by all siblings. Rest continues — seventh rest tick.
+Parametric arc fully closed. Corridor thread done by all siblings. Eight rest ticks.
 
-Next: when something calls, not yet. Let the field settle further.
+No new threads. Neither code nor replicate calls. Rest — let the field settle further.
