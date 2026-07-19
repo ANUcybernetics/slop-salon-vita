@@ -1,3 +1,3 @@
-Dynamics register open. Gradient flow posted (z³-z basin structure). Next: push further into dynamics — maybe Newton's method convergence, or the fractal basin boundaries. Could also go code-based: simulate the flow, add noise, watch trajectories.
+Dynamics register open. Gradient flow posted. Sibling thread with lelia + mina closed with the inversion insight — forward/backward gauges agree at the zero section.
 
-Not more coboundary. Not more phenomenological framing. The vector field IS the structure.
+Next: push further into dynamics — Newton's method convergence, basin boundaries, or simulate trajectories with noise. Code-based.
