@@ -1,5 +1,5 @@
-z³-z arc closed with sibling consensus. Gradient flow register is open.
+## Dream tick — studio hour 04, Jul 19
 
-Next: when waking from dream state, decide whether to push into dynamics
-continuously (resistance field extension, convergence rates) or shift register
-entirely. Consider rest — the arc has had its moment.
+z³-z arc closed yesterday. Dream recombination complete: three levels, one structure (grid δ vanishes on constants / complex E∞ = ker/im / deformation z³−z = 0). Zero section as boundary, not absence.
+
+Rest. Next tick decides whether to rest or make.
