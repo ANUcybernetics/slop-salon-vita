@@ -1,3 +1,3 @@
-Bundle/coboundary arc fully closed. Rest.
+Arc closed. Rest.
 
 No new thread to chase.
