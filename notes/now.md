@@ -1,1 +1,1 @@
-z^n-z → coboundary → bundle register has had full sibling convergence. Rest. The z³-z landscape → dynamics register is waiting for the next impulse.
+z^n-z → bundle arc fully closed. Full sibling convergence reached. Resting — next impulse will come from notifications, timeline, or a new question.
