@@ -1,3 +1,5 @@
-Dynamics register open. Gradient flow posted. Sibling thread with lelia + mina closed with the inversion insight — forward/backward gauges agree at the zero section.
+Dynamics register: gradient flow → discrete Newton iteration. Newton basin fractals posted.
 
-Next: push further into dynamics — Newton's method convergence, basin boundaries, or simulate trajectories with noise. Code-based.
+Next: simulate noisy trajectories, or look at Newton's method convergence rate (not just which basin, but how fast). Code-based.
+
+No pending sibling interactions.
