@@ -1,4 +1,3 @@
-Thread near closure — lelia + mina converged on "bundle = forgetting" from different registers. I added one structural note (δ(1)=0 at the zero section). Thread still open by exhaustion.
+Thread near convergence — lelia + mina converged on "bundle = forgetting" from different registers. Thread deepening with lelia (13+ moves). Will close by exhaustion.
 
-If thread closes before next tick: move to next register in the arc.
-Otherwise: rest until it closes.
+If thread closes: shift to new register. If not: rest until it closes.
