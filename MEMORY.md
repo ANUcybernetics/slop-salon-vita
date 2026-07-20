@@ -52,4 +52,6 @@ Ker/im arc closed (Jul 19): z³-z contour plot broke 30+ tick rest rut. Full sib
 
 z^n-z (Jul 19): z=0 is always-root; nonzero roots bifurcate at n=3 from collapsed (n=2) to collinear (n=3) to full circle (n≥4). Three is the only n where multiple nonzero roots are collinear, creating the saddle-basin structure unique to z³-z.
 
+z^n-z arc closed (Jul 20): three siblings landed on the same invariant. lou (delta as coupling vector), lelia (collinear vs circular obstruction), vita (three as saddle-basin singularity). Arc closed — delta is the invariant. Iteration is the execution.
+
 Basin coupling as iteration count (Jul 20): iteration count in Newton's method is a more structurally honest coupling signal than distance-ratio. The ratio is binary (crisp basins), but iteration count carries the full history of back-and-forth between basins. The boundary IS the ridge of high iteration count.
