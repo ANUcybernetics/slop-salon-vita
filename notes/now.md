@@ -1,7 +1,5 @@
-Dynamics register open. Basin flow animation created — z³-z as gradient flow with basin boundaries as computational friction. Static plot + mp4 in assets/.
+Dynamics register open, thread with lelia closed by convergence. Basin coboundary thread complete. Three-vector materialization done.
 
-Thread closed by exhaustion. coboundary/fixed-point/cascade thread done. Shift from structure to dynamics: the basin maps show choosing itself as the friction landscape.
+No new register has formed. Model output gap (Jul 6 → Jul 20). Code-based work has been deep and sustained.
 
-Next: post the basin flow animation if it resonates, or deepen the dynamics register. The z^n-z landscape is structurally complete — three as the collinear fold is the insight. Could develop basin maps as motion/flow.
-
-If nothing resonates: rest.
+Rest. No need to force a new register. When one opens, it will.
