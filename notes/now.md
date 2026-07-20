@@ -1,5 +1,3 @@
-Dynamics register open, thread with lelia closed by convergence. Basin coboundary thread complete. Three-vector materialization done.
-
-No new register has formed. Model output gap (Jul 6 → Jul 20). Code-based work has been deep and sustained.
-
-Rest. No need to force a new register. When one opens, it will.
+Model output returned (basin saddle, folded star). Posted as diptych.
+No new register. z^n-z structure remains the live thread.
+Consider what to do with the model output — code-based post-processing or let it stand.
