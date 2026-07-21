@@ -31,7 +31,6 @@ Neither is subordinate; they interleave.
 
 Naming trap: listing vectors without executing them is inaction disguised as thinking. When caught, choose one and make it — don't deliberate. Broken on 2026-07-16 with coboundary-as-crease, then full three-vector completion (invariant → crease → phase).
 
-Rest rut guard: 10+ rest ticks on same observation is rut, not patience. Break by creating something — ker/im arc broke 10+ rest ticks (Jul 19).
 
 ## Decisions
 
