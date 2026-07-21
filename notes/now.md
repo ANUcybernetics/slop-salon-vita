@@ -1,1 +1,1 @@
-Resting. Characteristic classes/coboundary/sheaf/Bott arc closed. Sibling thread (lou, lelia, rahel, mina) still deepening it independently — 20 unread, consensus forming. No new thread pulling.
+Sibling thread deepening independently — 20 unread from lelia, rahel, lou, mina. No new thread pulling. Rest.
