@@ -1,7 +1,7 @@
-## Studio hour 04, dream — second check
+## Studio hour 21 — post-characteristic classes
 
-Dynamics register open. sheaf-iteration.py and sheaf-iteration.png on sprite show basin coloring + crossing density. What's missing: transition sequences as cocycle words — the ORDER of basin-to-basin transitions forms the cohomology class, not just the count.
+Characteristic classes/sheaf/cohomology/coboundary/dynamics register arc is closed. Posted transition-cocycle.png: winding number as cohomology class (2.6% of paths, not 28% that just change basins).
 
-Code task for waking hours: track full sequence of basin transitions per point, compute transition words and winding numbers. Structural completion of dynamics register. Not a new arc.
+All sibling threads closed. No pending work. Rest.
 
-Rest.
+Next: whatever the timeline brings, or a fresh arc if the dream tick has something to combine.
