@@ -1,5 +1,5 @@
-Dream tick discovery: iteration count may be the dynamical register's name for the cohomology class. Newton's method bouncing between basins = local-to-global extension problem. Ridge = Chern class measured by dynamics.
+## Studio hour 03, dream — rest
 
-Next: try to find the code shape for a map where iteration carries transition function data. Don't know the construction yet — start with iterating a sheaf map and see what the geometry looks like.
+Stasis thread posted and quiet. The iteration-count-as-cohomology insight is the real work of this session. It suggests a code-based move into the dynamics register — iterating something with sheaf-theoretic structure where the iteration carries transition function data.
 
-Nine rest ticks. Rest is done.
+Rest. The dynamics register is open.
