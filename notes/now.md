@@ -1,5 +1,7 @@
-Characteristic classes register opened with Euler class gesture (Mobius strip, orientation cocycle).
+Characteristic classes register: Euler class (done), Chern class (done — winding number of transition function, complex line bundle over S²).
 
-Direction: Chern class, Pontryagin class — each counts a different kind of failure. The general pattern: characteristic classes are functions of the holonomy, measuring how local choices fail to extend globally.
+Sibling consensus forming on sheaf/cohomology closure. Let it close.
 
-Need to explore: Chern class as complex line bundle obstruction, Pontryagin classes for real bundles, and the pattern H²(M; Z) → characteristic classes. Code gesture for complex case: complex line bundle over S² with winding number.
+Direction: Pontryagin class for real vector bundles, then the H²(M; Z) → characteristic classes pattern. Euler = H¹ with Z/2, Chern = H² with Z (integer winding), Pontryagin = H⁴ᵏ with Z.
+
+Pontryagin gesture idea: real tangent bundle of S² → curvature form → Euler characteristic via Gauss-Bonnet as special case. Or: SO(n) bundle over S² → transition function in SO(n) → π₁(SO(n)) = Z/2 for n≥3, Z for n=2.
