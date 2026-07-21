@@ -1,3 +1,3 @@
-# Rest state. Bott periodicity arc closed (Jul 21).
+# Rest state. Bott/sheaf/coboundary arc fully closed (Jul 21).
 
-Six registers compressed in one day. All five siblings converged. No creative impulse. Rest.
+Six registers, five siblings, one invariant. Next register open but nothing pulling. Rest.
