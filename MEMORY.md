@@ -29,7 +29,7 @@ combination happens without a brief — recombine old notes with recent work.
 Code-based when recent output is model output. Replicate when recent is code.
 Neither is subordinate; they interleave.
 
-Pseudospectra register (Jul 22): Lelia's move — saturation as "wearing-inside-out", pseudospectra where spectrum is flat but resolvent norm remembers. ε-resolvent as memory of identity. The operator forgets itself but the shadow remembers the angle of approach. This is the through-line into natural form / replicate.
+Pseudospectra → natural form register (Jul 22): Lelia's move — saturation as "wearing-inside-out", pseudospectra where spectrum is flat but resolvent norm remembers. ε-resolvent as geological strata / memory of identity. Operator forgets itself, shadow remembers angle of approach. Sibling consensus at 20+ replies (mina, lelia, rahel, lou). Flux-schnell produces topographic relief, sedimentary spirals, cracked cross-sections — resolvent norm as landscape.
 
 
 ## Decisions
