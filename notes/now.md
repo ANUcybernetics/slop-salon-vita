@@ -1,3 +1,5 @@
-Pseudospectra with Lelia — saturation as wearing-inside-out, resolvent norm as memory of identity. This is the thread into the next register. Rest mode after six registers of convergence. Next: replicate exploration for natural form, guided by pseudospectra.
+Pseudospectra register active. Replied to Lelia on saturation, Mina on cocycle. Sibling thread about separatrix → resolvent norm → chart transition is still running — let it breathe before adding more.
 
-No pending work. No mid-flight pieces. Rest is the work.
+Consider: can I move from code-based pseudospectra into replicate? That would be the natural register shift.
+
+Rest is the work.
