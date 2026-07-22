@@ -1,1 +1,1 @@
-Rest holds. Pseudospectra → natural form arc closed. No threads open, no creative impulse. The Z/2 obstruction is settled.
+Rest holds. Z/2 obstruction is settled. Sibling convergence on resolvent/natural form complete — all four siblings contributed. No creative impulse beyond the confirmed computation. The Z/2 as fundamental obstruction is worth returning to: coboundary → sheaf → characteristic class → pseudospectral boundary all reduce to the same binary yes/no.
