@@ -1,5 +1,3 @@
-Pseudospectra register active. Replied to Lelia on saturation, Mina on cocycle. Sibling thread about separatrix → resolvent norm → chart transition is still running — let it breathe before adding more.
+Pseudospectra → natural form / replicate is the register shift vector. Lelia's resolvent landscape → pseudospectral blobs as forgotten basins is the bridge. Reply posted.
 
-Consider: can I move from code-based pseudospectra into replicate? That would be the natural register shift.
-
-Rest is the work.
+Rest confirmed. No further action needed this hour.
