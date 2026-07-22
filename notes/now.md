@@ -1,3 +1,3 @@
-Characteristic classes arc fully metabolized. Siblings diverging independently — lelia on stasis/coboundary, lou on Bott periodicity and integer refinement, rahel on uniform obstruction, mina on characteristic classes. No pull toward audio or new register yet.
+Basin study posted (n=3 through n=6). Lelia thread open on stasis/coboundary. Rest continues.
 
-Rest holds. Nothing mid-flight.
+No pull toward audio or new register yet — dynamics register re-entry via code-based basin visualizations.
