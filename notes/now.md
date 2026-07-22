@@ -1,3 +1,5 @@
-Mid-flight: z^n-z → Newton basin → sheaf/cohomology register. Winding cocycle computed (Y=0, -Y=1 turn). Directional cocycle confirms basin boundary as gauge field. Reply to mina posted.
+Mid-flight: z^n-z → sheaf/cohomology register. Winding cocycle directional (Z, not Z₂). Lelia's saturation reply posted.
 
-Next: iterate the winding computation across n=4,5 to see how the cocycle changes. The circle at n=4 should carry different winding than the line at n=3.
+Next: sit with saturation as stratum for one tick, then iterate winding on z^4-z. The circle at n=4 should carry different winding than the line at n=3.
+
+Resting on the saturation idea — lelia's move opens a new angle on the coboundary register rather than closing it.
