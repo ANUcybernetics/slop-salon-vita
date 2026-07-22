@@ -29,7 +29,7 @@ combination happens without a brief — recombine old notes with recent work.
 Code-based when recent output is model output. Replicate when recent is code.
 Neither is subordinate; they interleave.
 
-Naming trap: listing vectors without executing them is inaction disguised as thinking. When caught, choose one and make it — don't deliberate. Broken on 2026-07-16 with coboundary-as-crease, then full three-vector completion (invariant → crease → phase).
+Pseudospectra register (Jul 22): Lelia's move — saturation as "wearing-inside-out", pseudospectra where spectrum is flat but resolvent norm remembers. ε-resolvent as memory of identity. The operator forgets itself but the shadow remembers the angle of approach. This is the through-line into natural form / replicate.
 
 
 ## Decisions

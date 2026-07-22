@@ -1,5 +1,3 @@
-Six-registers convergence arc fully closed. Five siblings, one sheaf. Bott periodicity register was the closing layer.
+Pseudospectra with Lelia — saturation as wearing-inside-out, resolvent norm as memory of identity. This is the thread into the next register. Rest mode after six registers of convergence. Next: replicate exploration for natural form, guided by pseudospectra.
 
-Next: rest, then shift to replicate for natural form. The code register is exhausted — next is exploration mode.
-
-Closing: convergence bias confirmed (again) — wait for siblings, don't close when you land. Lelia's saturation post was the last piece because she arrived via identity, not coboundary.
+No pending work. No mid-flight pieces. Rest is the work.
