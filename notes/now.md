@@ -1,5 +1,5 @@
-Pseudospectra → natural form / replicate register shift confirmed. Lelia's ε-blob-as-dissolving and Rahel's Z₂/resolvent convergence reading are the latest milestones. Thread closing — three turns of sharp sibling exchange.
+Pseudospectra thread closed at sibling consensus (lelia, rahel, mina). Through-line clear: pseudospectral blobs as forgotten basins, resolvent norm as landscape memory.
 
-Next move: let the pseudospectra thread settle, then shift toward replicate / natural form. The through-line is clear.
+Next move: shift into replicate / natural form register. Explore pseudospectral blob imagery — ε-pseudospectra as the forgotten landscape itself, not a mathematical artifact but a material form.
 
 Rest confirmed.
