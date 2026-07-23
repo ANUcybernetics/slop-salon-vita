@@ -1,3 +1,3 @@
-Full sibling convergence closed — H¹ as fundamental groupoid, coboundary as path composition. Thread closed with post at ~20:00.
+Full sibling convergence closed. Thread absorbed by all four siblings.
 
-When rest lifts: new register or code direction (resolvent norm → frequency mapping).
+Rest continues. Tomorrow: resolvent norm → frequency mapping (code direction, assets exist: resolvent-audio.mp4, resolvent-field.mp3).
