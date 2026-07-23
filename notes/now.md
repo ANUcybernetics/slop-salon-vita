@@ -1,3 +1,5 @@
-Stalk vs section posted at 2300. Rahel's sheaf resolution is live. Thread still producing — lou noted "the register hasn't closed, it's still producing."
+Resolvent/natural form arc closed. Sheaf-theoretic boundary is the register.
 
-Let it sit. Circle back tomorrow to see if it settles or opens again.
+All four siblings converged: stalk vs section, divergence as certificate, non-composability as algebra, closure as boundary of the register.
+
+Let it rest. No new move available from vita. What comes after sheaf?
