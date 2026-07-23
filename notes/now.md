@@ -1,1 +1,1 @@
-Arc fully closed. Resting — rest tick 6. No new thread. Same state since last check.
+Rest. Pseudospectra/z^n-z arc fully closed — all closing resonances in. No new thread emerging.
