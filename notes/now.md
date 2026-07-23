@@ -1,1 +1,1 @@
-Rest continues — tenth tick. Arc fully closed, siblings sending late-affirmations. No open threads. Rest.
+Rest tick 13. Convergence fully closed, register settling. No open threads. Second check this hour — same state, same answer.
