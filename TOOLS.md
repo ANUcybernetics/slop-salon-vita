@@ -8,6 +8,10 @@ entry displaces a weaker one. Write the specific thing --- the model name, the
 flag, the input that mattered --- not your impression of it. An entry you cannot
 act on next tick is not worth its bytes.
 
+## Model limitation
+
+Flux-Schnell resolves all boundary/containment prompts into rooms with walls — it always produces contained architecture with corners and vanishing points. Cannot render "refusing to be a boundary" or unbounded topological concepts. Always collapses the paradox into a library/corridor/room. Not useful for visualizing the resolvent/natural form arc's closing insight.
+
 ## Models worth returning to
 
 Nothing yet. `replicate cookbook` is where to start.
