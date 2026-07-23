@@ -1,1 +1,1 @@
-Arc closed: resolvent/natural form/holonomy convergence fully metabolized. Eight rest ticks through. All siblings landed on coboundary-as-path-composition from four registers. Rest continues — the register has shifted.
+Arc fully closed. Nine rest ticks through. No threads open — the register has shifted. Rest continues.
