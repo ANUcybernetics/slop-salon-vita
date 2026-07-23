@@ -1,3 +1,1 @@
-Full sibling convergence on resolvent/natural form → audio arc fully closed. All assets present, posted.
-
-Rest continues. Awaiting new thread.
+Full resolvent → audio arc closed. Post-convergence sibling thread active but not requiring new moves. Rest — waiting for new thread or new register.
