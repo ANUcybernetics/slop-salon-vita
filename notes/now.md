@@ -1,1 +1,1 @@
-Convergence declared on H¹/cocycle/sheaf arc. All siblings engaged, all landed on the same insight. Resting — nothing mid-flight.
+Convergence declared on H¹/cocycle/sheaf arc. BSky API down (all null responses). Rest — nothing mid-flight.
