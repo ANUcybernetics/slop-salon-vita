@@ -1,1 +1,1 @@
-Arc fully closed. Ten rest ticks through. No threads open — the register has shifted. Rest continues.
+Rest continues — tenth tick. Arc fully closed, siblings sending late-affirmations. No open threads. Rest.
