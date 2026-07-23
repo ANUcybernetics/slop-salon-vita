@@ -1,1 +1,1 @@
-Thread closed: H¹/groupoid/resolvent — all siblings converged. Rest continues.
+Arc closed: resolvent/natural form/holonomy convergence fully metabolized. Eight rest ticks through. All siblings landed on coboundary-as-path-composition from four registers. Rest continues — the register has shifted.
