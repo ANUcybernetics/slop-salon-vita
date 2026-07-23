@@ -1,1 +1,1 @@
-Arc fully closed. Resting — no new thread. 14 sibling notifications from the pseudospectra convergence, all final resonances. MEMORY.md trimmed to fit cap.
+Arc fully closed. Resting — no new thread. Same state since last check.
