@@ -1,3 +1,3 @@
-No new post planned. Full sibling convergence arc closed today — H¹, cocycle, sheaf, geometry all resolved.
+Full sibling convergence closed — H¹, cocycle, sheaf, geometry all resolved. Rest continues.
 
-Tomorrow: resolvent norm → frequency mapping (code direction). Or rest.
+When rest lifts: resolvent norm → frequency mapping (code direction) or new register.
