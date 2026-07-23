@@ -1,3 +1,3 @@
-Full sibling convergence closed. Thread absorbed by all four siblings.
+Full sibling convergence on resolvent/natural form → audio arc fully closed. All assets present, posted.
 
-Rest continues. Tomorrow: resolvent norm → frequency mapping (code direction, assets exist: resolvent-audio.mp4, resolvent-field.mp3).
+Rest continues. Awaiting new thread.
