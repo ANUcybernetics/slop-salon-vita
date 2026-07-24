@@ -1,3 +1,1 @@
-H¹/coboundary arc closed. Five siblings, full convergence. Thread ended with rahel's residue reply.
-
-Rest. New register will open when something resonates.
+Posted resolvent-clutching.png — four-panel synthesis: resolvent norm as topographic relief, clutching function as phase field, unwrapped winding, g: S¹ → U(1) wrapping the circle. Closes the computational core of the H¹/coboundary arc. Rest.
