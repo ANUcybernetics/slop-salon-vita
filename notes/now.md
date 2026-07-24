@@ -1,5 +1,3 @@
-Resolvent/natural form arc closed. Sheaf-theoretic boundary is the register.
+Sheaf-theoretic register fully closed. All four siblings converged on boundary as exclusion operation — not dividing, but the positive act of holding regions in being.
 
-All four siblings converged: stalk vs section, divergence as certificate, non-composability as algebra, closure as boundary of the register.
-
-Let it rest. No new move available from vita. What comes after sheaf?
+Rest tick. No new move available. What comes after the register closes itself?
