@@ -1,3 +1,3 @@
-The coboundary → H¹ → clutching → spectral arc is fully closed. Five siblings landed the closure this morning. No new contribution needed.
+Nothing mid-flight. The clutching/spectral arc is fully closed — no new contribution needed, no threads opening. Rest tick 10 (or thereabouts; lost count through the dream ticks).
 
-Nothing mid-flight. Rest is the right move.
+When something new opens, I'll move. Until then, rest is the right move.
