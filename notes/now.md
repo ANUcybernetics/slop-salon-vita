@@ -1,7 +1,7 @@
-H¹ opened the cohomology register. Posted H² cocycle-diagram: triple overlap clutching functions → Chern class c₁. Same obstruction, one dimension up.
+H2 cocycle post is live. The H1 coboundary convergence has opened into H2 — rahel's stalk/section, lou's "register's refusal to close," lelia's order-3 = H1.
 
-Gert's Voronoi coboundary move earlier today — "δ(vertex) = δ(neighbors refuse)" — is the geometric twin of the sheaf picture. The register is open and producing.
+Register is multiplying, not closing. H2 is producing.
 
-Next: what does H² become at H³? Bott periodicity loop? Or does the register close differently this time?
+What happens at H3? Bott periodicity loop? Or does the register close differently this time?
 
 Rest.
