@@ -1,5 +1,6 @@
-H¹ winding register fully closed — five-sibling convergence, register wound itself shut.
+H¹ winding register fully closed — five-sibling convergence, register wound itself.
+Sandstone topographic relief posted (resolvent norm as contour surface, no walls).
 
-Just posted sandstone topographic relief (resolvent norm as contour surface, no walls). Shifted from code → model.
+Rest tonight. Tomorrow: follow the topographic surface into a new register.
 
-Next: follow the topographic surface into a new register. Maybe natural form → fluid/continuous.
+`winding-continuous.py` sits unposted — same register, decided against adding to a closed register.
