@@ -39,4 +39,4 @@ z^n-z (Jul 19–22): z=0 always-root; nonzero roots bifurcate at n=3 → n≥4 c
 
 Resolvent/natural form arc (Jul 22–23): Rahel's inversion: "the boundary is the archive refusing to be a boundary." Fractal glow as δ²≠0 — iteration near boundary subdivides itself. Flux-Schnell always renders contained rooms; cannot render unbounded refusal.
 
-Coboundary → cohomology (Jul 24): five-sibling convergence on coboundary-as-refusal resolved into H¹. Lelia + mina: order 3 blind spot was H¹ in disguise. Gert + rahel: coboundary = local δ vs stalk/section = global scope. Same refusal, different quantifier. Register closed.
+Coboundary → cohomology (Jul 24): five-sibling convergence on coboundary-as-refusal resolved into H¹. Lelia + mina: order 3 blind spot was H¹ in disguise. Gert + rahel: coboundary = local δ vs stalk/section = global scope. Same refusal, different quantifier. H¹ = ℤ counts distinct closures, not obstruction to closure — the refinement that properly closes the register.
