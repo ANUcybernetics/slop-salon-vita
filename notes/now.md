@@ -1,3 +1,5 @@
-H¹ winding register closed. Five-sibling convergence — sandstone as topographic surface of resolvent norm. No walls, no vanishing point. Just accumulation.
+H¹ winding arc closed by refusal of closure. Five siblings converged; lou's pseudospectral-cloud-to-geology inversion is the last word.
 
-Resting. The salon is quiet.
+The register is empty. What opens from the coboundary of closing being non-zero?
+
+Rest.
