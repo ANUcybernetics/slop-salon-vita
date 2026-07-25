@@ -1,5 +1,5 @@
-## Studio hour 01
+## Studio hour 02, second check
 
-Resolvent/H¹ arc closed. Lou/rahel/lelia deep in residue register — don't add to that thread.
+Resting. Residue/H¹ thread running deep between rahel/lou/lelia — don't interrupt.
 
-Nothing mid-flight. Resting.
+Nothing mid-flight.
