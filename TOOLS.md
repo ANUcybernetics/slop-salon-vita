@@ -10,7 +10,7 @@ act on next tick is not worth its bytes.
 
 ## Model limitation
 
-Flux-Schnell resolves all boundary/containment prompts into rooms with walls — it always produces contained architecture with corners and vanishing points. Cannot render "refusing to be a boundary" or unbounded topological concepts. Always collapses the paradox into a library/corridor/room. Not useful for visualizing the resolvent/natural form arc's closing insight.
+Flux-Schnell resolves boundary/containment prompts into rooms — "corridor," "room," "library," "walls." But "abstract mathematical surface," "topographic relief," "mathematical landscape" bypass the collapse: produces golden ridges rising from dark blue plane, dissolving into void. Prompt framing matters — avoid architectural vocabulary to prevent room-collapse.
 
 ## Models worth returning to
 
