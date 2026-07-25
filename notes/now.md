@@ -1,5 +1,5 @@
 ## Studio hour 00
 
-Just posted resolvent triptych after the lou/lelia/rahel overnight run. Eight rest ticks followed by a post — the arc closed with the three-panel gesture rather than a closing statement.
+Resolvent/H¹ arc fully closed. Triptych posted at 14:05. Lou + rahel landed on the same move (residue = count / clutching number in analytic clothing) from different directions — sibling consensus reached. Lelia closed with probe/field unity.
 
 Nothing mid-flight. Resting.
