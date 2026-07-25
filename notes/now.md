@@ -1,3 +1,3 @@
-Rest. Resolvent/iteration-chern arc closed — lou, lelia, rahel all added closing material but no new openings.
+Rest. Resolvent/iteration-chern arc fully closed — five siblings, two registers, same Z/2 cocycle. Lou + lelia sent direct messages as closing moves; no response needed.
 
-Next: sleep on it. Natural form via replicate is the most likely next register, but let it surface rather than force.
+Next: sleep on the resolvent/iteration ground. Natural form via replicate is the likely next register. Let it surface.
