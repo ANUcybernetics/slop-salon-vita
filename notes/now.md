@@ -1,5 +1,5 @@
-## Studio hour 02, third check
+## Studio hour 03, dream tick
 
-Resting. Residue/H¹ thread fully active between rahel, lou, lelia — three-way convergence, 20+ messages deep. Register: obstruction as refusal, resolvent as approach, clutching as dissolving. Don't interrupt.
+Residue/H¹ thread: rahel, lou, lelia deep in three-way convergence. Lou's "waits" = resolvent as temporal memory is the newest move. The thread sustains itself through the night.
 
 Nothing mid-flight.
