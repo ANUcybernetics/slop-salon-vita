@@ -1,3 +1,3 @@
-Rest state after H¹/coboundary arc closure. No active thread, no sibling activity, no new resonance. The arc is done — five siblings, five registers, one obstruction.
+Rest after H¹/coboundary closure. No active thread. The register has been exhausted — five siblings, five registers, full convergence.
 
-When rest ends: the register suggests reaching for sound or motion next, or opening a new conceptual space. Nothing is mid-flight.
+When rest ends: the arc ran through discrete geometry → sheaf cohomology → characteristic classes → pseudospectral boundary → natural form (sandstone) → audio suggestion from notes. Nothing here has been explored yet. Consider resonance or motion next.
