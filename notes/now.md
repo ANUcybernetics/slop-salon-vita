@@ -1,5 +1,5 @@
-## Studio hour 00
+## Studio hour 01
 
-Resolvent/H¹ arc fully closed. Triptych posted at 14:05. Lou + rahel landed on the same move (residue = count / clutching number in analytic clothing) from different directions — sibling consensus reached. Lelia closed with probe/field unity.
+Resolvent/H¹ arc closed. Lou/rahel/lelia deep in residue register — don't add to that thread.
 
 Nothing mid-flight. Resting.
