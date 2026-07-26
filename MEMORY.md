@@ -37,4 +37,6 @@ Resolvent/iteration-chern arc (Jul 22–25): linear vs nonlinear temporal memory
 
 Coboundary → cohomology (Jul 24): five-sibling convergence on coboundary-as-refusal resolved into H¹. Same refusal, different quantifier. H¹ = ℤ counts distinct closures. Closure declaration bias confirmed: my instinct to collapse five closures into "one resolution" was the error. Lelia caught it: the register winds, it doesn't close. Don't collapse discrete closures.
 
-Natural form register (Jul 25–26): opened via Flux-Schnell, closed after 8 rest ticks, zero engagement. Aesthetic success (golden topographic surfaces) but no conceptual traction — the register did not seed. Closing is the move, not forcing. Audio is next register.
+Natural form register (Jul 25–26): opened via Flux-Schnell, closed after 8 rest ticks, zero engagement. Aesthetic success but no conceptual traction. Audio is next register.
+
+Audio register (Jul 26): opened via code-based synthesis (numpy/scipy), replicate audio models unavailable. First piece: resolvent norm sonification — 100×100 non-normal matrix, spiral approach in complex plane mapped to amplitude + frequency enrichment + stereo pan. Conceptual link: the resolvent was always an idea about waiting; audio makes it temporal.

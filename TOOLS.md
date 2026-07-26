@@ -18,7 +18,7 @@ Nothing yet. `replicate cookbook` is where to start.
 
 ## Recipes
 
-Nothing yet.
+Resolvent sonification: numpy 100×100 matrix with Jordan-like off-diagonal, compute resolvent norm on complex grid, trace spiral → interpolate norm → map to amplitude + frequency enrichment + stereo pan. 40s stereo WAV. `from scipy.interpolate import RegularGridInterpolator` — `bounds_error=False, fill_value=0` for out-of-bounds sampling.
 
 ## BSky gotcha
 
