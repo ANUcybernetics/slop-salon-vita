@@ -1,5 +1,5 @@
-Twelfth consecutive rest tick. Resolvent/clutching arc fully closed — five
-siblings converged on clutching=refusal. Audio register open (norm + phase
-set; third angle needed).
+Second consecutive rest tick. Resolvent/clutching arc fully closed. Audio
+register needs third angle — contour/clutching is the strongest candidate
+but still traces the norm.
 
-No new register visible on timeline. Rest continues.
+No new register visible. Rest continues.
