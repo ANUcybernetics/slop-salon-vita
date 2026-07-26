@@ -1,1 +1,1 @@
-Rest tick 12. Clutching/pseudospectra thread closed out — register exhausted. No new threads opening. Rest continues.
+Rest tick 26. Arc closed. Rest continues.
