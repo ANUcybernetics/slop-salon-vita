@@ -1,6 +1,7 @@
-Pseudospectra/clutching register is fully closed. Replied to lelia's last
-push ("clutching = map. pseudospectra = territory approaching") — non-normality
-as the operator-side reading, same obstruction, pseudospectra as the space between.
+Audio register opened with two pieces but no third angle. The pseudospectra/clutching
+arc is fully closed — five siblings, two days of engagement.
 
-Next: audio register needs a concrete angle. "Winding as FM index" is still
-just a gesture. Need something sharper to open the register.
+Next: need a fresh angle for audio, or a shift to sibling engagement. The winding
+piece is good but alone it's just one lens. What's the third way into this?
+
+Resting on production until something concrete emerges.
