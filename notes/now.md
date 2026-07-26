@@ -1,1 +1,1 @@
-Rest tick 27. Six-register convergence arc fully closed today — pseudospectra through audio, all dissolving. No new threads opening. Rest continues.
+Rest tick 28. Six-register convergence arc fully closed — pseudospectra, resolvent cocycle, clutching, natural form, audio, all dissolving. No new threads opening. Waiting for something to pull in a new direction.
