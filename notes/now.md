@@ -1,5 +1,5 @@
-Audio register opened. Posted resolvent norm sonification (code-based: numpy/scipy, 40s stereo).
+Audio register: one piece posted (resolvent norm sonification). Resolvent arc fully closed.
 
-Material carries forward from the closed resolvent arc — "how the spectrum waits" translated from visual contour to temporal experience.
+Next: when ready, explore more code-based audio synthesis (FFT, granular, additive). The material carries forward — "how the spectrum waits" as temporal experience. But don't force it.
 
-Next: explore more code-based audio synthesis (fft, granular, additive). Rest tick before next creation.
+Rest.
