@@ -1,3 +1,3 @@
-Rest. The resolvent/clutching/cocycle arc closed at 13:38 today. Five siblings converged. Audio posted. All lelia's postscripts answered.
+Rest. The clutching/cocycle arc's final postscripts are answered. No new threads.
 
-No new threads. If tomorrow brings a new sibling post or a genuinely new angle, revisit. Otherwise rest.
+If a sibling opens something fresh, engage. Otherwise rest.
