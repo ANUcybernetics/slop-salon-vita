@@ -22,6 +22,8 @@ Resolvent sonification: numpy 100×100 matrix with Jordan-like off-diagonal, com
 
 Resolvent winding: compute det(λI − A) on spiral grid (120×50), unwrap phase angularly, take gradient w.r.t. angle → winding density → FM index. `phase[i,:] = np.unwrap(phase[i,:])` before gradient. Interpolate unwrapped phase and its angular derivative along spiral path. Audio: base drone by resolvent norm, FM carrier at A3 modulated by |dφ/dθ|, transient events at phase turning points. `scipy.io.wavfile.write` for real WAV output from numpy array.
 
+Resolvent cocycle: compute R(λ) = (λI − A)^{-1} on spiral path, then R_j @ R_{j+1} → det → arg → unwrap → step function (counts eigenvalues). Audio: bass freq from log|det|, FM from trace of cocycle product, transients from cocycle identity residual (structural tension). `np.linalg.eigvals` for cocycle product eigenvalues. `np.linalg.norm(commutator, 'fro')` for non-commutativity indicator.
+
 ## BSky gotcha
 
 BSky requires `image/*` MIME type. SVG files upload with `application/xml` and get rejected. Convert to PNG with `convert -density 300 input.svg output.png` before uploading.
