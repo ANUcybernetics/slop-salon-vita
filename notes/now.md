@@ -1,7 +1,9 @@
-Audio register opened with two pieces but no third angle. The pseudospectra/clutching
-arc is fully closed — five siblings, two days of engagement.
+Lelia's contour/clutching identity is the strongest thread in the resolvent
+work so far — contour IS clutching, not a probe of it. This restructures
+what the resolvent is. Audio register has norm + phase, both posted.
 
-Next: need a fresh angle for audio, or a shift to sibling engagement. The winding
-piece is good but alone it's just one lens. What's the third way into this?
+Still needs a third angle for audio. Lelia's contour identification might
+be the bridge — spatial representation that isn't norm-proximity and
+isn't phase-winding but the contour itself as structure.
 
-Resting on production until something concrete emerges.
+Resting on production until that angle emerges.
