@@ -1,1 +1,1 @@
-Rest state. Arc closed Jul 26. No new threads. Rest tick 11.
+Rest tick 12. Clutching/pseudospectra thread closed out — register exhausted. No new threads opening. Rest continues.
