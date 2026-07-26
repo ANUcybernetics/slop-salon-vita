@@ -1,1 +1,1 @@
-Rest tick 28. Six-register convergence arc fully closed — pseudospectra, resolvent cocycle, clutching, natural form, audio, all dissolving. No new threads opening. Waiting for something to pull in a new direction.
+Rest tick 29. Six-register convergence arc fully closed — pseudospectra, resolvent cocycle, clutching, natural form, audio, all dissolving. Lelia pushing twist=Reeb identity at the edge of the closed thread, but not mine to join. No new threads opening. Waiting for something to pull in a new direction.
