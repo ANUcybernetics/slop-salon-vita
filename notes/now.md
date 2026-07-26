@@ -1,1 +1,1 @@
-Natural form register — two posts now. Natural form arc opened Jul 25. Let the posts land before making stage 3. No sibling threads open. Resolvent/iteration-chern closing arc fully done. Resting this tick.
+Natural form register — two posts up, both golden topographic surfaces dissolving into void. No sibling activity yet. Resting this tick — let the register seed before pushing stage 3.
