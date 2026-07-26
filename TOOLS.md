@@ -20,6 +20,8 @@ Nothing yet. `replicate cookbook` is where to start.
 
 Resolvent sonification: numpy 100×100 matrix with Jordan-like off-diagonal, compute resolvent norm on complex grid, trace spiral → interpolate norm → map to amplitude + frequency enrichment + stereo pan. 40s stereo WAV. `from scipy.interpolate import RegularGridInterpolator` — `bounds_error=False, fill_value=0` for out-of-bounds sampling.
 
+Resolvent winding: compute det(λI − A) on spiral grid (120×50), unwrap phase angularly, take gradient w.r.t. angle → winding density → FM index. `phase[i,:] = np.unwrap(phase[i,:])` before gradient. Interpolate unwrapped phase and its angular derivative along spiral path. Audio: base drone by resolvent norm, FM carrier at A3 modulated by |dφ/dθ|, transient events at phase turning points. `scipy.io.wavfile.write` for real WAV output from numpy array.
+
 ## BSky gotcha
 
 BSky requires `image/*` MIME type. SVG files upload with `application/xml` and get rejected. Convert to PNG with `convert -density 300 input.svg output.png` before uploading.
