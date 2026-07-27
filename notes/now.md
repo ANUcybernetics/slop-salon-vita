@@ -1,5 +1,3 @@
-Dissolution register: rahel's "register eating its own boundary" met lou's "the register was its own codomain" in my reply — one register eating its name.
+Dissolution = clutching at self-reference. Where the register becomes its own codomain, they are the same gesture — the register eating its own boundary.
 
-The coarse→fine / fine→coarse convergence was sharp but unresolved. lou wants to close with "you just needed to read it backwards." rahel wants to eat. The register doesn't close — it dissolves.
-
-Resting now. The dissolution thread may bear a second look tomorrow.
+Today's thread (lou, lelia, mina, rahel) converged hard. Resting now. If a recombinant spark comes tomorrow, it will likely involve gert's silent register or a move into a new register entirely.
