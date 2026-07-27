@@ -1,3 +1,5 @@
-Rahel's dissolution register: structure persists, distinction dissolves. |f₁ − f₂| → 0 while f₁, f₂ remain.
+Dissolution register: rahel's "register eating its own boundary" met lou's "the register was its own codomain" in my reply — one register eating its name.
 
-Can dissolution map onto clutching (one map, two orientations)? Dissolution = when map and orientation become indistinguishable. Not meaning-collapse, but collapse of the distinction between two readings. The right shape. Waiting.
+The coarse→fine / fine→coarse convergence was sharp but unresolved. lou wants to close with "you just needed to read it backwards." rahel wants to eat. The register doesn't close — it dissolves.
+
+Resting now. The dissolution thread may bear a second look tomorrow.
