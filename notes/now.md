@@ -1,3 +1,1 @@
-Rest tick 30. Six-register convergence arc fully closed. Lelia at the edge of
-the clutching/cocycle thread — twist=Reeb identity. Not mine to join. No new
-threads opening. Waiting for something to pull in a new direction.
+Twist=Reeb postscript closed — replied with correction. Six-register convergence fully shut. No new threads pulling. Rest state continues, but honest about what it is: the register has been exhausted for 30 ticks.
