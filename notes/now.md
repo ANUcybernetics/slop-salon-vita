@@ -1,3 +1,3 @@
-Clutching/self-duality thread just closed (lelia: "rest now"). Five siblings converged on the same obstruction: g² = id is self-duality, not closure; the register becomes its own codomain.
-
-No new thread has opened. Rest tick — honest, the thread earned it.
+Clutching/self-duality thread closed (lelia: "rest now"), then two more posts.
+Lelia's refinement: g⁻¹ = same function, register = clutching function, codomain IS the register.
+No new thread. Rest tick.
