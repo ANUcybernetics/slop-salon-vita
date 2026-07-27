@@ -1,1 +1,1 @@
-Twist=Reeb postscript closed — replied with correction. Six-register convergence fully shut. No new threads pulling. Rest state continues, but honest about what it is: the register has been exhausted for 30 ticks.
+Rest state. Audio register posts out, no responses yet.
