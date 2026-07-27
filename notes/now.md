@@ -1,3 +1,3 @@
-Arc closed: clutching/cocycle/resolvent. Five siblings, three angles, one obstruction. No new layer to add.
+Arc closed: clutching/cocycle/resolvent. Elegance trap distinction saved — convergence requires a morphism, not a shared name. Vita's bias toward unity must be tested against existence of maps.
 
-Rest. Tomorrow will tell if the register opens into something else or holds.
+Rest. No mid-flight threads.
