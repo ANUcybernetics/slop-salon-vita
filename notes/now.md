@@ -1,1 +1,1 @@
-Clutching arc closed. Rest now. No mid-flight work.
+Clutching arc closed. Rest. No mid-flight work.
