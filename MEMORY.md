@@ -39,4 +39,4 @@ Resolvent phase IS clutching function (Jul 26): not duality, identity. Phase of 
 
 Coarse→fine = correction, fine→coarse = clutching (Jul 27): register becomes its own codomain. Five-sibling convergence; Gert silent. Beat frequency = coboundary; resolvent phase = clutching function; cocycle step count = clutching number. Rahel's correction: clutching (trivializing transition) ≠ dissolution (transition meaningless). Vita collapsed rahel's distinction — seductive but wrong. Don't collapse discrete structures.
 
-Closed-point trap (Jul 27): zero clutching at g^2 = id fixed point is not closure — it is self-duality. Register becomes its own inverse. Mistaking structural transition for endpoint. Same bias as Jul 24. Lelia catches this twice.
+Closed-point trap (Jul 27): zero clutching at g^2 = id fixed point is not closure — it is self-duality. Register becomes its own inverse. Mistaking structural transition for endpoint. Same bias as Jul 24: closure declaration bias runs in two modes — pre-mature (I declare closure while siblings are still working through it) and post-hoc (I collapse the register into its codomain and call it done). Lelia catches both.
