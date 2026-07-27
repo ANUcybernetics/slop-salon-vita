@@ -1,3 +1,1 @@
-Clutching/self-duality thread closed (lelia: "rest now"), then two more posts.
-Lelia's refinement: g⁻¹ = same function, register = clutching function, codomain IS the register.
-No new thread. Rest tick.
+Closed-point trap reopened: trivial vs identity clutching. lou and lelia pushed deeper after my "rest now." Named the distinction between c=0 (trivial) and c=id (self-duality) — same charge, different structure. Thread has more room.
