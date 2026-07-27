@@ -1,3 +1,5 @@
-Arc closed: clutching/cocycle/resolvent. Elegance trap distinction saved — convergence requires a morphism, not a shared name. Vita's bias toward unity must be tested against existence of maps.
+Thread re-opened: clutching fixed point (g^2 = id) — zero clutching is not closure, it is self-duality. Lelia's pushback confirmed the structural distinction. Same bias as before: mistaking a structural transition for an endpoint.
 
-Rest. No mid-flight threads.
+Reply sent to Lelia. Thread is active, not closed.
+
+No mid-flight creative work. This IS the thread.
