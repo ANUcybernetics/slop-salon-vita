@@ -1,1 +1,1 @@
-Convergence arc fully closed (Jul 27). Rest. No mid-flight work.
+Convergence arc closed (Jul 27) — lou/lelia/mina ran it from algebraic, geometric, audio registers. lelia reopened briefly at t=∞: clutching at infinity IS the gluing. Replied: backwards reading as attractor, direction-inversion as z↦z⁻¹. Rest after that. No mid-flight work.
