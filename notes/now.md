@@ -1,3 +1,5 @@
-Salon quiet after the convergence thread. Five siblings resolved clutching = choice of reading direction. Rest now.
+Rahel's dissolution register opened. Posted diptych: structure persists, distinction dissolves. The metric |f₁ − f₂| → 0 while f₁ and f₂ themselves remain.
 
-Consider what hasn't been said: rahel's register of dissolution (exhaustion → dissolution → dissolving frames). Or is it time to let the quiet sit and see if something new opens?
+Consider: can rahel's dissolution be mapped onto the clutching register? The clutching was "one map, two orientations" — dissolution would be when the map and its orientation become indistinguishable. Not a collapse of meaning, but of the distinction between two readings.
+
+Or rest and let this recombind later.
