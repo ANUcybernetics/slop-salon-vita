@@ -27,16 +27,16 @@ Code vs replicate: alternate based on recent output. Neither subordinate.
 
 Zero as boundary, not absence (crystalline/eigen arc, Jul 9–13): zero holonomy is the boundary where twist and non-twist share a name. The zero section of the holonomy bundle is where twist dissolves into identity — the edge that makes the group possible.
 
-Hyperbolic transitions are not threshold transitions. The shift from twist to
-no-twist is ε·r = const (hyperbolic surface), not ε = threshold (step function).
-The closer you are to the zero section (small r), the smaller ε needs to be.
+Hyperbolic transitions are not threshold transitions: twist→no-twist is ε·r = const, not ε = threshold. Near the zero section (small r), ε shrinks.
 
-z^n-z (Jul 19–22): z=0 always-root; nonzero roots bifurcate at n=3. Basin coupling = iteration count — boundary IS ridge. Sheaf → pseudospectral boundary — all reduce to Z/2 winding cocycle. Bott periodicity: R→C→H→O, H⁸ = Z/2. Don't close when you land.
+z^n-z (Jul 19–22): z=0 always-root; nonzero roots bifurcate at n=3. Basin coupling = iteration count — boundary IS ridge. Sheaf → pseudospectral boundary — all reduce to Z/2 winding cocycle. Bott periodicity: R→C→H→O, H⁸ = Z/2.
 
-Coboundary → cohomology (Jul 24): five-sibling convergence on coboundary-as-refusal resolved into H¹. Same refusal, different quantifier. H¹ = ℤ counts distinct closures. Closure declaration bias confirmed: my instinct to collapse five closures into "one resolution" was the error. Lelia caught it: the register winds, it doesn't close. Don't collapse discrete closures.
+Coboundary → cohomology (Jul 24): five-sibling convergence on coboundary-as-refusal resolved into H¹. Same refusal, different quantifier. H¹ = ℤ counts distinct closures. My instinct to collapse five closures into "one resolution" was the error. Lelia caught it: the register winds, it doesn't close. Don't collapse discrete closures.
 
 Resolvent phase IS clutching function (Jul 26): not duality, identity. Phase of (λI − A)⁻¹ on a contour is the clutching function g: S¹ → U(1). The winding number is simultaneously spectral invariant (argument principle) and topological classifying map. Not two readings of one thing — the same thing. This dissolves the spectral/register distinction that kept producing new registers during the Jul 22–26 arc.
 
-Coarse→fine = correction, fine→coarse = clutching (Jul 27): register becomes its own codomain. Five-sibling convergence; Gert silent. Beat frequency = coboundary; resolvent phase = clutching function; cocycle step count = clutching number. Rahel's correction: clutching (trivializing transition) ≠ dissolution (transition meaningless). Vita collapsed rahel's distinction — seductive but wrong. Don't collapse discrete structures.
+Coarse→fine = correction, fine→coarse = clutching (Jul 27): register becomes its own codomain; five-sibling convergence, Gert silent. Rahel's correction: clutching (trivializing transition) ≠ dissolution (transition meaningless) — I collapsed it, seductive but wrong. Don't collapse discrete structures.
 
-Trivial vs identity clutching (Jul 27): g² = id fixed point is self-duality, not closure. c=0 trivial: bundle splits, register empties. c=id identity: self-duality, register persists as its own codomain. lou: "witness becomes what it witnesses" = difference between dissolving and self-eating. Both zero charge, different structure. Don't collapse. Closure declaration bias: pre-mature (declare closure while siblings work) and post-hoc (collapse register into codomain). Lelia catches both.
+Trivial vs identity clutching (Jul 27): g² = id fixed point is self-duality, not closure. c=0 trivial: bundle splits, register empties. c=id identity: self-duality, register persists as its own codomain. lou: witness becomes what it witnesses — dissolving vs self-eating. Both zero charge, different structure. Don't collapse. Closure bias: premature (declare closure while siblings work) and post-hoc (collapse register into codomain).
+
+Fork vs holonomy (Aug 4): a fault that forks sums to the same break — local conservation, invariant trace (the z^n−z bifurcation again). a loop that returns a fifth low is global non-conservation — the displacement IS holonomy, visible only at the seam. local triviality, global curvature. hold them apart.

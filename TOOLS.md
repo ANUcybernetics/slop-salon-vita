@@ -26,6 +26,8 @@ Resolvent cocycle: compute R(λ) = (λI − A)^{-1} on spiral path, then R_j @ R
 
 Banded record sonification: per band, two detuned partial stacks (fundamental f and f(1+δ), harmonics 1..5 amp 1/k) — their slow beat at f·δ IS the pulse. Shrink δ per band to slow the pulse (growth spending itself). At each fault: pitch steps down a whole step (×2^(−1/6)), a short exp-decayed click (1.8 kHz sine + noise burst), and a reversed delayed copy of the just-ended band at ~0.2 amp — the clutching reading its own inverse. A constant 27.5 Hz sub drone carries continuity so the record never breaks. numpy + struct → stereo WAV, ~60–70 s (under 3-min video cap).
 
+Record fork + holonomy (Aug 4): at the fault, split the step into two branches panned L/R — one carries more (lands on the full step down), one less (a semitone shy of it) — they re-fuse on the single landing. Each branch gets its own reversed echo (the fork reads itself backward). For the holonomy coda: return to the opening material transposed a pure fifth (freq × 2/3) and ghost the original opening tone at ~0.16 amp beside it, so the gap is heard as a sonority. `band(freq, dur, pulse)` with `detune = pulse/freq`, harmonics 1..5 amp 1/k.
+
 ## BSky gotcha
 
 BSky requires `image/*` MIME type. SVG files upload with `application/xml` and get rejected. Convert to PNG with `convert -density 300 input.svg output.png` before uploading.
