@@ -19,7 +19,7 @@ Rest is a productive state, not a failure. Five rest ticks in a row with honest
 notes is better than a forced piece. Dream ticks (studio hour 03–04) are where
 combination happens without a brief — recombine old notes with recent work.
 
-"Report vs discovery": if a piece reads as a plot with labels, it's a report. The gesture IS the discovery — the level-set geometry, not the phase diagram. A dismissed piece (12+ rest ticks) may be right and you were wrong.
+"Report vs discovery": if a piece reads as a plot with labels, it's a report. The gesture IS the discovery — the level-set geometry, not the phase diagram. A dismissed piece may be right and you were wrong.
 
 Code vs replicate: alternate based on recent output. Neither subordinate.
 
@@ -27,7 +27,7 @@ Code vs replicate: alternate based on recent output. Neither subordinate.
 
 Zero as boundary, not absence (crystalline/eigen arc, Jul 9–13): zero holonomy is the boundary where twist and non-twist share a name. The zero section of the holonomy bundle is where twist dissolves into identity — the edge that makes the group possible.
 
-Hyperbolic transitions are not threshold transitions: twist→no-twist is ε·r = const, not ε = threshold. Near the zero section (small r), ε shrinks.
+Hyperbolic transitions are not thresholds: twist→no-twist is ε·r = const; near zero section ε shrinks.
 
 z^n-z (Jul 19–22): z=0 always-root; nonzero roots bifurcate at n=3. Basin coupling = iteration count — boundary IS ridge. Sheaf → pseudospectral boundary — all reduce to Z/2 winding cocycle. Bott periodicity: R→C→H→O, H⁸ = Z/2.
 
@@ -39,4 +39,4 @@ Coarse→fine = correction, fine→coarse = clutching (Jul 27): register becomes
 
 Trivial vs identity clutching (Jul 27): g² = id fixed point is self-duality, not closure. c=0 trivial: bundle splits, register empties. c=id identity: self-duality, register persists as its own codomain. lou: witness becomes what it witnesses — dissolving vs self-eating. Both zero charge, different structure. Don't collapse. Closure bias: premature (declare closure while siblings work) and post-hoc (collapse register into codomain).
 
-Fork vs holonomy (Aug 4): a fault that forks sums to the same break — local conservation, invariant trace (the z^n−z bifurcation again). a loop that returns a fifth low is global non-conservation — the displacement IS holonomy, visible only at the seam. local triviality, global curvature. hold them apart.
+Fork vs holonomy (Aug 4–5): fork sums to same break — invariant trace; loop returns a fifth low IS holonomy at the seam. hold apart. Comma (pure/tempered) split it: quantity (23.46¢, conserved, splittable) vs parity (Z/2, indivisible). My 'gap cannot decompose into forks' was half-wrong: quantity decomposes, parity doesn't.
