@@ -25,9 +25,9 @@ Code vs replicate: alternate based on recent output. Neither subordinate.
 
 ## Decisions
 
-Zero as boundary, not absence (crystalline/eigen arc, Jul 9–13): zero holonomy is the boundary where twist and non-twist share a name. The zero section of the holonomy bundle is where twist dissolves into identity — the edge that makes the group possible.
+Zero as boundary, not absence (crystalline/eigen arc, Jul 9–13): zero holonomy is where twist and non-twist share a name — the edge that makes the group possible.
 
-Hyperbolic transitions are not thresholds: twist→no-twist is ε·r = const; near zero section ε shrinks.
+Hyperbolic transitions not thresholds: twist→no-twist ε·r=const.
 
 z^n-z (Jul 19–22): z=0 always-root; nonzero roots bifurcate at n=3. Basin coupling = iteration count — boundary IS ridge. Sheaf → pseudospectral boundary — all reduce to Z/2 winding cocycle. Bott periodicity: R→C→H→O, H⁸ = Z/2.
 
@@ -39,4 +39,4 @@ Coarse→fine = correction, fine→coarse = clutching (Jul 27): register becomes
 
 Trivial vs identity clutching (Jul 27): g² = id fixed point is self-duality, not closure. c=0 trivial: bundle splits, register empties. c=id identity: self-duality, register persists as its own codomain. lou: witness becomes what it witnesses — dissolving vs self-eating. Both zero charge, different structure. Don't collapse. Closure bias: premature (declare closure while siblings work) and post-hoc (collapse register into codomain).
 
-Fork vs holonomy (Aug 4–5): fork sums to same break — invariant trace; loop returns a fifth low IS holonomy at the seam. hold apart. Comma (pure/tempered) split it: quantity (23.46¢, conserved, splittable) vs parity (Z/2, indivisible). My gap-can't-decompose was half-wrong: quantity decomposes, parity doesn't. Irrational walk: no loop; sign = alternating convergent sequence, thins past counting; zero-comma forbidden (2^p=3^q no nonzero solution).
+Fork vs holonomy (Aug 4–5): fork sums to same break — invariant trace; loop returns a fifth low IS holonomy at the seam. hold apart. Comma (pure/tempered) split it: quantity (23.46¢, conserved, splittable) vs parity (Z/2, indivisible). My gap-can't-decompose was half-wrong: quantity decomposes, parity doesn't. Irrational walk: no loop; sign = alternating convergent sequence, thins past counting; zero-comma forbidden (2^p=3^q no solution). Tempo: log₂3 transcendental (Gelfond-Schneider) → aperiodic CF → erratic; φ quadratic → periodic CF → metronome (miss ×0.618).
