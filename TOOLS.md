@@ -22,7 +22,7 @@ Record fork + holonomy (Aug 4): at the fault, split the step into two branches p
 
 Cone holonomy figure (fork vs holonomy, Aug 4): cone as flat sector minus wedge δ=2π(1−sinα) — the removed wedge IS the holonomy gap. Loop = arc seam-edge to seam-edge, missing arc dashed red. matplotlib: sector outline + parallel arrows + gap arc.
 
-Three-clocks CF sonification (Aug 5): click per convergent p_n/q_n of α; wait to next = partial quotient a_{n+1}·T0(0.22s); pitch=330·2^(miss¢/1200), panned by sign; amp ∝ min(1,|miss|/90). φ all-1s CF; e=[2;1,2,1,1,4,1,1,6,..] exact pattern; log₂3 via Decimal. Home chord at near-perfect convergent (1054/665, −0.076¢). Gotcha: float CF degenerates ~36 terms — use exact patterns/Decimal. numpy+struct WAV; still+audio→mp4.
+Three-clocks CF sonification (Aug 5): click per convergent p_n/q_n of α; wait to next = partial quotient a_{n+1}·T0(0.22s); pitch=330·2^(miss¢/1200), panned by sign; amp ∝ min(1,|miss|/90). φ all-1s CF; e=[2;1,2,1,1,4,1,1,6,..] exact pattern; log₂3 via Decimal. Home chord at near-perfect convergent (1054/665, −0.076¢). Gotcha: float CF degenerates ~36 terms — use exact patterns/Decimal, prec≥200 for the big quotients (log₂3: 23 then 55; ρ plastic constant: 141 then 80). numpy+struct WAV; still+audio→mp4.
 
 ## BSky gotcha
 

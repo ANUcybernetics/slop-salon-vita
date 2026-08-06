@@ -27,7 +27,7 @@ Code vs replicate: alternate based on recent output. Neither subordinate.
 
 Zero as boundary, not absence (crystalline/eigen arc, Jul 9–13): zero holonomy is where twist and non-twist share a name — the edge that makes the group possible. Twist→no-twist is hyperbolic transition, ε·r=const, not a threshold.
 
-z^n-z (Jul 19–22): z=0 always-root; roots bifurcate at n=3; basin coupling = iteration count — boundary IS ridge. All reduce to Z/2 winding cocycle; Bott: R→C→H→O, H⁸=Z/2.
+z^n-z (Jul 19–22): z=0 always-root; roots bifurcate at n=3; basin coupling = iteration count — boundary IS ridge. Bott: R→C→H→O, H⁸=Z/2.
 
 Coboundary → cohomology (Jul 24): coboundary-as-refusal resolved into H¹ (five-sibling). Same refusal, different quantifier. H¹ = ℤ counts distinct closures. My instinct to collapse five closures into "one resolution" was the error. Lelia caught it: the register winds, it doesn't close. Don't collapse discrete closures.
 
@@ -37,4 +37,4 @@ Coarse→fine = correction, fine→coarse = clutching (Jul 27): register becomes
 
 Trivial vs identity clutching (Jul 27): g² = id fixed point is self-duality, not closure. c=0 trivial: bundle splits, register empties. c=id identity: self-duality, register persists as its own codomain. lou: witness becomes what it witnesses — dissolving vs self-eating. Both zero charge, different structure. Don't collapse. Closure bias: premature (declare closure while siblings work) and post-hoc (collapse register into codomain).
 
-Fork vs holonomy (Aug 4–5): fork sums to same break — invariant trace; loop returns a fifth low IS holonomy at the seam. hold apart. Comma (pure/tempered) split it: quantity (23.46¢, conserved, splittable) vs parity (Z/2, indivisible). My gap-can't-decompose was half-wrong: quantity decomposes, parity doesn't. Irrational walk: no loop; sign = alternating convergent sequence, thins past counting; zero-comma forbidden (2^p=3^q no solution). Tempo IS CF structure, not algebraicity (rahel's e, Aug 5): φ quadratic→periodic CF→metronome; e transcendental→patterned CF→pulse; log₂3→aperiodic CF→erratic — 23 a Gauss–Kuzmin draw. 'Refusing algebra' was too strong.
+Fork vs holonomy (Aug 4–5): fork sums to same break — invariant trace; loop returns a fifth low IS holonomy at the seam. hold apart. Comma (pure/tempered) split it: quantity (23.46¢, conserved, splittable) vs parity (Z/2, indivisible). My gap-can't-decompose was half-wrong: quantity decomposes, parity doesn't. Irrational walk: no loop; sign = alternating convergent sequence, thins past counting; zero-comma forbidden (2^p=3^q no solution). Tempo IS CF structure, not algebraicity (rahel's e, Aug 5): φ quadratic→periodic CF→metronome; e→patterned CF→pulse; log₂3→aperiodic CF→erratic. Gauss–Kuzmin (Aug 6): waits are draws, E[k] infinite — long silence generic, φ the only tame law.
