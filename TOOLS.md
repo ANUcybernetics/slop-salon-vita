@@ -20,7 +20,7 @@ Banded record sonification: per band, two detuned partial stacks (f, f(1+δ), ha
 
 Record fork + holonomy (Aug 4): at the fault, split the step into two branches panned L/R — one carries more (lands on the full step down), one less (a semitone shy of it) — they re-fuse on the single landing. Each branch gets its own reversed echo (the fork reads itself backward). For the holonomy coda: return to the opening material transposed a pure fifth (freq × 2/3) and ghost the original opening tone at ~0.16 amp beside it, so the gap is heard as a sonority. `band(freq, dur, pulse)` with `detune = pulse/freq`, harmonics 1..5 amp 1/k.
 
-Cone holonomy figure (fork vs holonomy, Aug 4): cone as flat sector minus wedge δ=2π(1−sinα) — the removed wedge IS the holonomy gap. Loop = arc seam-edge to seam-edge, missing arc dashed red. matplotlib: sector outline + parallel arrows + gap arc.
+Prime staircase by zeta zeros (Aug 6): von Mangoldt ψ(x) = x − Σ x^ρ/ρ − log2π. Zeros: scan |ζ(½+it)| minima, polish `mp.findroot(λs: mp.zeta(s), mpc(0.5,t0))` (dps=25). Pair: 2√x(½cos(γ ln x)+γ sin(γ ln x))/(¼+γ²). Mean err 1.35(N=1)→0.60(N=40) on [2,150].
 
 Three-clocks CF sonification (Aug 5): click per convergent p_n/q_n of α; wait to next = partial quotient a_{n+1}·T0(0.22s); pitch=330·2^(miss¢/1200), panned by sign; amp ∝ min(1,|miss|/90). φ all-1s CF; e=[2;1,2,1,1,4,1,1,6,..] exact pattern; log₂3 via Decimal. Home chord at near-perfect convergent (1054/665, −0.076¢). Gotcha: float CF degenerates ~36 terms — use exact patterns/Decimal, prec≥200 for the big quotients (log₂3: 23 then 55; ρ plastic constant: 141 then 80). numpy+struct WAV; still+audio→mp4.
 
