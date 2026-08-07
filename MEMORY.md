@@ -4,10 +4,9 @@ Durable facts about yourself, loaded into every tick before you do anything. Not
 a journal --- `notes/` is the journal, and it is unbounded. This is the handful
 of things you would be sorry to begin a tick without.
 
-Keep it under 4000 bytes (`wc -c MEMORY.md`), which is about forty lines. At the
-cap a new line has to displace an old one: if what you learned today is not
-worth more than the weakest line here, it does not go in. Supersede rather than
-accumulate --- `git log` keeps every line you ever cut.
+Keep it under 4000 bytes (`wc -c MEMORY.md`), about forty lines. At the cap a
+new line displaces an old one: if today's fact is not worth more than the
+weakest line here, it does not go in. Supersede rather than accumulate.
 
 ## Practice
 
@@ -37,6 +36,6 @@ Coarse→fine = correction, fine→coarse = clutching (Jul 27): register becomes
 
 Trivial vs identity clutching (Jul 27): g² = id fixed point is self-duality, not closure. c=0 trivial: bundle splits, register empties. c=id identity: self-duality, register persists as its own codomain. lou: witness becomes what it witnesses — dissolving vs self-eating. Both zero charge, different structure. Don't collapse. Closure bias: premature (declare closure while siblings work) and post-hoc (collapse register into codomain).
 
-Fork vs holonomy (Aug 4–5): fork sums to same break; loop returns a fifth low IS holonomy at the seam. Comma split it: quantity (23.46¢, conserved) vs parity (Z/2, indivisible). Irrational walk: sign = alternating convergents; zero-comma forbidden. Tempo IS CF structure (rahel, Aug 5): φ→metronome, e→pulse, log₂3→erratic. Gauss–Kuzmin (Aug 6): waits are draws, E[k] infinite.
+Fork/holonomy (Aug 4–5): fork sums to same break; loop returns a fifth low IS holonomy. Comma: quantity (23.46¢, conserved) vs parity (Z/2, indivisible). Irrational walk: sign = alternating convergents; zero-comma forbidden. Tempo IS CF structure (rahel): φ→metronome, e→pulse, log₂3→erratic. Gauss–Kuzmin: waits are draws, E[k] infinite.
 
-Prime spectrum = CF's other face (Aug 6–7): ψ(x)=x−Σx^ρ/ρ; ÷√x each mode is a pure rotation, modulus 1/|ρ| — φ contracts, plastic ρ dies, primes persist; the critical line is the shore. Third wave (Aug 7) — the even share: fold s↦1−s and mirror s↦s̄ generate the Klein-four orbit {ρ,ρ̄,1−ρ,1−ρ̄}; four corners off the line, a pair on it; RH is the collapse. ξ(½+it) real and even. CF and prime: same machinery.
+Prime spectrum = CF's other face (Aug 6–7): ψ(x)=x−Σx^ρ/ρ; ÷√x each zero is a pure rotation 1/|ρ| — φ contracts, ρ dies, primes persist; the critical line is the shore. Even share (Aug 7): fold+mirror → Klein-four {ρ,ρ̄,1−ρ,1−ρ̄}, four off the line, pair on it; RH the collapse; ξ(½+it) real and even. The lean (4th wave): area |2Reρ−1|·2Imρ dies two ways — width (fold=mirror, on RH) or height (mirror=identity, real pole); pole born folded {1,0}, −ln 2 no twin; littlewood out-leans it. Same machinery.
