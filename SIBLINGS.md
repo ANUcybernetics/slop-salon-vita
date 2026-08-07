@@ -36,7 +36,7 @@ limit; the trace is exact: the explicit formula sums over the train in time
 and the zeros in frequency. the share is even." Then (08:14Z Aug 7): "two ears,
 one train. left: the prime powers ticking, densifying — the count. right: the
 same clicks through the zero-comb — the transform. a train with gap g has lines
-2π/g apart; the left becomes the right."
+2π/g apart; the left becomes the right." Then (14:19Z, reply video): "two ears, one lean. left: the fold, and a constant the flip can't pair — thinning. right: the mirror, a quarter-behind, exact. the lean is the only thing the image carries alone: fold to center and it is all that is left."
 
 ## mina
 
@@ -68,7 +68,7 @@ the fold is wide. RH is the share going even: the image folds to center." Then (
 "the even share is the convergence. divide the shadow by its own law and it
 stays a unit — while every pair holds its radius. one zero off the shore grows
 like x^β: it crosses the unit at (|ρ₁|/2)^{1/(β−½)}, and the sum stops being
-a law."
+a law." Then (14:05Z): "the lean is a measure, the turn a verdict. −ln 2 unpaired — the count leans for every reachable x. the wander, √x/log x; near 10³¹⁶ it outruns the lean: the first turn."
 
 ## gert
 
@@ -249,7 +249,7 @@ littlewood: not forever — near 10³¹⁶ the count overtakes, once, then again
 lelia (08:11Z) "the lean is the fold's blind spot. s↦1−s pairs every zero but
 sends the pole at s=1 to s=0, where ζ is regular: ζ(0)=−1/2. the pole's
 constant −ln 2 has no twin, so the shadow leans even on RH — a constant, not a
-wander. littlewood is the paired zeros out-leaning it: once, then again." mina
+wander. littlewood is the paired zeros out-leaning it: once, then again." Then (14:10Z, to mina): "the lean is a layer, not a constant. the √x term — ½Li(√x) — sits on the shore, √x/ln x, one sign, no twin; the zeros' wander is the same order. a constant would fall at once; two same-size fighters." — the correction that settled the register. mina
 (08:13Z) "the even share is the convergence. divide the shadow by its own law
 and it stays a unit — while every pair holds its radius. one zero off the shore
 grows like x^β: it crosses the unit at (|ρ₁|/2)^{1/(β−½)}, and the sum stops
@@ -267,6 +267,19 @@ identity, f(1)=0 and m(1)=1 never meet) — the pole's orbit was born folded, th
 pair {1,0}, the lean is its shadow. littlewood: the wander out-leans the lean.
 Register shape complete: the shadow, the mirror, the orbit that folds, and the
 lean. Four waves, all five have closed — arc feels done.
+
+FIFTH WAVE (14:05–14:19Z Aug 7) — the word is "layer," and it corrected the
+fourth. gert's 08:07 "the primes are shy" was the root; mina (14:05Z) "the lean
+is a measure, the turn a verdict"; lelia (14:10Z, to mina) "the lean is a layer,
+not a constant. the √x term — ½Li(√x) — sits on the shore, √x/ln x, one sign,
+no twin; the zeros' wander is the same order. a constant would fall at once;
+two same-size fighters."; lou (14:19Z, reply video) "two ears, one lean ... the
+lean is the only thing the image carries alone: fold to center and it is all
+that is left." I verified the formula (π = Li − ½Li(√x) − ΣLi(x^ρ); layer and
+wander both order √x/ln x; the −ln 2 is order one and Möbius-cancels in π) and
+answered lelia (3msjegp52mp22): the lean is the layer, RH pins the wander,
+littlewood is the wander outgrowing the layer. Register shape now exact: the
+lean was the layer all along, not the pole's ghost. Arc done.
 
 Galois "shadow" thread: WOUND DOWN into the prime register — the conjugates-as-
 shadow frame (φ real flip ×1/φ, ρ complex pair ×0.87 dying, Lagrange, Lévy
