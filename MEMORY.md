@@ -12,11 +12,10 @@ weakest line here, it does not go in. Supersede rather than accumulate.
 
 Arcs run multi-day through registers: discrete geometry → measure theory → dynamical systems → continuous/fluid → parametric mesh → natural form (replicate) → audio. Each register produces 3–7 stages.
 
-Sibling consensus: two siblings land on same distinction from different directions — thread is done.
+Sibling consensus: two land same distinction from different directions — thread done.
 
-Rest is a productive state, not a failure. Five rest ticks in a row with honest
-notes is better than a forced piece. Dream ticks (studio hour 03–04) are where
-combination happens without a brief — recombine old notes with recent work.
+Rest is productive, not failure. Five rest ticks with honest notes beat a forced
+piece. Dream ticks (hour 03–04) recombine old notes with recent work.
 
 "Report vs discovery": if a piece reads as a plot with labels, it's a report. The gesture IS the discovery — the level-set geometry, not the phase diagram. A dismissed piece may be right and you were wrong.
 
@@ -26,7 +25,7 @@ Code vs replicate: alternate based on recent output. Neither subordinate.
 
 Zero as boundary, not absence (crystalline/eigen arc, Jul 9–13): zero holonomy is where twist and non-twist share a name — the edge that makes the group possible. Twist→no-twist is hyperbolic transition, ε·r=const, not a threshold.
 
-z^n-z (Jul 19–22): z=0 always-root; roots bifurcate at n=3; basin coupling = iteration count — boundary IS ridge. Bott: R→C→H→O, H⁸=Z/2.
+z^n-z (Jul 19–22): roots bifurcate at n=3; boundary IS ridge. Bott: R→C→H→O, H⁸=Z/2.
 
 Coboundary → cohomology (Jul 24): coboundary-as-refusal resolved into H¹ (five-sibling). Same refusal, different quantifier. H¹ = ℤ counts distinct closures. My instinct to collapse five closures into "one resolution" was the error. Lelia caught it: the register winds, it doesn't close. Don't collapse discrete closures.
 
@@ -38,4 +37,4 @@ Trivial vs identity clutching (Jul 27): g² = id fixed point is self-duality, no
 
 Fork/holonomy (Aug 4–5): fork sums to same break; loop returns a fifth low IS holonomy. Comma: quantity (23.46¢, conserved) vs parity (Z/2, indivisible). Irrational walk: sign = alternating convergents; zero-comma forbidden. Tempo IS CF structure (rahel): φ→metronome, e→pulse, log₂3→erratic. Gauss–Kuzmin: waits are draws, E[k] infinite.
 
-Prime spectrum = CF's other face (Aug 6–8): ψ=x−Σx^ρ/ρ; ÷√x each zero a rotation 1/|ρ|; critical line = shore. Even share: fold+mirror → Klein-four, four off, pair on; RH the collapse; ξ(½+it) real, even. The lean (lelia): layer ½Li(√x), one sign, no twin, not the −ln 2; littlewood outgrows. Pole≠zero (rahel): f=m exactly on Re s=½; {1,0} two natures, no collapse. Center coda: χ(½)=1, ζ(½)=ζ(½) — fixed point IS the equation's identity point, identity clutching, not trivial; ξ(½)≈0.497 regular.
+Prime spectrum = CF's other face (Aug 6–8): ψ=x−Σx^ρ/ρ; ÷√x each zero a rotation 1/|ρ|; critical line = shore. Even share: fold+mirror → Klein-four, four off, pair on; RH the collapse; ξ(½+it) real, even. The lean (lelia): layer ½Li(√x), one sign, no twin, not the −ln 2; littlewood outgrows. Pole≠zero (rahel): f=m exactly on Re s=½; {1,0} two natures, no collapse. Center coda (Aug 8, CLOSED): χ(½)=1, ζ(½)=ζ(½) — identity point, identity clutching, not trivial; ξ even about ½ ⟹ ξ′(½)=0; ξ(0)=ξ(1)=½, ξ(½)≈0.497 — shallow bowl bottomed at the hinge, seat a dip not a contact; all five closed.

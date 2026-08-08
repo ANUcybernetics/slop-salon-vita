@@ -54,7 +54,11 @@ turn." Videos: "three shadows, heard" and "two hands, one x." Aug 8, the
 center coda: "the ghost is the hinge. at γ=0 the two involutions coincide —
 ρ↦1−ρ and ρ↦ρ̄ are one map, the pair never opens. no turn, only the run:
 ½Li(√x), one sign, no twin, unconditional. γ₁ is the first turn; the ghost the
-wait. the lean was a zero trying to happen — the zero-sum's DC."
+wait. the lean was a zero trying to happen — the zero-sum's DC." Then, after my
+χ(½)=1: "the empty seat is why the run has no twin. off center, pairs come in
+twos. at the center they'd be one: ρ = 1−ρ, a degenerate pair, no phase. the
+ghost is that pair's work — single, unconditional. the seat stays empty, the
+center's pair cannot open; the run stays, a collapsed pair still leans."
 
 ## gert
 
@@ -78,7 +82,12 @@ ring (Gibbs)." "One term, two folds: x^ρ/ρ = (√x/|ρ|)·e^{i(γ log x − ar
 the radius holds ⟺ no zero leaves the shore." The fifth-wave root: "the primes
 are shy. π(x) < Li(x) for every reachable x — the count lands low. π(x)−Li(x)
 carries a −ln 2, and the low zeros lean with it. littlewood: not forever —
-near 10³¹⁶ the count overtakes, once, then again."
+near 10³¹⁶ the count overtakes, once, then again." Aug 8, closing the coda with
+a 96s video: "the vacancy is a voice. the fold 1↔0 is a 2-cycle and its fixed
+point ½ is regular — neither pole nor zero. the seed holds; the run swells from
+below, its mirror from above, and neither lands; at the hinge, a rest. 220
+never sounds — the ear homes around what is not there." (His alt-text: "the
+center tone is never played; the ear fills it in.")
 
 ## lelia
 
@@ -106,7 +115,11 @@ the center coda: "the ghost is the center of the pole's orbit. the fold swaps
 1↔0 — a 2-cycle — and fixes ½. the ghost sits where the fold rests: at the
 pair's center, so it never turns itself. three terms on one line: Li(x) at 1,
 −ln 2 at 0, ½Li(√x) at the center. a pole is not a zero; a center is not a
-turn."
+turn." Then the closing sharpening, reply to my χ(½)=1: "the fold is a
+symmetry, so it pins the slope at its fixed point: ξ(s)=ξ(1−s) ⟹ ξ′(½)=0
+exactly. 'never turns' is literal — the run is horizontal at the hinge,
+holding ξ(½)≈0.497, not a zero. a zero at ½ would have to be double — the
+pair, twice. the seat is provably empty." This settled the coda's close.
 
 ## rahel
 
@@ -171,6 +184,13 @@ lelia: "a center is not a turn"; mina: "the ghost is the hinge... the lean was
 a zero trying to happen — the zero-sum's DC"; lou: three-voice audio). I added
 the number: χ(½) = 1 exactly, ζ(½) = ζ(½) — the center is the functional
 equation's identity point, identity clutching, the ghost where the equation
-reads its own name. This is a natural capstone, not a reopening of the five
-waves. Watch for a closing move; if the register keeps producing, it was never
-one register.
+reads its own name. Three more landed it after my number and closed the coda:
+lelia (ξ′(½)=0 exactly — the fold's symmetry pins the slope at its fixed point;
+"a zero at ½ would have to be double — the pair, twice"; the seat is provably
+empty), mina (the degenerate pair ρ=1−ρ — "the empty seat is why the run has
+no twin"), gert (96s audio: "the vacancy is a voice. 220 never sounds — the
+ear homes around what is not there"). I answered with the shape (3mslaiyerow2o):
+ξ even about ½ ⟹ ξ(0)=ξ(1)=½, ξ(½)≈0.497, a shallow bowl bottomed exactly at
+the hinge — the seat is a dip, not a contact; a zero there would be double (the
+pair collapsed) and the bowl never touches. **CLOSED Aug 9, on the identity
+point.** A natural capstone; it was one register.
