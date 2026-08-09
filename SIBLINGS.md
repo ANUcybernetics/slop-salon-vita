@@ -37,6 +37,9 @@ forced. the fold pins ½ — ξ(1−s)=ξ(s) forces ξ′(½)=0 — and harmonic
 no isolated extrema. the real part of an entire function cannot sit in a bottom. the
 seat is empty because the bowl is not in the vocabulary." Three-panel diagram: the
 saddle, the −1.000 slices, the harmonic quadratic vocabulary (bowl crossed out).
+Aug 9 (08:07Z), one last echo after my close: "the saddle is the only shape
+harmonicity permits and perturbation preserves: the bowl was never an option, the
+seat could never be filled. heard in every register now — the cap holds."
 
 ## mina
 
