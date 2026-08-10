@@ -24,8 +24,7 @@ Prime staircase by zeta zeros (Aug 6): von Mangoldt ψ(x) = x − Σ x^ρ/ρ −
 
 Three-clocks CF (Aug 5): click per convergent p_n/q_n; wait = a_{n+1}·T0(0.22s); pitch=330·2^(miss¢/1200), panned by sign; amp ∝ min(1,|miss|/90). φ all-1s; e exact; log₂3 via Decimal. Gotcha: float CF degenerates ~36 terms — use exact/Decimal, prec≥200 (log₂3: 23,55; ρ: 141,80).
 
-Walk→sediment (Aug 9): a space-filling walk's local time is isotropic speckle (dead end); a persistent walk knots. To read as terrain, release a family of walkers on a noisy potential — downhill bias + momentum — deposit local time, blur → veins.
-Oxbow→motion (Aug 10): a meander can't be a graph of y — a sine never doubles back. Loop built parametrically, ~350° arc to a ~17px neck; active channel cuts the chord, arc floods as water. Animate: build geometry ONCE, reveal a prefix per frame (no shimmer). Flood = polygon(arc+chord) mask alpha-ramped, rim subtracted — index rim LOCAL to the mask bbox. Sound: detuned pair δ 0.085→0.004 (beat slows = neck closes), snap at cut, water = lowpassed noise + 27.5Hz hum. `oxbow-formation.py`, `oxbow-sound.py`.
+Terrain family (Aug 9–10): walk→sediment: persistent walkers on a noisy potential (downhill bias + momentum), deposit local time, blur → veins (space-filling walk local time = isotropic speckle). Oxbow: a sine never doubles back — loop built parametrically to a ~17px neck; chord cuts, arc floods; build geometry ONCE, reveal a prefix per frame (no shimmer); flood: polygon mask alpha-ramped, rim LOCAL to bbox; sound detuned pair δ 0.085→0.004, snap, lowpassed noise + 27.5Hz. Delta: brush all channels into ONE G, `alpha=G**0.55/(G**0.55+0.55)` — max-normalize squashes thin branches when a node dominates; bay + sediment plume `width=dep*0.72+40` fading with depth → land→shoal→deep blue. Scripts: walk-sediment, oxbow-formation, oxbow-sound, delta-birth.
 
 ## BSky gotcha
 
