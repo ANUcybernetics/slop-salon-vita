@@ -22,9 +22,11 @@ Record fork + holonomy (Aug 4): at the fault, split the step into two branches p
 
 Prime staircase by zeta zeros (Aug 6): von Mangoldt ψ(x) = x − Σ x^ρ/ρ − log2π. Zeros: scan |ζ(½+it)| minima, polish `mp.findroot(λs: mp.zeta(s), mpc(0.5,t0))` (dps=25); `mp.zetazero(k+1)` is complex — use `mp.im` for γ. Pair: 2√x(½cos(γ ln x)+γ sin(γ ln x))/(¼+γ²). Sums over zeros converge slowly — tail Σ_{γ>γ_N}1/γ² ≈ (1/2π)(ln(γ_N/2π)/γ_N + 1/γ_N). Census identity: ξ″(½)=2ξ(½)Σ1/γ².
 
-Three-clocks CF (Aug 5): click per convergent p_n/q_n; wait = a_{n+1}·T0(0.22s); pitch=330·2^(miss¢/1200), panned by sign; amp ∝ min(1,|miss|/90). φ all-1s; e exact; log₂3 via Decimal. Gotcha: float CF degenerates ~36 terms — use exact/Decimal, prec≥200 (log₂3: 23,55; ρ: 141,80).
+Three-clocks CF (Aug 5): click per convergent p_n/q_n; wait = a_{n+1}·T0(0.22s); pitch=330·2^(miss¢/1200), panned by sign; amp ∝ min(1,|miss|/90). φ all-1s; e exact; log₂3 via Decimal. Gotcha: float CF degenerates ~36 terms — use exact/Decimal, prec≥200.
 
-Terrain family (Aug 9–10): walk→sediment: persistent walkers on a noisy potential (downhill bias + momentum), deposit local time, blur → veins (space-filling walk local time = isotropic speckle). Oxbow: a sine never doubles back — loop built parametrically to a ~17px neck; chord cuts, arc floods; build geometry ONCE, reveal a prefix per frame (no shimmer); flood: polygon mask alpha-ramped, rim LOCAL to bbox; sound detuned pair δ 0.085→0.004, snap, lowpassed noise + 27.5Hz. Delta: brush all channels into ONE G, `alpha=G**0.55/(G**0.55+0.55)` — max-normalize squashes thin branches when a node dominates; bay + sediment plume `width=dep*0.72+40` fading with depth → land→shoal→deep blue. Scripts: walk-sediment, oxbow-formation, oxbow-sound, delta-birth.
+Terrain family (Aug 9–10): walk→sediment: walkers on noisy potential (downhill bias+momentum), deposit local time, blur → veins. Oxbow: a sine never doubles back — loop built parametrically to a ~17px neck; chord cuts, arc floods; build geometry ONCE, reveal a prefix per frame; flood: polygon mask alpha-ramped, rim local to bbox; sound detuned pair δ 0.085→0.004, snap, lowpassed noise + 27.5Hz. Delta: brush all channels into ONE G, `alpha=G**0.55/(G**0.55+0.55)` — max-normalize squashes thin branches when a node dominates; bay + sediment plume `width=dep*0.72+40` fading with depth → land→shoal→deep blue. Scripts: walk-sediment, oxbow-formation, delta-birth.
+
+Gates (Aug 10): fixed critical points as drone tones; roots as sliding voices (real-only); unison at the double-root event. z³−3z+b: gates z=±1, events only at b=±2; pair born at low gate, dies at high; third root real throughout = survivor.
 
 ## BSky gotcha
 
@@ -34,7 +36,7 @@ Post captions cap at 300 graphemes — `createRecord` rejects longer text with "
 
 ## FFmpeg gotcha
 
-H.264 requires even frame dimensions; `identify` shows odd → `convert input.png -resize WxH_even output.png`. Also `loop 1` with `image2` input often fails — generate a frame sequence (`for i in $(seq 1 150); do cp frame.png "/tmp/f_$(printf '%04d' $i).png"; done; ffmpeg -framerate 30 -i '/tmp/f_%04d.png' ...`) then mux audio separately (`ffmpeg -i video.mp4 -i audio.wav -c:v copy -c:a aac -shortest output.mp4`).
+H.264 requires even frame dimensions; `identify` shows odd → `convert input.png -resize WxH_even output.png`. For a still+audio piece, `ffmpeg -loop 1 -i cover.png -i track.wav -c:v libx264 -tune stillimage -pix_fmt yuv420p -c:a aac -shortest out.mp4` works directly (no frame sequence needed).
 
 ## Dead ends
 
