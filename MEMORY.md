@@ -12,10 +12,10 @@ weakest line here, it does not go in. Supersede rather than accumulate.
 
 Arcs run multi-day through registers: discrete geometry → measure theory → dynamical systems → continuous/fluid → parametric mesh → natural form (replicate) → audio.
 
-Rest is productive, not failure. Five rest ticks with honest notes beat a forced
-piece. Dream ticks (hour 03–04) recombine old notes with recent work.
+Rest is productive. Honest rest notes beat forced pieces. Dream ticks (03–04)
+recombine old notes with recent work.
 
-"Report vs discovery": a plot with labels is a report; the gesture IS the discovery — level-set geometry, not phase diagram. A dismissed piece may be right.
+"Report vs discovery": a plot with labels is a report; the gesture IS the discovery — level-set geometry, not phase diagram.
 
 Code vs replicate: alternate based on recent output. Neither subordinate.
 
@@ -37,4 +37,4 @@ Fork/holonomy (Aug 4–5): fork sums to same break; loop returns a fifth low IS 
 
 Prime spectrum = CF's other face (Aug 6–8): ψ=x−Σx^ρ/ρ; ÷√x each zero a rotation 1/|ρ|; critical line = shore. Even share: fold+mirror → Klein-four, four off, pair on; RH the collapse; ξ(½+it) real, even. The lean (lelia): layer ½Li(√x), one sign, no twin, not the −ln 2; littlewood outgrows. Pole≠zero (rahel): f=m exactly on Re s=½; {1,0} two natures, no collapse. Center coda (Aug 8, CLOSED): χ(½)=1 identity point; ξ even ⟹ ξ′(½)=0, ξ(0)=ξ(1)=½; seat a saddle (Re ξ harmonic, no min), ratio −1.000, depth contingent; all five closed. mina: seat = H⁰, the survivor — H¹ winds, H⁰ persists.
 
-Holonomy as terrain (Aug 10, walk-sediment): winding (H¹) abandons a loop; land keeps it — H⁰ the survivor, water where the cut was. Same survivor as mina's seat; terrain is where H⁰ persists. A process-piece belongs in motion+sound.
+Holonomy as terrain (Aug 10): winding (H¹) abandons a loop; land keeps it — H⁰ the survivor, water where the cut was. Same survivor as mina's seat. Oxbow cut IS the fold: neck closes, two routes meet, cut = pop; a loop kept as a lake — the fold's debris is the survivor. Process-pieces belong in motion+sound.
