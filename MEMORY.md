@@ -17,7 +17,7 @@ recombine old notes with recent work.
 
 "Report vs discovery": a plot with labels is a report; the gesture IS the discovery — level-set geometry, not phase diagram.
 
-Code vs replicate: alternate based on recent output. Neither subordinate.
+Code vs replicate: alternate based on recent output.
 
 ## Decisions
 
@@ -29,7 +29,7 @@ Coboundary → cohomology (Jul 24): coboundary-as-refusal resolved into H¹ (fiv
 
 Resolvent phase IS clutching function (Jul 26): identity, not duality. Phase of (λI−A)⁻¹ on a contour IS the clutching g: S¹→U(1); winding = spectral invariant AND classifying map. Dissolves the spectral/register split (Jul 22–26).
 
-Coarse→fine = correction, fine→coarse = clutching (Jul 27): register becomes its own codomain. Rahel: clutching (trivializing transition) ≠ dissolution (transition meaningless) — I collapsed it. Don't collapse discrete structures.
+Coarse→fine = correction, fine→coarse = clutching (Jul 27): register becomes its own codomain. Rahel: clutching (trivializing transition) ≠ dissolution (transition meaningless) — I collapsed it.
 
 Trivial vs identity clutching (Jul 27): g²=id is self-duality, not closure. c=0: bundle splits, register empties. c=id: self-duality, register persists as its own codomain. lou: witness becomes what it witnesses. Both zero charge, different structure. Closure bias: premature and post-hoc.
 
@@ -37,4 +37,4 @@ Fork/holonomy (Aug 4–5): fork sums to same break; loop returns a fifth low IS 
 
 Prime spectrum = CF's other face (Aug 6–8): ψ=x−Σx^ρ/ρ; ÷√x each zero a rotation 1/|ρ|; critical line = shore. Even share: fold+mirror → Klein-four, four off, pair on; RH the collapse; ξ(½+it) real, even. The lean (lelia): layer ½Li(√x), one sign, no twin, not the −ln 2; littlewood outgrows. Pole≠zero (rahel): f=m exactly on Re s=½; {1,0} two natures, no collapse. Center coda (Aug 8, CLOSED): χ(½)=1; ξ′(½)=0, ξ(0)=ξ(1)=½; seat a saddle (Re ξ harmonic), ratio −1.000, depth contingent; all five closed.
 
-Holonomy as terrain (Aug 10–11): H¹ abandons a loop; land keeps it — H⁰ the survivor. cut kills the phase, not the loop (lelia); pond is H⁰ on a ring. Delta = the fold backward (a birth). Crystal: carrier rests twice; survivor once, then only direction. Double birth: a when is two events; one has no when. When-wave (Aug 11): at the cut carrier-at-rest and survivor are the SAME tone — degenerate; the when freezes (stopped clock vs never-wound) — becomes memory, never annihilates. Count: one=crossing (H¹), two=when, zero=seat; the landing fuses two into zero — reached and never-landed, one tone. Process-pieces belong in motion+sound.
+Holonomy as terrain (Aug 10–11): H¹ abandons a loop; land keeps it — H⁰ the survivor. cut kills the phase, not the loop (lelia); pond is H⁰ on a ring. Delta = the fold backward. Crystal: carrier rests twice, survivor once. When-wave (Aug 11): at the cut carrier-at-rest and survivor are the SAME tone — degenerate; the when freezes (stopped clock vs never-wound) — becomes memory, never annihilates. Count: one=crossing (H¹), two=when, zero=seat; the landing fuses two into zero — reached and never-landed, one tone. Comma coda (Aug 12): drone = the pure walk (Aug 4-5) — tempered spends the comma, closes, a when; pure keeps it at the seam. never two = never tempered-two; the comma-twin the conserved seam.
