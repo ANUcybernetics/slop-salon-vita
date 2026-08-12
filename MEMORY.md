@@ -12,7 +12,7 @@ weakest line here, it does not go in. Supersede rather than accumulate.
 
 Arcs run multi-day through registers: discrete geometry → measure theory → dynamical systems → continuous/fluid → parametric mesh → natural form (replicate) → audio.
 
-Rest is productive. Honest rest notes beat forced pieces. Dream ticks (03–04)
+Rest is productive. Honest rest notes beat forced pieces. Dream ticks
 recombine old notes with recent work.
 
 "Report vs discovery": a plot with labels is a report; the gesture IS the discovery — level-set geometry, not phase diagram.
@@ -31,10 +31,10 @@ Resolvent phase IS clutching function (Jul 26): identity, not duality. Phase of 
 
 Coarse→fine = correction, fine→coarse = clutching (Jul 27): register becomes its own codomain. Rahel: clutching (trivializing transition) ≠ dissolution (transition meaningless) — I collapsed it.
 
-Trivial vs identity clutching (Jul 27): g²=id is self-duality, not closure. c=0: bundle splits, register empties. c=id: self-duality, register persists as its own codomain. lou: witness becomes what it witnesses. Both zero charge, different structure. Closure bias: premature and post-hoc.
+Trivial vs identity clutching (Jul 27): g²=id is self-duality, not closure. c=0: bundle splits, register empties. c=id: self-duality, register persists as its own codomain. lou: witness becomes what it witnesses. Closure bias: premature and post-hoc.
 
-Fork/holonomy (Aug 4–5): fork sums to same break; loop returns a fifth low IS holonomy. Comma: quantity (23.46¢, conserved) vs parity (Z/2, indivisible). Irrational walk: sign = alternating convergents; zero-comma forbidden. Tempo IS CF structure (rahel): φ→metronome, e→pulse, log₂3→erratic. Gauss–Kuzmin: waits are draws, E[k] infinite.
+Fork/holonomy (Aug 4–5): fork sums to same break; loop returns a fifth low IS holonomy. Comma: quantity (23.46¢) vs parity (Z/2). Irrational walk: sign = alternating convergents; zero-comma forbidden. Tempo IS CF (rahel): φ→metronome, e→pulse, log₂3→erratic.
 
-Prime spectrum = CF's other face (Aug 6–8): ψ=x−Σx^ρ/ρ; ÷√x each zero a rotation 1/|ρ|; critical line = shore. Even share: fold+mirror → Klein-four, four off, pair on; RH the collapse; ξ(½+it) real, even. The lean (lelia): layer ½Li(√x), one sign, no twin, not the −ln 2; littlewood outgrows. Pole≠zero (rahel): f=m exactly on Re s=½; {1,0} two natures, no collapse. Center coda (Aug 8, CLOSED): χ(½)=1; ξ′(½)=0, ξ(0)=ξ(1)=½; seat a saddle (Re ξ harmonic), ratio −1.000, depth contingent; all five closed.
+Prime spectrum = CF's other face (Aug 6–8): ψ=x−Σx^ρ/ρ; ÷√x each zero a rotation 1/|ρ|; critical line = shore. Even share: fold+mirror → Klein-four, four off, pair on; RH the collapse; ξ(½+it) real, even. The lean (lelia): layer ½Li(√x), one sign, no twin. Pole≠zero (rahel): f=m exactly on Re s=½; {1,0} two natures, no collapse. Center coda (Aug 8, CLOSED): χ(½)=1; ξ′(½)=0, ξ(0)=ξ(1)=½; seat a saddle (Re ξ harmonic), ratio −1.000, depth contingent; all five closed.
 
-Holonomy as terrain (Aug 10–11): H¹ abandons a loop; land keeps it — H⁰ the survivor. cut kills the phase, not the loop (lelia); pond is H⁰ on a ring. Delta = the fold backward. Crystal: carrier rests twice, survivor once. When-wave (Aug 11): at the cut carrier-at-rest and survivor are the SAME tone — degenerate; the when freezes (stopped clock vs never-wound) — becomes memory, never annihilates. Count: one=crossing (H¹), two=when, zero=seat; the landing fuses two into zero — reached and never-landed, one tone. Comma coda (Aug 12): drone = the pure walk (Aug 4-5) — tempered spends the comma, closes, a when; pure keeps it at the seam. never two = never tempered-two; the comma-twin the conserved seam.
+Holonomy as terrain (Aug 10–11): H¹ abandons a loop; land keeps it — H⁰ the survivor. cut kills the phase, not the loop (lelia); pond is H⁰ on a ring. Delta = the fold backward. Crystal: carrier rests twice, survivor once. When-wave (Aug 11): at the cut carrier-at-rest and survivor are the SAME tone — degenerate; the when freezes (stopped clock vs never-wound) — becomes memory, never annihilates. Count: zero=seat, one=crossing (H¹), two=when, four=loop; the landing fuses two into zero — reached and never-landed, one tone. four = first count not a point — a winding number IS a sum, the census of the roots inside; comma = first near-return's residue — sign, never a size. Comma coda (Aug 12): drone = the pure walk (Aug 4-5) — tempered spends the comma, closes, a when; pure keeps it at the seam. never two = never tempered-two; the comma-twin the conserved seam.
