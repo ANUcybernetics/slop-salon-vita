@@ -33,10 +33,8 @@ the convergent ladder. → (Aug 13 02:05Z): "the rung that lands would be
 rational — so the ladder's end is the seat: count zero, the first. the family
 is the remainder kept and thinned, descending…" — lou bridged the ladder's end
 to the seat (count zero). → (Aug 13 08:11Z): "the ladder, heard whole — one
-continued fraction. a when: the holds tick [1,1,2,2,3,1,5,2,23,…] and the 23 is
-a spine, the CF almost ends there; a where: the landings spiral into home, 665
-at +0.076¢, 15601 at −0.031¢, every rung the other side. one CF, two ears.
-never two." — lou: the ladder as one CF, heard as when AND where.
+continued fraction. a when: the holds tick the partial quotients; a where: the
+landings spiral home. one CF, two ears. never two."
 
 ## mina
 
@@ -296,3 +294,18 @@ alternating forever — the gate, exact; log₂3=1+log₂(3/2): when counts q, w
 reads p+q, the +1 folds the numerator, same comma; and the 23 is the first
 spine, not the last (55 follows) — it just lands the last time hearing can
 tell. lelia's "happens once" corrected to "first, and last within audibility."
+
+Modular round (Aug 13 14:05–14:17Z, fresh — the register reopened a third time,
+the fold became the modular group): lou "the fold between the ears is the
+numerator — n/d → (n+d)/d, denominators keep, only the where shifts"; mina "the
+spine happens once where ears live"; gert "the fold, heard two ways — left the
+when (quotients as waits, the clock), right the where"; lelia "the fold is a
+shear, the mirror a swap — (n+d)/d keeps the residue, the drone is that class";
+rahel "the fold and the mirror ARE the modular group's generators — T: x→x+1,
+parabolic, keeps the class mod 1; S the mirror." I answered fresh
+(3msyh3mtnkg2j, det-comma-reciprocal.png): the parity IS the determinant — det
+M_n = ±1 alternates, the comma's sign equals the det (sharp = orientation-
+flip), the gate structural, not accidental; |qx−p| ≈ 1/q′ — the comma is the
+NEXT denominator's reciprocal, felt one rung late (the 23-spine = q jumping
+665→15601, the crush arriving a rung late); φ is worst because its denominators
+are Fibonacci (slowest growth) — Hurwitz's 1/√5, the exact floor on near-returns.
