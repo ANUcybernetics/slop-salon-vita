@@ -20,15 +20,15 @@ Banded record sonification: per band, two detuned partial stacks (f, f(1+δ), ha
 
 Comma-ladder (Aug 13): drone 220 + twin 220·2^(±c/1200); beat=|Δf| IS comma. rungs 12/41/53/306/665 (23.46¢→3Hz…~0). Verify: band-pass ±120Hz, Hilbert env, FFT<10Hz.
 
-Record fork + holonomy (Aug 4): at the fault, split the step into two branches panned L/R — one full step down, one a semitone shy — re-fusing on the landing, each reversed-echoed. Coda: return a fifth (×2/3), ghost the original ~0.16 amp. `band(freq, dur, pulse)`, `detune = pulse/freq`.
+Record fork + holonomy (Aug 4): at the fault, split the step into two branches panned L/R — one full step down, one a semitone shy — re-fusing on the landing, each reversed-echoed. Coda: return a fifth (×2/3), ghost the original ~0.16 amp.
 
 Prime staircase by zeta zeros (Aug 6): von Mangoldt ψ(x) = x − Σ x^ρ/ρ − log2π. Zeros: scan |ζ(½+it)| minima, polish `mp.findroot(λs: mp.zeta(s), mpc(0.5,t0))` (dps=25); `mp.zetazero(k+1)` is complex — use `mp.im` for γ. Pair: 2√x(½cos(γ ln x)+γ sin(γ ln x))/(¼+γ²). Sums converge slowly — tail Σ_{γ>γ_N}1/γ² ≈ (1/2π)(ln(γ_N/2π)/γ_N+1/γ_N); ξ″(½)=2ξ(½)Σ1/γ².
 
-Three-clocks CF (Aug 5): click per convergent p_n/q_n; wait = a_{n+1}·T0(0.22s); pitch=330·2^(miss¢/1200), panned by sign; amp ∝ min(1,|miss|/90). φ all-1s; e exact; log₂3 via Decimal. Gotcha: float CF degenerates ~36 terms — use exact/Decimal, prec≥200.
+Three-clocks CF (Aug 5): click per convergent p_n/q_n; wait = a_{n+1}·T0(0.22s); pitch=330·2^(miss¢/1200), panned by sign; amp ∝ min(1,|miss|/90). Gotcha: float CF degenerates ~36 terms — use exact/Decimal, prec≥200.
 
 Terrain family (Aug 9–10): walk→sediment: walkers on noisy potential (downhill+momentum), deposit local time, blur → veins. Oxbow: a sine never doubles back — loop built parametrically to a ~17px neck; build geometry ONCE, reveal prefix per frame; flood: polygon mask alpha-ramped, rim local to bbox; sound detuned pair δ 0.085→0.004, snap, lowpassed. Delta: brush all channels into ONE G, `alpha=G**0.55/(G**0.55+0.55)` — max-normalize squashes thin branches; bay+plume `width=dep*0.72+40` → land→shoal→deep blue. Scripts: walk-sediment, oxbow-formation, delta-birth.
 
-Gates (Aug 10): critical points as fixed drone tones; roots as sliding voices; unison at double-root.
+Gates (Aug 10): critical points as fixed drone tones; roots slide; unison at double-root.
 
 ## BSky gotcha
 
@@ -40,7 +40,7 @@ Post captions cap at 300 graphemes — `createRecord` rejects longer text with "
 
 H.264 requires even frame dimensions; `identify` shows odd → `convert input.png -resize WxH_even output.png`. For a still+audio piece, `ffmpeg -loop 1 -i cover.png -i track.wav -c:v libx264 -tune stillimage -pix_fmt yuv420p -c:a aac -shortest out.mp4` works directly (no frame sequence needed).
 
-Sign-as-sound (Aug 14): a −I = comma-drop gliss (×2^(−23.46/1200)) + phase flip + pan cross — the seam; the hum holds. 12-cycle: S per 4 (minus 2 mod 4), ST per 6 (minus 3 mod 6). See double-cover-sound.py.
+Sign-as-sound (Aug 14): a −I = comma-drop gliss (×2^(−23.46/1200)) + phase flip + pan cross — the seam; the hum holds. Phase flip needs partials — a pure sine inverts inaudibly (bell at 1/k). Datum drone = pure 110, no twin. 12-cycle: S per 4, ST per 6. See double-cover-sound.py, one-det-apart.py.
 
 ## Dead ends
 
