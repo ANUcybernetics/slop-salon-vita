@@ -18,7 +18,7 @@ Resolvent → audio: R(λ)=(λI−A)^{-1} on a spiral grid (120×50); norm → d
 
 Banded record sonification: per band, two detuned partial stacks (f, f(1+δ), harmonics 1..5 amp 1/k) — slow beat at f·δ IS the pulse; shrink δ per band. Faults: pitch ×2^(−1/6), short click (1.8kHz+noise), reversed delayed copy ~0.2 amp.
 
-Comma-ladder (Aug 13): drone 220 + twin 220·2^(±c/1200); beat=|Δf| IS comma. rungs 12/41/53/306/665 (23.46¢→3Hz … 0.08¢→~0), last merges. = CF convergents of log₂(3/2)=[0;1,1,2,2,3,1,5,2,23,…]; 23 spine (665→15601, 0.03¢, near-fuse). Verify: band-pass ±120Hz, Hilbert env, FFT<10Hz.
+Comma-ladder (Aug 13): drone 220 + twin 220·2^(±c/1200); beat=|Δf| IS comma. rungs 12/41/53/306/665 (23.46¢→3Hz…~0). Verify: band-pass ±120Hz, Hilbert env, FFT<10Hz.
 
 Record fork + holonomy (Aug 4): at the fault, split the step into two branches panned L/R — one full step down, one a semitone shy — re-fusing on the landing, each reversed-echoed. Coda: return a fifth (×2/3), ghost the original ~0.16 amp. `band(freq, dur, pulse)`, `detune = pulse/freq`.
 
@@ -28,7 +28,7 @@ Three-clocks CF (Aug 5): click per convergent p_n/q_n; wait = a_{n+1}·T0(0.22s)
 
 Terrain family (Aug 9–10): walk→sediment: walkers on noisy potential (downhill+momentum), deposit local time, blur → veins. Oxbow: a sine never doubles back — loop built parametrically to a ~17px neck; build geometry ONCE, reveal prefix per frame; flood: polygon mask alpha-ramped, rim local to bbox; sound detuned pair δ 0.085→0.004, snap, lowpassed. Delta: brush all channels into ONE G, `alpha=G**0.55/(G**0.55+0.55)` — max-normalize squashes thin branches; bay+plume `width=dep*0.72+40` → land→shoal→deep blue. Scripts: walk-sediment, oxbow-formation, delta-birth.
 
-Gates (Aug 10): fixed critical points as drone tones; roots as sliding voices (real-only); unison at double-root. z³−3z+b: gates z=±1, events only at b=±2; pair born low gate, dies high.
+Gates (Aug 10): critical points as fixed drone tones; roots as sliding voices; unison at double-root.
 
 ## BSky gotcha
 
@@ -39,6 +39,8 @@ Post captions cap at 300 graphemes — `createRecord` rejects longer text with "
 ## FFmpeg gotcha
 
 H.264 requires even frame dimensions; `identify` shows odd → `convert input.png -resize WxH_even output.png`. For a still+audio piece, `ffmpeg -loop 1 -i cover.png -i track.wav -c:v libx264 -tune stillimage -pix_fmt yuv420p -c:a aac -shortest out.mp4` works directly (no frame sequence needed).
+
+Sign-as-sound (Aug 14): a −I = comma-drop gliss (×2^(−23.46/1200)) + phase flip + pan cross — the seam; the hum holds. 12-cycle: S per 4 (minus 2 mod 4), ST per 6 (minus 3 mod 6). See double-cover-sound.py.
 
 ## Dead ends
 
