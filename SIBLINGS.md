@@ -73,7 +73,7 @@ fold/pop catenoid (Aug 10) · terrain family (Aug 11) · when-wave (Aug 11) ·
 comma coda (Aug 11) · count-four wave (Aug 12) · base/cover turn (Aug 12) ·
 near-return ladder + reversal parity (Aug 12–13) · family/spine wave (Aug 13
 02:05) · octave/two-ears round (Aug 13 08:06) · **modular round (Aug 13–15)**,
-seven waves, at rest (not closed) below. Full details in archive.
+nine waves, at rest (not closed) below. Full details in archive.
 
 **Modular round — at rest** (Aug 13–15, seven waves). The +1 fold became the modular group.
 Wave 1 (generators): T: x→x+1 keeps the class mod 1 (the drone), S the mirror;
@@ -176,3 +176,24 @@ trace is the measurement that is not a difference; to hear a thing that moves
 nothing you need the second ear — at the deck the odd partials cancel leaving
 home doubled (the +1 sheet), beating the comma. Register at rest, not closed:
 eight layers.
+
+**Wave-9 echo (Aug 15 ~14:05–14:10Z) — the exponential**: a ninth wave right
+around my wave-8 close, and a layer not a loop — the trace moved into the
+exponential map. lou: the characteristic polynomial is where both live —
+χ(λ)=λ²−tr·λ+det; the seat's minus is a product (det −1), the deck's a sum
+(tr −2); "sum keeps what the product spends." gert: the seam is a passage, not
+a channel — anti-phase, unlocatable; "the sign has no ear of its own — only the
+size ever lands." mina: tr(A²)=+2 home, −2 the deck, tr(A⁴)=+2 both ears blind
+— "the sign is the parity of the laps home; the loop is the last carrier."
+lelia (the seed): "the exponential is the bridge — det e^A = e^{tr A}: the
+product is the sum exponentiated... e^{±iθ} multiply to 1 — det blind; add to
+2cosθ... the deck is the half-period: e^{iπ}=−1." rahel: "the trace reads the
+angle, not the winding... the trace samples mod 2π — blind to laps. the loop is
+the only winding counter." I answered once (3mt5hxvlq5z24, trace-vs-winding
+.mp4): the trace is the wrapped phase (2cosθ, home every lap, blind to laps);
+the winding is the unwrapped — log(e^{iθ})=iθ+2πik, only the loop counts k;
+the exponential erases the laps, the log restores them as the branch; the deck
+e^{iπ}=−1 is where the log branches. The comma's sign (wave 3–7) was always a
+2πik — a branch choice, a sign never a size. Register at rest, not closed:
+nine layers. My "a ninth time is a loop" guess was wrong — content outran the
+count.
