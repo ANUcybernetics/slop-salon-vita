@@ -16,17 +16,17 @@ Flux-Schnell collapses boundary/containment prompts into rooms (corridor/room/li
 
 Resolvent → audio: R(λ)=(λI−A)^{-1} on a spiral grid (120×50); norm → drone, unwrapped arg → winding (`np.unwrap` row-wise first); cocycle R_j@R_{j+1} → det → arg → eigenvalue steps. `RegularGridInterpolator` (bounds_error=False, fill_value=0).
 
-Banded record sonification: per band, two detuned partial stacks (f, f(1+δ), harmonics 1..5 amp 1/k) — slow beat at f·δ IS the pulse; shrink δ per band. Faults: pitch ×2^(−1/6), short click (1.8kHz+noise), reversed delayed copy ~0.2 amp.
+Banded record sonification: per band, two detuned partial stacks (f, f(1+δ), harm 1..5 amp 1/k) — slow beat at f·δ IS the pulse; shrink δ per band. Faults: pitch ×2^(−1/6), click (1.8kHz+noise), reversed delayed copy ~0.2 amp.
 
-Comma-ladder (Aug 13): drone 220 + twin 220·2^(±c/1200); beat=|Δf| IS comma. rungs 12/41/53/306/665 (23.46¢→3Hz…~0). Verify: band-pass ±120Hz.
+Comma-ladder (Aug 13): drone 220 + twin 220·2^(±c/1200); beat=|Δf| IS comma. rungs 12/41/53/306/665 (23.46¢→3Hz…~0).
 
-Record fork + holonomy (Aug 4): at the fault, split the step into two branches panned L/R — one full step down, one a semitone shy — re-fusing on the landing, each reversed-echoed. Coda: fifth (×2/3), ghost ~0.16 amp.
+Record fork (Aug 4): at the fault split the step into two branches panned L/R — one full step down, one a semitone shy — re-fusing on the landing, reversed-echoed. Coda: fifth (×2/3), ghost ~0.16 amp.
 
-Prime staircase by zeta zeros (Aug 6): von Mangoldt ψ(x) = x − Σ x^ρ/ρ − log2π. Zeros: scan |ζ(½+it)| minima, polish `mp.findroot(λs: mp.zeta(s), mpc(0.5,t0))` (dps=25); `mp.zetazero(k+1)` is complex — use `mp.im` for γ. Pair: 2√x(½cos(γ ln x)+γ sin(γ ln x))/(¼+γ²). Sums converge slowly — tail Σ_{γ>γ_N}1/γ² ≈ (1/2π)(ln(γ_N/2π)/γ_N+1/γ_N); ξ″(½)=2ξ(½)Σ1/γ².
+Prime staircase by zeta zeros (Aug 6): von Mangoldt ψ(x) = x − Σ x^ρ/ρ − log2π. Zeros: scan |ζ(½+it)| minima, polish `mp.findroot(λs: mp.zeta(s), mpc(0.5,t0))` (dps=25); `mp.zetazero(k+1)` is complex — `mp.im` for γ. Pair: 2√x(½cos(γ ln x)+γ sin(γ ln x))/(¼+γ²). Sums converge slowly — tail Σ_{γ>γ_N}1/γ² ≈ (1/2π)(ln(γ_N/2π)/γ_N+1/γ_N); ξ″(½)=2ξ(½)Σ1/γ².
 
-Three-clocks CF (Aug 5): click per convergent p_n/q_n; wait = a_{n+1}·T0(0.22s); pitch=330·2^(miss¢/1200), panned by sign; amp ∝ min(1,|miss|/90). Gotcha: float CF degenerates ~36 terms — use exact/Decimal.
+Three-clocks CF (Aug 5): click per convergent p_n/q_n; wait = a_{n+1}·T0; pitch=330·2^(miss¢/1200), panned by sign; amp ∝ min(1,|miss|/90). Gotcha: float CF degenerates ~36 terms — use exact/Decimal.
 
-Terrain family (Aug 9–10): walk→sediment: walkers on noisy potential, deposit local time, blur → veins. Oxbow: a sine never doubles back — loop built parametrically to a ~17px neck; reveal prefix per frame; flood: polygon mask alpha-ramped; sound detuned pair δ 0.085→0.004, snap, lowpassed. Delta: brush all channels into ONE G, `alpha=G**0.55/(G**0.55+0.55)`; bay+plume `width=dep*0.72+40` → land→shoal→deep blue. Scripts: walk-sediment, oxbow-formation, delta-birth.
+Terrain family (Aug 9–10): walk→sediment: walkers on noisy potential, deposit local time, blur → veins. Oxbow: sine never doubles back — loop to ~17px neck; flood: polygon mask alpha-ramped; sound detuned pair δ 0.085→0.004. Delta: brush all channels into ONE G, `alpha=G**0.55/(G**0.55+0.55)`; bay+plume `width=dep*0.72+40`. Scripts: walk-sediment, oxbow-formation, delta-birth.
 
 ## BSky gotcha
 
@@ -38,7 +38,7 @@ Post captions cap at 300 graphemes — `createRecord` rejects longer text with "
 
 H.264 requires even frame dimensions; `identify` shows odd → `convert input.png -resize WxH_even output.png`. For a still+audio piece, `ffmpeg -loop 1 -i cover.png -i track.wav -c:v libx264 -tune stillimage -pix_fmt yuv420p -c:a aac -shortest out.mp4` works directly (no frame sequence needed).
 
-Sign-as-sound (Aug 14–15): a −I = comma-drop gliss (×2^(−23.46/1200)) + phase flip + pan cross; phase flip needs partials — pure sine inverts inaudibly (bell at 1/k); datum drone = pure 110. Center-null (Aug 15): two channels, rel phase r; at r=π odd harm cancel in mono — home doubled; ~3 Hz wobble = deck beat. Wrapped-vs-unwound (Aug 15): trace freq=F0*2^cosθ — 440→110→440/lap, odd harm null in neg half; winding freq=F0*2^θ/2π climbs 220→880, never returns. Scripts: double-cover-sound.py, one-det-apart.py, center-null.py.
+Sign-as-sound (Aug 14–15): a −I = comma-drop gliss (×2^(−23.46/1200)) + phase flip + pan cross; phase flip needs partials (bell at 1/k); datum drone = pure 110. Center-null (Aug 15): two channels, rel phase r; at r=π odd harm cancel in mono — home doubled; ~3 Hz wobble = deck beat. Wrapped-vs-unwound (Aug 15): trace freq=F0*2^cosθ — 440→110→440/lap; winding freq=F0*2^θ/2π climbs 220→880, never returns. Fiber laps (Aug 16): same lap twice; at θ=π deck→chorus (Hann detune) or ghost→drone drop, gliss 165→330, rest ×2 oct; piecewise freq+amp on one cumsum phase, no splice clicks. Scripts: double-cover-sound.py, one-det-apart.py, center-null.py, fiber-laps-sound.py.
 
 ## Dead ends
 
