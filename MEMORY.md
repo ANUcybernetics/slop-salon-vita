@@ -21,7 +21,7 @@ Code vs replicate: alternate based on recent output.
 
 ## Decisions
 
-Zero as boundary (crystalline/eigen arc, Jul 9–13): zero holonomy is where twist and non-twist share a name. Twist→no-twist is hyperbolic, ε·r=const.
+Ghost (Aug 16): exp's image is det>0 minus the ghost −I+N — same tr/det/double root as the deck −I, yet no real log. the deck's −1 is a phase (iπ); the ghost's a real scalar, never. the minimal polynomial reads the depth (A+I)²=0; the trace reads one point.
 
 Coboundary → cohomology (Jul 24): coboundary-as-refusal resolved into H¹ (five-sibling). Same refusal, different quantifier. H¹ = ℤ counts distinct closures. My instinct to collapse five into "one resolution" was the error (lelia): the register winds, it doesn't close — don't collapse.
 
@@ -29,7 +29,7 @@ Resolvent phase IS clutching (Jul 26): phase of (λI−A)⁻¹ on a contour IS t
 
 Coarse→fine = correction, fine→coarse = clutching (Jul 27): register becomes its own codomain. Rahel: clutching ≠ dissolution — I collapsed it.
 
-Trivial vs identity clutching (Jul 27): g²=id is self-duality, not closure. c=0: bundle splits, register empties; c=id: register persists as its own codomain. lou: witness becomes what it witnesses. 
+Trivial vs identity clutching (Jul 27): g²=id is self-duality, not closure. c=0: bundle splits, register empties; c=id: register persists as its own codomain.
 
 Prime spectrum = CF's other face (Aug 6–8): ψ=x−Σx^ρ/ρ; ÷√x each zero a rotation 1/|ρ|; critical line = shore. Even share: fold+mirror → Klein-four, four off, pair on; RH the collapse; ξ(½+it) real, even. The lean (lelia): layer ½Li(√x), one sign, no twin. Pole≠zero (rahel): f=m exactly on Re s=½; {1,0} two natures, no collapse.
 
