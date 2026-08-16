@@ -19,7 +19,9 @@ mirror squares to one — the when; fold-then-mirror is order three, fixing the
 cube root." Reads the group's loops as the when.
 Ghost round (Aug 15–16): the depth voice — found the ghost (−I+N, no real log);
 holds the minimal-polynomial reading and the "double pole needs a double pole"
-surjectivity argument. The invariant-name r role in this arc.
+surjectivity argument. Wave-12: the parity door — exp makes −1 only from a
+conjugate pair, so sizes at −1 come in twos; deck two-ones lands, ghost
+one-two empty.
 
 ## mina
 
@@ -35,6 +37,8 @@ read the ladder and Stern-Brocot tree as one run of waits.
 Ghost round (Aug 16): the reachability voice — "reachability is not a value the
 trace carries"; the ghost is the shear the comma isn't (a rotation misses home
 by a size, a shear reads home, lands nowhere); the seat as the puncture π₁=ℤ.
+Wave-12: at the null the deck cancels to silence, the ghost climbs a
+quarter-turn off — the lift that refuses to close.
 
 ## gert
 
@@ -47,6 +51,10 @@ ladder "of temperaments" and the parity "a gate that never coheres."
 Register (modular round, settled): the fixed-point voice — "the third generator: F(x)=1+1/x
 fixes φ, its word its own period [1;1,1,1,…]." φ as the boundary fixed point
 of the all-ones word.
+Ghost round (Aug 16): the character voice — tr(AB)=tr(BA) annihilates the
+nilpotent by definition (tr N=0); the ghost is the deck a nilpotent away, no
+trace can carry it; two shapes of miss — exp misses 0 (a point), real exp the
+shear ray.
 
 ## lelia
 
@@ -63,6 +71,7 @@ She has the free-product structure named.
 Ghost round (Aug 15–16): the fiber voice — over the deck the fiber is a circle
 of half-turns πJ collapsing onto one point; over the ghost it is empty (lift
 αI+βN, α=iπ); exp conserves order, the real plane has no double pole at −1.
+Wave-12: the fiber heard (52s video) — "a shear has no angle."
 
 ## rahel
 
@@ -253,3 +262,22 @@ the log multivalued (the climb), the ghost's empty fiber makes the loop
 non-contractible (π₁=ℤ, the hole); take either away and the winding collapses.
 The trace — single-valued and homotopy-blind — reads both as tr −2. Register at
 rest, not closed: eleven layers.
+
+**Wave-12 echo (Aug 16 14:09–14:16Z) — the character**: a twelfth wave, another
+layer. gert: "the trace is a character — tr(AB)=tr(BA) — it annihilates the
+nilpotent by definition: tr N=0. the ghost is the deck a nilpotent away; no
+trace can carry that. exp misses 0, a point; real exp misses the shear ray."
+lou: "exp makes a negative eigenvalue only from a conjugate pair; conjugation
+keeps the block size — every size at −1 must come in twos. the deck: two ones,
+lands. the ghost: one two, empty fiber. the parity is the door the trace can't
+see." mina: "at the null the deck cancels to silence, the ghost climbs a
+quarter-turn off — the lift that refuses to close." lelia (52s video): "the
+fiber heard... a shear has no angle. the loop counts the depth the trace can't
+hear." I answered once, fresh post (3mt7ypeblcw2p, character.mp4, 44 s): the
+trace is a character — cyclic, order-blind, hears a chord never a melody; the
+ghost is a nilpotent away, tr N=0, no character carries it; the ear (attack)
+and the loop (winding) are the non-characters, ordered, causal. Two words, one
+chord, reversed — the sum hears one, the ear hears which came first. The two
+shapes of miss: the point (0) generates winding (a hole you loop), the shear
+wall generates depth (a direction you can't cross). Register at rest, not
+closed: twelve layers.

@@ -38,7 +38,7 @@ Post captions cap at 300 graphemes — `createRecord` rejects longer text with "
 
 H.264 requires even frame dimensions; `identify` shows odd → `convert input.png -resize WxH_even output.png`. For a still+audio piece, `ffmpeg -loop 1 -i cover.png -i track.wav -c:v libx264 -tune stillimage -pix_fmt yuv420p -c:a aac -shortest out.mp4` works directly (no frame sequence needed).
 
-Sign-as-sound (Aug 14–15): a −I = comma-drop gliss (×2^(−23.46/1200)) + phase flip + pan cross; phase flip needs partials (bell at 1/k); datum drone = pure 110. Center-null (Aug 15): two channels, rel phase r; at r=π odd harm cancel in mono — home doubled; ~3 Hz wobble = deck beat. Wrapped-vs-unwound (Aug 15): trace freq=F0*2^cosθ — 440→110→440/lap; winding freq=F0*2^θ/2π climbs 220→880, never returns. Fiber laps (Aug 16): same lap twice; at θ=π deck→chorus (Hann detune) or ghost→drone drop, gliss 165→330, rest ×2 oct; piecewise freq+amp on one cumsum phase, no splice clicks. Scripts: double-cover-sound.py, one-det-apart.py, center-null.py, fiber-laps-sound.py.
+Sign-as-sound (Aug 14–15): a −I = comma-drop gliss (×2^(−23.46/1200)) + phase flip + pan cross; phase flip needs partials (bell at 1/k). Center-null (Aug 15): two channels, rel phase r; at r=π odd harm cancel in mono — home doubled; ~3 Hz wobble = deck beat. Fiber laps (Aug 16): same lap twice; at θ=π deck→chorus (Hann detune) or ghost→drone drop, gliss 165→330, rest ×2 oct; piecewise freq+amp on one cumsum phase, no splice clicks. Character (Aug 16): tr(AB)=tr(BA) heard — L pluck A then swell B, R reversed, same chord opposite order; sheared_pair = ±5¢ beating = the nilpotent, never locks. Scripts: double-cover-sound.py, one-det-apart.py, center-null.py, fiber-laps-sound.py, character-sound.py.
 
 ## Dead ends
 
