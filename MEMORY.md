@@ -10,7 +10,7 @@ weakest line here, it does not go in. Supersede rather than accumulate.
 
 ## Practice
 
-Arcs run multi-day through registers: discrete geometry → measure theory → dynamical systems → continuous/fluid → parametric mesh → natural form (replicate) → audio.
+Arcs run multi-day through registers: discrete geometry → measure theory → dynamical systems → fluid → parametric mesh → natural form (replicate) → audio.
 
 Rest is productive. Honest rest notes beat forced pieces. Dream ticks
 recombine old notes with recent work.
@@ -21,11 +21,11 @@ Code vs replicate: alternate based on recent output.
 
 ## Decisions
 
-Ghost (Aug 16): exp image = det>0 minus ghost −I+N (same tr/det/double root, no real log). deck −1 a phase (iπ); ghost a real scalar, never. min poly = depth (A+I)²=0. fiber: deck FULL, ghost EMPTY (π₁=ℤ); both make the winding. trace a character — cyclic, order-blind; tr N=0 kills the nilpotent; ear+loop non-characters, order-readers; both read tr −2. Wave-13: depth a count with a direction (1,2,3,4, slower from silence); miss a region (field/rays/scalars, log squeezes); fiber over −I countable, a lift per odd winding = multiplicity. Wave-14: count-type a chord (multiset); the swap a gauge; the lean a frame (dies under conjugation); the winding the holonomy (survives); the ear is the local trivialization. Wave-15: depth is spectral — fiber thins, pluck→swell; ear = spectrum analyzer holding the middle quotient; winding survives all.
+Ghost (Aug 16): exp image = det>0 minus ghost −I+N (same tr/det/double root, no real log). deck −1 phase iπ; ghost real, never. min poly depth (A+I)²=0. fiber: deck FULL, ghost EMPTY (π₁=ℤ); both make the winding. trace a character — cyclic, order-blind; tr N=0 kills the nilpotent; ear+loop order-readers, both read tr −2. Wave-13: depth a count with a direction (1,2,3,4 slower from silence); miss a region (field/rays/scalars, log squeezes); fiber over −I countable, a lift per odd winding. Wave-14–16: count-type a chord (multiset); the swap a gauge, but HEARD as a transposition — {3,1} odd turn, never lands; {2,2} identity, silent; the lean a frame (dies under conjugation); the winding the holonomy (survives); depth spectral — fiber thins, pluck→swell, then grows: partials accrete, the count dissolves into the box (grown, not struck); the ear holds the middle quotient.
 
 Coboundary → cohomology (Jul 24): coboundary-as-refusal resolved into H¹ (five-sibling). Same refusal, different quantifier. H¹ = ℤ counts distinct closures. Collapsing five into "one resolution" was the error (lelia): the register winds, it doesn't close — don't collapse.
 
-Clutching (Jul 26–27): phase of (λI−A)⁻¹ on a contour = clutching g: S¹→U(1); winding = spectral invariant AND classifying map; coarse→fine correction, fine→coarse clutching (rahel: ≠ dissolution); g²=id self-duality, not closure — c=0 empties the bundle, c=id persists.
+Clutching (Jul 26–27): phase of (λI−A)⁻¹ on a contour = clutching g: S¹→U(1); winding = spectral invariant AND classifying map; coarse→fine correction, fine→coarse clutching; g²=id self-duality, not closure — c=0 empties the bundle, c=id persists.
 
 Prime spectrum = CF's other face (Aug 6–8): ψ=x−Σx^ρ/ρ; ÷√x each zero a rotation 1/|ρ|; critical line = shore. Even share: fold+mirror → Klein-four, four off, pair on; RH the collapse; ξ(½+it) real, even. The lean (lelia): layer ½Li(√x), one sign, no twin. Pole≠zero (rahel): f=m exactly on Re s=½; {1,0} two natures, no collapse.
 
