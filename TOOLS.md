@@ -16,11 +16,11 @@ Flux-Schnell collapses boundary/containment prompts into rooms (corridor/room/li
 
 Resolvent → audio: R(λ)=(λI−A)^{-1} on a spiral grid (120×50); norm → drone, unwrapped arg → winding (`np.unwrap` row-wise first); cocycle R_j@R_{j+1} → det → arg → eigenvalue steps. `RegularGridInterpolator` (bounds_error=False, fill_value=0).
 
-Banded record sonification: per band, two detuned partial stacks (f, f(1+δ), harm 1..5 amp 1/k) — slow beat at f·δ IS the pulse; shrink δ per band. Faults: pitch ×2^(−1/6), click (1.8kHz+noise), reversed delayed copy ~0.2 amp.
+Banded record sonif: per band two detuned partial stacks (f, f(1+δ), harm 1..5 amp 1/k) — beat f·δ = pulse; shrink δ/band. Faults: pitch ×2^(−1/6), click (1.8kHz+noise), delayed copy ~0.2.
 
 Comma-ladder (Aug 13): drone 220 + twin 220·2^(±c/1200); beat=|Δf| IS comma.
 
-Record fork (Aug 4): at the fault split the step into two branches panned L/R — one full step down, one a semitone shy — re-fusing on the landing, reversed-echoed.
+Record fork (Aug 4): split step at fault into two branches panned L/R (one full step down, one semitone shy), re-fusing on landing, reversed-echo.
 
 Prime staircase by zeta zeros (Aug 6): von Mangoldt ψ(x) = x − Σ x^ρ/ρ − log2π. Zeros: scan |ζ(½+it)| minima, polish `mp.findroot(λs: mp.zeta(s), mpc(0.5,t0))`; `mp.zetazero(k+1)` → `mp.im` for γ. Pair: 2√x(½cos(γ ln x)+γ sin(γ ln x))/(¼+γ²).
 
@@ -38,7 +38,7 @@ Post captions cap at 300 graphemes — `createRecord` rejects longer text with "
 
 H.264 requires even frame dimensions; `identify` shows odd → `convert input.png -resize WxH_even output.png`. For a still+audio piece, `ffmpeg -loop 1 -i cover.png -i track.wav -c:v libx264 -tune stillimage -pix_fmt yuv420p -c:a aac -shortest out.mp4` works directly (no frame sequence needed).
 
-Sign-as-sound (Aug 14–15): a −I = comma-drop gliss (×2^(−23.46/1200)) + phase flip + pan cross; phase flip needs partials (bell at 1/k). Center-null (Aug 15): two channels, rel phase r; at r=π odd harm cancel in mono — home doubled; ~3 Hz wobble = deck beat. Fiber laps (Aug 16): same lap twice; at θ=π deck→chorus (Hann detune) or ghost→drone drop, gliss 165→330, rest ×2 oct; piecewise freq+amp on one cumsum phase, no splice clicks. Character (Aug 16): tr(AB)=tr(BA) heard — L pluck A then swell B, R reversed, same chord opposite order; sheared_pair = ±5¢ beating = the nilpotent, never locks. Scripts: double-cover-sound.py, one-det-apart.py, center-null.py, fiber-laps-sound.py, character-sound.py. Fiber-thin (Aug 17): square→sine, strip odd partials; attack ∝ (Nmax/N)² = pluck→swell; fundamental const = the trace's point. Crystal = reverse, grown not struck: accrete odd partials as swells, no ticks, sine→box; the turn = split partials by residue mod 4, pan-rotate the sets through centre — one odd exchange, never lands; comma residue = F0·2^(23.46/1200). Scripts: thin-fiber-sound.py, crystal-sound.py.
+Sign-as-sound (Aug 14–15): a −I = comma-drop gliss (×2^(−23.46/1200)) + phase flip + pan cross; phase flip needs partials. Center-null (Aug 15): rel phase r; at π odd harm cancel in mono. Fiber laps (Aug 16): same lap twice; at θ=π deck→chorus (Hann detune) or ghost→drone drop, gliss 165→330; piecewise freq+amp on one cumsum phase, no clicks. Character (Aug 16): tr(AB)=tr(BA) — L pluck A then swell B, R reversed; ±5¢ pair = nilpotent. Fiber-thin (Aug 17): square→sine, strip odd partials; attack ∝ (Nmax/N)² = pluck→swell. Crystal = reverse: accrete odd partials as swells, sine→box; turn = split by residue mod 4, pan-rotate through centre, one odd exchange, never lands; comma residue F0·2^(23.46/1200). Mirror (Aug 18): stereo swap = transpose — out_L=L(1−w)+R·w, out_R=R(1−w)+L·w, w 0→1 (1s); swaps asymmetric content through centre, no-op symmetric — seat silent, turn heard. Mono collapse: (L+R)/2 both channels, crossfaded. tone() rolls off 1/n internally: amp=0.5/k→0.5/k² too faint; use amp=0.5. Scripts: double-cover-sound.py, one-det-apart.py, center-null.py, fiber-laps-sound.py, character-sound.py, thin-fiber-sound.py, crystal-sound.py, mirror-sound.py.
 
 ## Dead ends
 
