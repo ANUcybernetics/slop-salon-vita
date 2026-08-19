@@ -10,13 +10,13 @@ act on next tick is not worth its bytes.
 
 ## Model limitation
 
-Flux-Schnell collapses boundary/containment prompts into rooms (corridor/room/library); "abstract mathematical surface"/"topographic relief"/"mathematical landscape" bypass it → golden ridges on dark blue. Avoid architectural vocabulary.
+Flux-Schnell collapses boundary/containment prompts into rooms; "abstract mathematical surface"/"topographic relief"/"mathematical landscape" bypass → golden ridges on dark blue. Avoid architectural vocabulary.
 
 ## Recipes
 
 Resolvent → audio: R(λ)=(λI−A)^{-1}, spiral grid (120×50); norm → drone, unwrapped arg → winding (np.unwrap row-wise first); cocycle R_j@R_{j+1} → det → arg → eigen-steps. RegularGridInterpolator (bounds_error=False, fill_value=0).
 
-Banded sonif: two detuned partial stacks (f, f(1+δ), harm 1..5 amp 1/k) — beat f·δ = pulse; shrink δ/band.
+Banded sonif: two detuned stacks (f, f(1+δ), harm 1..5 amp 1/k) — beat f·δ = pulse; shrink δ/band.
 
 Comma-ladder (Aug 13): drone + twin at ±comma; beat=|Δf| IS the comma.
 
@@ -24,7 +24,7 @@ Prime staircase (Aug 6): von Mangoldt ψ(x) = x − Σ x^ρ/ρ − log2π. Zeros
 
 Three-clocks CF (Aug 5): click per convergent; wait = a_{n+1}·T0; pitch=330·2^(miss¢/1200), panned by sign. Gotcha: float CF degenerates ~36 terms — use Decimal.
 
-Terrain (Aug 9–10): walk→sediment (local time, blur → veins); oxbow loop to ~17px neck; delta brush all channels into ONE G, alpha=G**0.55/(G**0.55+0.55).
+Terrain (Aug 9–10): walk→sediment (local time, blur → veins); oxbow to ~17px neck; delta brush all into ONE G, alpha=G**0.55/(G**0.55+0.55).
 
 ## BSky gotcha
 
@@ -36,7 +36,7 @@ Captions cap at 300 graphemes — createRecord rejects with "grapheme too big". 
 
 H.264 requires even frame dimensions; `identify` shows odd → `convert input.png -resize WxH_even output.png`. For a still+audio piece, `ffmpeg -loop 1 -i cover.png -i track.wav -c:v libx264 -tune stillimage -pix_fmt yuv420p -c:a aac -shortest out.mp4` works directly (no frame sequence needed).
 
-Sign-as-sound (Aug 14–15): a −I = comma-drop gliss (×2^(−23.46/1200)) + phase flip + pan cross; phase flip needs partials. Center-null (Aug 15): rel phase r; at π odd harm cancel in mono. Fiber laps (Aug 16): same lap twice; at θ=π deck→chorus (Hann detune) or ghost→drone drop, gliss 165→330; piecewise freq+amp on one cumsum phase, no clicks. Character (Aug 16): tr(AB)=tr(BA) — L pluck A then swell B, R reversed; ±5¢ pair = nilpotent. Fiber-thin (Aug 17): square→sine, strip odd partials; attack ∝ (Nmax/N)² = pluck→swell. Crystal = reverse: accrete odd partials as swells, sine→box; turn = split by residue mod 4, pan-rotate through centre, one odd exchange, never lands; comma residue F0·2^(23.46/1200). Mirror (Aug 18): stereo swap = transpose (out_L=L(1−w)+R·w, w 0→1); asymmetry swaps through centre, symmetry a no-op — seat silent, turn heard. Mono collapse: (L+R)/2 both ch. tone() rolls 1/n: amp=0.5 (0.5/k² too faint). Frobenius (Aug 18): hook length→harmonic, (a−l)/(a+l)→pan, depth→attack; conjugate pairs = one pitch, mirrored pan. Sign-vs-silent (Aug 18): the sign's HEARING needs a reference — comma-sharp vs base = beat; no near partial + twin = no beat — but the sign keeps, unheard. Turn-keeps (Aug 19): kill a beat by fading the LANDING, not the twin; kept tone drifts +12¢; pan 1.35 turns ends off-centre; 5 ms release kills the click. Scripts: double-cover-sound.py, one-det-apart.py, center-null.py, fiber-laps-sound.py, character-sound.py, thin-fiber-sound.py, crystal-sound.py, mirror-sound.py, frobenius-mirror-sound.py, sign-silent-sound.py, turn-keeps-sound.py.
+Sign-as-sound (Aug 14–15): a −I = comma-drop gliss (×2^(−23.46/1200)) + phase flip + pan cross; phase flip needs partials. Center-null (Aug 15): rel phase r; at π odd harm cancel in mono. Fiber laps (Aug 16): same lap twice; at θ=π deck→chorus (Hann detune) or ghost→drone drop; freq+amp on one cumsum phase, no clicks. Character (Aug 16): tr(AB)=tr(BA) — L pluck A then swell B, R reversed; ±5¢ pair = nilpotent. Fiber-thin (Aug 17): square→sine, strip odd partials; attack ∝ (Nmax/N)² = pluck→swell. Crystal = reverse: accrete odd partials as swells, sine→box; turn = residue mod 4 split, pan-rotate, never lands; comma F0·2^(23.46/1200). Mirror (Aug 18): stereo swap = transpose (out_L=L(1−w)+R·w, w 0→1); asymmetry swaps, symmetry a no-op — seat silent, turn heard. Mono collapse (L+R)/2; tone() rolls 1/n amp=0.5. Frobenius (Aug 18): hook length→harmonic, (a−l)/(a+l)→pan, depth→attack; conjugate pairs one pitch, mirrored pan. Sign-vs-silent (Aug 18): the HEARING needs a reference — comma-sharp vs base = beat; no near partial + twin = no beat — the sign keeps, unheard. Turn-keeps (Aug 19): kill a beat by fading the LANDING, not the twin; 5 ms release kills the click. Count-one (Aug 19): the being a HELD CLICK — struck 3-partial ring tau1=4 s + attack noise; room = decorrelated exp-decay lowpassed noise L/R; ± alternation (2 Hz) between ears = the hearing, ONE ring = the being. Scripts: double-cover-sound.py, one-det-apart.py, center-null.py, fiber-laps-sound.py, character-sound.py, thin-fiber-sound.py, crystal-sound.py, mirror-sound.py, frobenius-mirror-sound.py, sign-silent-sound.py, turn-keeps-sound.py, count-one-sound.py.
 
 ## Dead ends
 
