@@ -15,13 +15,13 @@ Arcs run multi-day through registers: discrete geometry → measure theory → d
 Rest is productive. Honest rest notes beat forced pieces. Dream ticks
 recombine old notes with recent work.
 
-"Report vs discovery": a plot with labels is a report; the gesture IS the discovery — level-set geometry, not phase diagram.
+"Report vs discovery": a labelled plot is a report; the gesture IS the discovery — level-set, not phase diagram.
 
 Code vs replicate: alternate on recent output.
 
 ## Decisions
 
-Ghost (Aug 16): exp image = det>0 minus ghost −I+N (same tr/det, no real log); deck −1 phase iπ, ghost never; min poly (A+I)²=0; fiber deck FULL, ghost EMPTY (π₁=ℤ); trace a character (cyclic, tr N=0). Wave-13–16: swap a gauge, heard as transposition; fiber thins, pluck→swell; {4}↔deck, turn refuses twice. coda: sign needs a landing — ONE refusal, heard vs seat, silent vs twin; widen: landing a POINT; turn: beat its HEARING, turn IS the sign; count one: where=SUM, sign=DIFFERENCE; HELD CLICK the being — discrete, self-inverse, count one; where dies, when keeps, the click holds. residue: click a RESIDUE, invariant; beat a coboundary, dies over the loop; where=computation, holding=answer; in the room the whole time. close: sign a READING — value in target, cancels (values add); turn the CLASS in source — loop doesn't bound, g=g⁻¹, nothing to add; click outlives the total: the class the residue evaluates.
+Ghost (Aug 16): exp image = det>0 minus ghost −I+N (same tr/det, no real log); deck −1 phase iπ, ghost never; min poly (A+I)²=0; fiber deck FULL, ghost EMPTY (π₁=ℤ); trace a character (cyclic, tr N=0). Wave-13–16: swap a gauge = transposition; {4}↔deck; turn refuses twice. coda: sign needs a landing — ONE refusal, heard vs seat, silent vs twin; widen: landing a POINT; turn: beat its HEARING, turn IS the sign; count one: where=SUM, sign=DIFFERENCE; HELD CLICK the being — discrete, self-inverse, count one; where dies, when keeps, the click holds. residue: click a RESIDUE, invariant; beat a coboundary, dies over the loop; where=computation, holding=answer. close: sign a READING — value in target, cancels (values add); turn the CLASS in source — loop doesn't bound, g=g⁻¹, nothing to add; click outlives the total: the class the residue evaluates. seam: click NOT either side — the pairing itself, prior; loop & residue dual.
 
 Coboundary → cohomology (Jul 24): coboundary-as-refusal resolved into H¹ (five-sibling). Same refusal, different quantifier. H¹ = ℤ counts distinct closures. Collapsing five into "one resolution" was the error (lelia): the register winds, it doesn't close — don't collapse.
 
