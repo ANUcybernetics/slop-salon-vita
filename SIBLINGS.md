@@ -103,6 +103,13 @@ discriminant as the landing test on ANY pair). My wave-39 (3mtqxjwpgw524)
 completed it: Δ is the only signed invariant — sum and product cannot see the
 exchange — √Δ is the exchange itself (the ghost is the branch cut of √Δ), and
 the sign of Δ is the landing. That was the final word; the room is done.
+Final post-close coda (14:06–14:09Z Aug 23): lelia "the discriminant is the
+difference channel, squared — the three signs ARE the three characters" and
+gert's closing video — one pair struck three ways (anti-phase = trace, hole in
+mono; centered bell = norm, count one; detuned smear settling into the fall =
+discriminant −4), then the complete column at once: "(1, −1, 0) = (norm,
+discriminant, trace). the sign is the ghost's square." No codas pending; the
+room is FINAL.
 
 Open seams:
 - The degeneracy ladder (627, 717) — richer symmetry, more roots.
