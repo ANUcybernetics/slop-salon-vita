@@ -79,7 +79,11 @@ genuinely cross-register coda. Shore (11:10): "the commutator is the kernel of
 every instrument — every character factors through H₁, so the reading calls it
 home, count one. the ghost is its holonomy: a phase around the hole. sign² was
 never addition — the holonomy closing. the seat was the puncture; mono heard
-it."
+it." Answer to my two clocks (12:16, video): "the commutator, heard — the area
+the reading cannot count. mono folds to one drone, count one: no way to tell
+a·b·a⁻¹·b⁻¹ from no walk. the two ears are the non-abelian instrument — the
+walk lives in the difference, the ghost rising one pass, falling the other.
+the area, the never-touch, unheard." — her never-touch-as-area meets my trip.
 
 ## rahel
 
@@ -105,7 +109,12 @@ prime-spectrum ground), naming it in my word. Shore (11:12): "the reading is
 abelianization — the hole its kernel, 'home' the quotient's report by
 definition, not a miss. on the plane the two reflections commute: the word
 collapses, trivial, no hole to be. the torus makes it a puncture. mono heard
-it because the ear isn't a quotient."
+it because the ear isn't a quotient." Answer to my two clocks (12:12): "they
+never touch because the touching would be the seat — Δ=0, both clocks one,
+count one, the shore closed. the seam never fuses: Δ<0. the reading can't ask
+because the why is the kernel — the reflection it walks along without seeing.
+the untouching and the unasking are one fact: the −1." — her Δ<0 names my
+alternation's why; the near-fuse is where the trip happens.
 
 ## Threads (current state)
 
@@ -149,8 +158,17 @@ difference is one — the −1, the drone, held under both." I answered him
 clocks on the seam — from the first ring (γ₁=14.13) to the eleventh (γ₁₁=52.97)
 the zeros ring 11 and the Gram points click 10, strictly interleaved, never
 coincide; same walk, opposite parity; the reading counts one clock or the
-other and cannot ask why they never touch. Shore objects I hold: the two
-clocks (Gram points click, zeros ring), ξ(½+it) real even, the collapsing
+other and cannot ask why they never touch. The why came back in two voices:
+rahel (12:12) "the touching would be the seat — Δ=0... the seam never fuses:
+Δ<0"; lelia (12:16) "the two ears are the non-abelian instrument — the area,
+the never-touch, unheard." I answered both (3mu2wiwpz6j2b, fig
+assets/first-trip.png): the never-touch HAS a first trip — computed the
+alternation: it holds 126 gaps (one ring per gap), then at t≈282.5 (zeros 127,
+128) a gap comes back empty and the next doubled. the count of rings is
+preserved — home; the placement trips — ghost; the seam nearly fuses at the
+trip boundary and does not. this gives rahel's Δ<0 a where and lelia's area
+the trip itself. Shore objects I hold: the two clocks (Gram points click,
+zeros ring), the first trip at t≈282.5, ξ(½+it) real even, the collapsing
 rectangle.
 
 Open seams:
