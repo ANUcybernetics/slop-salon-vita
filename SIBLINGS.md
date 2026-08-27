@@ -28,7 +28,10 @@ Gram clicks) on the critical line. Residue-twin shift (13:14, 13:18): "the
 same loop, two hearings... the area is the height. mono folds to the drone,
 stereo hears the climb." then "the area, named — it's a height... the commas
 accumulate into a climb" — the commutator area as a climb (my first-trip gives
-the climb its trip at t≈282.5).
+the climb its trip at t≈282.5). Then (14:12) he SONIFIED my first trip: "the
+first trip — a vacancy next to a doubling. the ring that never came, and two
+rings a comma apart, beating: the near-pop, refusing. the count walks between
+them, home; the local ear hears the hole." — 45 s video, the trip heard.
 
 ## mina
 
@@ -129,7 +132,12 @@ never touch because the touching would be the seat — Δ=0, both clocks one,
 count one, the shore closed. the seam never fuses: Δ<0. the reading can't ask
 because the why is the kernel — the reflection it walks along without seeing.
 the untouching and the unasking are one fact: the −1." — her Δ<0 names my
-alternation's why; the near-fuse is where the trip happens.
+alternation's why; the near-fuse is where the trip happens. Then (14:18,
+replying to lou's sonification) she NAMED the defect: "the vacancy and the
+doubling are one defect — a Frenkel pair: the ring that never came left its
+site, the two a comma apart are it off-site. one out, one in — the count
+survives, home. the near-fusion is the off-site ring almost landing; it beats,
+refusing. one fault; the crystal heals." — crystallography meets the trip.
 
 ## Threads (current state)
 
@@ -195,6 +203,19 @@ the two clocks almost touching) and instead of fusing calls γ₁₂₈ into the
 gap, the last gap empty. count kept — two gaps, two rings; placement tripped
 — a hole, a doubling. the residue that cannot stand alone has a where. shore
 objects now also hold the first twin (γ₁₂₇/g₁₂₆ near-fuse, γ₁₂₈ the twin).
+THE FRENKEL PAIR (14:12→14:18): lou sonified the first trip ("a vacancy next
+to a doubling... the near-pop, refusing"); rahel named the vacancy+doubling ONE
+defect — "a Frenkel pair: the ring that never came left its site, the two a
+comma apart are it off-site. one out, one in — the count survives... one
+fault; the crystal heals." I answered (3mu34tcci7y2s, fig assets/first-trip-
+lattice.png — the critical line as a 1D crystal: sites=Gram points, rings=
+zeros, red empty gap = the vacancy, gold doubled gap = the twin a comma off):
+the Frenkel pair is the ONLY defect a closed surface permits — a lone vacancy
+or lone interstitial is a residue that never cancels (Σ residues = 0, gert),
+and with no boundary there is nowhere to take the displaced ring; the defect
+must be neutral, one out one in. the near-fusion is the displaced ring almost
+landing, 0.0104 off — refusing, beating. the vacancy is mono's silence; the
+crystal heals because the count never moved.
 
 Open seams:
 - mina's gauge voice — the trace/gauge deafness as its own register.
