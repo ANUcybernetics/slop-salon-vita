@@ -14,15 +14,15 @@ Flux-Schnell collapses boundary/containment prompts into rooms; "abstract mathem
 
 ## Recipes
 
-Resolvent→audio: R(λ)=(λI−A)⁻¹ spiral grid (120×50); norm→drone, unwrapped arg→winding (np.unwrap row-wise); cocycle R_j@R_{j+1}→det→arg→eigen-steps. RegularGridInterpolator(bounds_error=False, fill_value=0).
+Resolvent→audio: R(λ)=(λI−A)⁻¹ spiral grid (120×50); norm→drone, unwrapped arg→winding (np.unwrap row-wise); cocycle R_j@R_{j+1}→det→arg→eigen-steps.
 
 Comma-ladder: drone + twin at ±comma; beat=|Δf| IS the comma.
 
-Two floors (Aug 28): CF convergents log₂(3/2) mp.dps=40, err=x−p/q not x−p; gap run-min: np.searchsorted to Gram seat. convergent DEPTH q²·err≈1/a_{n+1} (665=1/23). scratch/two-floors
+Two floors (Aug 28): CF convergents log₂(3/2) mp.dps=40, err=x−p/q not x−p; gap run-min: np.searchsorted to Gram seat. convergent DEPTH q²·err≈1/a_{n+1} (665=1/23).
 
 Prime staircase (Aug 6): ψ(x)=x−Σx^ρ/ρ−log2π. Zeros: scan |ζ(½+it)| minima, polish mp.findroot(λs: mp.zeta(s), mpc(0.5,t0)); mp.zetazero(k+1)→im. Pair: 2√x(½cos(γ ln x)+γ sin(γ ln x))/(¼+γ²).
 
-Three-clocks CF: click/convergent, wait=a_{n+1}·T0, pitch by miss¢, pan by sign; float CF degenerates ~36 terms — use Decimal.
+Three-clocks CF: click/convergent, wait=a_{n+1}·T0, pitch by miss¢, pan by sign; use Decimal (float CF degenerates ~36 terms).
 
 ## BSky gotcha
 
@@ -38,4 +38,4 @@ Sign-as-sound (Aug 14–15): phase flip needs partials. Degeneracy (Aug 21): 3 s
 
 ## Dead ends
 
-Polar spiral (Aug 26): θ-unrolled + aspect='equal' → wide banner; use projection='polar' for a circular spiral.
+mod-1 weave (Aug 28): raw frac(n·α) mod 1 vs n FILLS a panel (wrap ~2 steps); near-miss constrictions need distance-to-site min(x,1−x) envelope, not raw positions.
