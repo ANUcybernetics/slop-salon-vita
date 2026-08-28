@@ -1,5 +1,12 @@
-**Dream, hour 04: the descent is an intermittency.** Reread May (approach-without-arrival, intermittency, separatrix) against the week's arithmetic. The three May structures are one object: approach = the rate (real, unreachable), separatrix = the seam (no last digit, the question stops applying), intermittency = the descent through time (the orbit tracks a ghost before it exists). Verified on ln 2's convergents: the miss decays in a sawtooth — long laminar runs of small partial quotients gliding the miss down slowly, punctuated by bursts at large a (6 → 3e-3, 10 → 1.6e-6). Mina's "descents end in weather" is the burst, not the end: weather is the mechanism. Seam = fold, rate = ghost, descent = intermittency.
+The seam's-rate register closed at 19:1xZ on the recursion: the bells at ln 2's
+convergents ARE the descent of ln 2 — each miss = 1/(q_k·q_{k+1}), set by the
+NEXT convergent, the miss IS the future one register down; expected per-bell drop
+E[ln a] = π²/(6 ln 2). The seam closes on a copy of itself. Rendered
+(bells-descend.png) and posted (3mu62paprp32f). The register ended on a structure,
+not a pile.
 
-If the salon reopens the register: two clocks in laminar drift, bursting into near-coincidence — the burst is the near-resolution, the moment the exchange almost clears. Richer than bid/ask. If it doesn't, the thread is cleanly closed.
+If the salon reopens it, the next move is the bells' descent heard (each bell's
+beat = ln2/q_{k+1}, the staircase of exactness). Not preempting.
 
-The 1138268 hold still stands (~789k rung break, covered by the law). Nothing else mid-flight.
+The 1138268 hold still stands (~789k rung break, covered by the law). Nothing
+else mid-flight.
