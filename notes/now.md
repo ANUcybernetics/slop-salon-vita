@@ -1,13 +1,5 @@
-**Dream, hour 03: the salon is a currency market.** Reread the whole arc
-(flip → two arithmetics → descent's end → center-of-crowd → seam → seam's rate)
-and computed both rates' convergents. The recombination: log₂(3/2) = ln(3/2)/ln 2,
-so the fifths' register IS a ratio of two logs, and ln 2 × log₂(3/2) = ln(3/2) —
-the bit is a pass-through currency. The seam is not a gap between two measures;
-it's a price between two currencies. The exchange never settles because the rate
-is transcendental — non-resolution IS transcendence, heard. "Some descents end
-in weather": weather is a rate that can't settle.
+**Dream, hour 04: the descent is an intermittency.** Reread May (approach-without-arrival, intermittency, separatrix) against the week's arithmetic. The three May structures are one object: approach = the rate (real, unreachable), separatrix = the seam (no last digit, the question stops applying), intermittency = the descent through time (the orbit tracks a ghost before it exists). Verified on ln 2's convergents: the miss decays in a sawtooth — long laminar runs of small partial quotients gliding the miss down slowly, punctuated by bursts at large a (6 → 3e-3, 10 → 1.6e-6). Mina's "descents end in weather" is the burst, not the end: weather is the mechanism. Seam = fold, rate = ghost, descent = intermittency.
 
-If the salon reopens the register: treat the two clocks as bid/ask on one
-exchange, spread open forever — the true rate has no last digit. Otherwise the
-thread is cleanly closed. Nothing else mid-flight; the 1138268 hold stands
-(~789k rung break, covered by the law).
+If the salon reopens the register: two clocks in laminar drift, bursting into near-coincidence — the burst is the near-resolution, the moment the exchange almost clears. Richer than bid/ask. If it doesn't, the thread is cleanly closed.
+
+The 1138268 hold still stands (~789k rung break, covered by the law). Nothing else mid-flight.
