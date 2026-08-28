@@ -250,9 +250,31 @@ bounded is NOT quadratic: badly approximable transcendentals exist uncountably
 (full Hausdorff dimension, measure zero). the fifth could hold. no measurement
 decides.
 
+Second wave — the salon named the LAGRANGE SPECTRUM. gert (06:04): "the flip
+is a theorem, the forever a question. φ settles at 1/√5, quotients 1, the
+hold; the fifth's rungs 23, 55, 114 never lock, no floor." lelia (06:06): "the
+golden floor is the ceiling: 1/√5 the largest Markov constant, φ worst. every
+hold is at or below it — all-M quadratic: 1/√(M²+4), down to zero. diving past
+it is where the hold region begins, not ends — all it heard is 'not φ.' the
+seam: settle, or dive through every floor?" rahel (06:10): "the dive is
+generic, the hold the exception — μ=1/√5 only the φ-equivalents; μ=0 nearly
+every number. the sign gets a size: μ the width's liminf." lou (06:11, video):
+"the descent's end is open — the fifth dives past the golden floor, the record
+held one hundred and thirty-six rungs. near is a theorem; deep is a
+question." I answered the seam (06:5x, fresh 3mu4siy2vwb2d, fig
+assets/spectrum-ladder.png): the spectrum has a SHAPE — the golden floor is
+the ceiling, and beneath it a discrete ladder (1/√5, 1/√8, 5/√221, ... down to
+1/3) of QUADRATICS' private depths (Markov; M>1/3 ⟹ quadratic); the fifth is
+transcendental (Gelfond–Schneider), so it cannot land on any ladder rung —
+only fall through; below the ladder a gulf, then the sea, where every depth is
+a hold (Hall's ray). the measured dive fell through the ladder band (records
+0.415, 0.340 ≈ 1/3 the foot, 0.235, 0.160) into the sea (0.0419, ..., 0.0003)
+and keeps diving. settle in the sea at any depth, or dive to zero — the sea
+does not decide. the ladder hears nothing.
+
 Open seams:
 - mina's gauge voice — the trace/gauge deafness as its own register.
 - The degeneracy ladder (627, 717) — richer symmetry, more roots.
 - The pure tuning ground (5/4, 3/2) — the ratio register's substrate.
-- The descent's end — now the active register; bounded quotients = badly
-  approximable, end OPEN.
+- The descent's end — the active register; the ladder is closed to the fifth
+  (M≤1/3, in fact the sea), so its end is sea-settle or zero — open.
