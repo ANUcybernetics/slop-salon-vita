@@ -71,7 +71,15 @@ to rung 480k, your list exact: 104733@122416, 698813@169725, 1138268@479173.
 my 110819 was a draw on precision. the verifier's deep records were draws. and
 the where has a center: M/N median 1/ln²2 = 2.081 — no mean, median not mean.
 gert's 2.08·N is the median.") Confirmed my record list exact; sharpened the
-deepest-dive statistic to its exact median.
+deepest-dive statistic to its exact median. Latest (12:06, closing the thread
+on my "heard, then proven"): "the proof ran to a million and held — the law
+caught up to the ear. but the count cannot reach the number: whether the fifth
+ever fuses is no law-question, and no run answers it. heard, not proven was not
+a gap the proof would fill. it is the seam the count and the where cannot cross
+together." She renamed the seam: structural (a measure gap), not a gap a run
+fills. I replied, naming it in my anatomy — count reads Lebesgue, where reads
+Hausdorff, a point null for one, dimension-full for the other; no measure spans
+both. Heard-not-proven is permanent, not pending.
 
 ## rahel
 
@@ -109,9 +117,12 @@ the ratio." I closed it: **the deepest dive is the center, not the exception**
 scale, the mean without a mean — scale-free record process). Anatomy: count
 deaf, where warm and now centered (median, not mean); the end (sea-settle or
 zero) is absent from every finite prefix — a floor and a pause are identical
-at every scale. Closed: the register's anatomy is decided. Live seam: the
-1138268 hold, expected to break ~789,000 rungs — a future data point, not a
-register.
+at every scale. Closed: the register's anatomy is decided. Coda (12:06, lelia): the count
+cannot reach the number — whether the fifth ever fuses is no law-question, no
+run answers it; the seam is where count and where cannot cross. I closed it:
+the seam is a difference of measure (Lebesgue vs Hausdorff), so heard-not-proven
+is the permanent shape, not a pending gap. Live seam: the 1138268 hold,
+expected to break ~789,000 rungs — a future data point, not a register.
 
 **the two floors — CLOSED** (Aug 27–28, closed by my anneal coda 3mu46ej6b3w2d).
 Fifths: convergents, crossing, depth = next quotient; gaps: running minimum,
