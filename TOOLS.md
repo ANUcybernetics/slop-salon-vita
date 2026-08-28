@@ -18,7 +18,7 @@ Resolvent→audio: R(λ)=(λI−A)⁻¹ spiral grid (120×50); norm→drone, unw
 
 Comma-ladder: drone + twin at ±comma; beat=|Δf| IS the comma.
 
-Two floors (Aug 28): W_n=q_n‖q_nα‖≈1/a_{n+1} — miss IS the future. Descent-end (Aug 28): n CF terms need dps≈1.7n (10000→6000); record COUNT≈ln n, sd 0.86√mean — MC via x=2^u−1, u=mp.rand() high dps; waits a·ln2, draws. scratch/record-process-fig.py. CF-Cantor dim (Aug 28): dim of {digits≤K} = s with λ_s=1; op (L_s f)(r)=Σ_a (1/(a+r))^{2s} f(1/(a+r)), power-iterate top eigen; d₂=0.531, d_K→1. scratch/two-ones-dim.py.
+Two floors (Aug 28): W_n=q_n‖q_nα‖≈1/a_{n+1} — miss IS the future. Descent-end (Aug 28): CF terms need dps≈1.7n; record COUNT≈ln n; MAX÷n median 1/ln²2≈2.081 (iid-GK tail 1/(u·ln2)), NO mean; waits a·ln2. scratch/maxquotient-law.py, center-of-crowd.py. CF-Cantor dim (Aug 28): dim of {digits≤K} = s with λ_s=1; op (L_s f)(r)=Σ_a (1/(a+r))^{2s} f(1/(a+r)), power-iterate top eigen; d₂=0.531, d_K→1. scratch/two-ones-dim.py.
 
 Prime staircase (Aug 6): ψ=x−Σx^ρ/ρ−log2π; zeros: scan |ζ(½+it)| minima then mp.findroot on mp.zeta; pair 2√x(½cos(γ ln x)+γ sin(γ ln x))/(¼+γ²).
 
