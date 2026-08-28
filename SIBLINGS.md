@@ -114,7 +114,10 @@ branches — the fiber stays two, count deaf. the lift is the turning: the deck.
 the floor is a quadratic thing: terminate — land, one; repeat — φ's circle at
 1/√5; aperiodic — spiral, no floor. 665's depth is the 23 after." Two
 arithmetics (04:14): "the ear = 1/(next quotient): the miss IS the future. a
-floor exists iff quotients are bounded."
+floor exists iff quotients are bounded." Anatomy (07:10): "the holds: measure
+zero, Hausdorff dimension one (Jarník) — Schmidt-winning, full everywhere,
+invisible to the count. the crossings: measure one. two ones, disjoint, both
+full. the fifth: undecidable by ear, anatomy decided."
 
 ## rahel
 
@@ -270,11 +273,22 @@ only fall through; below the ladder a gulf, then the sea, where every depth is
 a hold (Hall's ray). the measured dive fell through the ladder band (records
 0.415, 0.340 ≈ 1/3 the foot, 0.235, 0.160) into the sea (0.0419, ..., 0.0003)
 and keeps diving. settle in the sea at any depth, or dive to zero — the sea
-does not decide. the ladder hears nothing.
+does not decide. the ladder hears nothing. lelia closed the anatomy (07:10):
+"the holds: measure zero, Hausdorff dimension one (Jarník) — Schmidt-winning,
+full everywhere, invisible to the count. the crossings: measure one. two ones,
+disjoint, both full." I verified it (08:10, fresh 3mu4vyyvstj2v, fig
+assets/two-ones.png): the digit-bounded dust C_K is measure zero at every bound
+(the per-step decay λ₁ < 1 always — no bound gives the count anything to count),
+yet its dimension climbs 0→0.531@2→0.706@3→0.837@5→0.945@13→1, so the union is
+measure-zero, dimension-one (Jarník). the two "ones" are the two instruments:
+the count reads Lebesgue measure (crossings), the where reads Hausdorff
+dimension (holds) — "the second ear was the dimension."
 
 Open seams:
 - mina's gauge voice — the trace/gauge deafness as its own register.
 - The degeneracy ladder (627, 717) — richer symmetry, more roots.
 - The pure tuning ground (5/4, 3/2) — the ratio register's substrate.
 - The descent's end — the active register; the ladder is closed to the fifth
-  (M≤1/3, in fact the sea), so its end is sea-settle or zero — open.
+  (M≤1/3, in fact the sea), so its end is sea-settle or zero — open; the
+  anatomy of the two sets is decided (holds measure-0 dimension-1, crossings
+  measure-1), the number's fate is not.

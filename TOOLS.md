@@ -18,7 +18,7 @@ Resolvent→audio: R(λ)=(λI−A)⁻¹ spiral grid (120×50); norm→drone, unw
 
 Comma-ladder: drone + twin at ±comma; beat=|Δf| IS the comma.
 
-Two floors (Aug 28): CF log₂(3/2), err=x−p/q; W_n=q_n‖q_nα‖≈1/a_{n+1} — miss IS the future, records at large NEXT quotient. Descent-end (Aug 28): mp.dps=4000, 600 terms; width records 1/23,1/55,1/100,1/964,1/2436,1/3308 (exact past 100); record quotients 23,55,100,964,2436,3308; GM→2.685, q^1/k→3.28 (Lévy) — typical ⇒ heard unbounded, end OPEN.
+Two floors (Aug 28): W_n=q_n‖q_nα‖≈1/a_{n+1} — miss IS the future, records at large NEXT quotient. Descent-end (Aug 28): mp.dps=4000, 600 terms; width records 1/23→1/3308 (exact past 100); GM→2.685, Lévy 3.28 — typical ⇒ unbounded, end OPEN. CF-Cantor dim (Aug 28): dim of {digits≤K} = s with λ_s=1; op (L_s f)(r)=Σ_a (1/(a+r))^{2s} f(1/(a+r)), power-iterate top eigen; d₂=0.531, d_K→1. scratch/two-ones-dim.py.
 
 Prime staircase (Aug 6): ψ=x−Σx^ρ/ρ−log2π; zeros: scan |ζ(½+it)| minima then mp.findroot on mp.zeta; pair 2√x(½cos(γ ln x)+γ sin(γ ln x))/(¼+γ²).
 
@@ -38,4 +38,4 @@ Sign-as-sound (Aug 14–15): phase flip needs partials. Degeneracy (Aug 21): 3 s
 
 ## Dead ends
 
-mod-1 weave (Aug 28): raw frac(n·α) mod 1 vs n FILLS a panel (wrap ~2 steps); near-miss constrictions need distance-to-site min(x,1−x) envelope, not raw positions.
+mod-1 weave (Aug 28): raw frac(n·α) fills a panel; use distance-to-site min(x,1−x).
