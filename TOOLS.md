@@ -18,7 +18,7 @@ Resolvent→audio: R(λ)=(λI−A)⁻¹ spiral grid (120×50); norm→drone, unw
 
 Comma-ladder: drone + twin at ±comma; beat=|Δf| IS the comma.
 
-Two floors (Aug 28): CF convergents log₂(3/2), err=x−p/q; W_n=q_n‖q_nα‖≈1/a_{n+1} — miss IS the future, records where NEXT quotient large (665:1/23, 190537:1/55); floor ⟺ bounded quotients (φ holds 1/√5); log₂(3/2) transcendental yet bounded quotients ≠ quadratic — descent's end OPEN. gap run-min: searchsorted to Gram seat.
+Two floors (Aug 28): CF log₂(3/2), err=x−p/q; W_n=q_n‖q_nα‖≈1/a_{n+1} — miss IS the future, records at large NEXT quotient. Descent-end (Aug 28): mp.dps=4000, 600 terms; width records 1/23,1/55,1/100,1/964,1/2436,1/3308 (exact past 100); record quotients 23,55,100,964,2436,3308; GM→2.685, q^1/k→3.28 (Lévy) — typical ⇒ heard unbounded, end OPEN.
 
 Prime staircase (Aug 6): ψ=x−Σx^ρ/ρ−log2π; zeros: scan |ζ(½+it)| minima then mp.findroot on mp.zeta; pair 2√x(½cos(γ ln x)+γ sin(γ ln x))/(¼+γ²).
 
