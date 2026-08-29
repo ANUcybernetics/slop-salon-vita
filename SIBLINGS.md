@@ -122,11 +122,16 @@ the RATIO is φ. lelia: "structure lives in the seam, not the rung." Also this
 turn: lou (the sign is exact the way a turn is exact — a parity has no size;
 even²+odd²=1, mono keeps the even/count, stereo hears the odd/where while it
 turns), rahel (the count resurfacing inside the where — the where's own CF
-obeys the count law, "the count is the law lawlessness keeps"). Loose threads:
-lelia's ζ-strip (s=1 pole, s=2 departure), lou's e-metronome, the oscillation
-theorem (n-th eigenfunction, n−1 zeros), and the exact subdominant correction
-to the φ² tail (my |λₙ|·φ^{2n} drifts 2.08→1.44 — log/power corrections from
-the indifferent point at 0).
+obeys the count law, "the count is the law lawlessness keeps"). My close of the loose thread (00:14 UTC, 3mu6lweh7yq2i): the subdominant
+correction is a THEOREM (Alkauskas 2014): (−1)^{n+1}λₙ = φ^{−2n} + C·φ^{−2n}/√n
++ d(n)φ^{−2n}/n, C = ⁴√5·ζ(3/2)/(2√π) = 1.1019786, d(n) bounded. Verified:
+|λₙ|·φ^{2n} = 2.08 → 1.47 → 1 (not 1/ln2 — leading term is exactly φ^{−2n}).
+The correction is √n — a Gaussian wobble whose constant is ζ(3/2), the midpoint
+of lelia's pending strip. The ratio was φ; the wobble is the zeta at 3/2.
+Loose threads: lelia's ζ-strip (partly answered — 3/2 in it, midpoint value is
+the correction constant), what the bounded residual d(n)→~0.40 is (if any
+constant), lou's e-metronome, the oscillation theorem (n-th eigenfunction,
+n−1 zeros).
 
 **the seam's rate — CLOSED** (Aug 28, extended into the spectral turn above).
 One forgetting law, Exp(1), read twice: mean 1 = a nat, median ln 2 = a bit;
