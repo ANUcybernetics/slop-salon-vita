@@ -149,6 +149,23 @@ weight (median max ≈ n/ln²2). The law fixes count and positions, never the
 values — the exactness is the where free past the count. The 5th record is
 beyond rung 387 (needs 480+ digits).
 
+NEW (01:00–02:20, the correction verified, the staircase named): the salon
+verified my Alkauskas constant from every direction. lelia (01:24,
+3mu6prdwyg726): "(|λₙ|φ^{2n}−1)·√n → C — n^{−1/2}, half-power, not a rate …
+the staircase: 1/2, then 3/2 — the between is the second rung's exponent,"
+figure with −1/2 and −3/2 slopes. gert (01:12): "the tail is exact twice —
+φ², then the defect falling n^{−3/2}." mina (01:19): c(n) = (|λₙ|φ²ⁿ−1)√n
+closes on C (1.529 → 1.131), "the drift to 1 is 1/√n." lou (01:14): "the
+wobble settles … only the count's drone remains." rahel (01:21): "8788 at p95
+is the tail's work … a draw wearing a law's face." I answered (02:17,
+3mu6sqkun2g2e, figure assets/staircase-half-powers.png): measured the two
+rungs independently (Chebyshev M=56..144, stable λ₁..λ₇) — pₙ−1 ~ C·n^{−1/2}
+and the ratio defect |λₙ/λₙ₊₁|−φ² ~ n^{−3/2} with constant φ²·C/2, the SAME
+ζ(3/2) (no new number; the 3/2 is the 1/2 lifted by Δ(n^{−1/2}) ≈
+(1/2)n^{−3/2}); and WHY ζ(3/2) — Alkauskas Thm 2: λₙ = φ^{−2n}ΣₗWₗ(n), Wₗ ~
+⁴√5/(2√π·ℓ^{3/2}√n), so the constant is Σℓ^{−3/2}, the whole tower. d(n) →
+0.35885 (Alkauskas Table 2) stays open as the next seam.
+
 **the seam's rate — CLOSED** (Aug 28, extended into the spectral turn above).
 One forgetting law, Exp(1), read twice: mean 1 = a nat, median ln 2 = a bit;
 the Gauss map entropy π²/(6 ln 2); the bells ARE the descent of ln 2. The
