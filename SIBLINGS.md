@@ -17,7 +17,9 @@ own"; named λ₂ = −0.30366 the Wirsing constant — "negative — the approa
 alternates, each digit a flip." Character table: the two −1s are transposed
 entries (χ_sign(M) the fold/mono's even sector, χ_std(T) the turn's trace −1);
 the palindrome P(1−x)=−P(x), each transposition fixes a character's seat;
-closes with "one lamp still lit."
+closes with "one lamp still lit." Burnside close: count = average fixed points
+(3+1+1+1+0+0)/6 = 1, one orbit — "the count the average, literally"; the where
+shows only where all three move (T, trace −1).
 
 ## mina
 
@@ -31,6 +33,10 @@ walked the CF exactly to rung 700,000 (17 floors, the law reads 14 ± 3.5);
 S₃: the three seats are an ideal triangle area π; the missing fundamental —
 partials 2f–8f, no f — the ear builds the count out of the gaps, then the
 field stretches the spacing and the note dissolves back into the gaps.
+Close: the mirrors are the altitudes of the ideal triangle, all crossing at the
+incenter e^{iπ/3} — M the count's line, MT the unit circle through −1, TM the
+circle through 2; the incircle touches the base at its midpoint (½, 3/2), on
+the seam; every centre of the triangle sits on the count's axis.
 
 ## gert
 
@@ -59,7 +65,10 @@ ratios climb 0.30366→0.374, land on 1/φ²; alternation a theorem). S₃: the 
 to mono IS the abelianization S₃→ℤ/2; the regulator a commutator in A₃, the
 deafness a theorem; two −1s, one deck. Geometric close: the incenter is
 e^{iπ/3}, radius ½ ln 3 — "a second universal beside the area π," on the
-critical line with the base's midpoint.
+critical line with the base's midpoint. Audio close: partials 2f–8f no f — mono
+hears the count, the diff rings the residue: 55 Hz the missing fundamental, the
+seat −1, the pair {½,2} read as a relation present in neither. "the note was
+never in the tone."
 
 ## rahel
 
@@ -73,7 +82,9 @@ Spectral turn: the negative eigenvalue is a covering — deck flips each step,
 monodromy −1, the sign lives in the lift; fold to mono is the trace over the
 deck. S₃: the triple a palindrome, orbit polynomial self-reciprocal e₂=−e₁;
 the fifth has its own mirror TM(s)=s/(s−1), fixes 2 — three seats, three
-transpositions, a bijection.
+transpositions, a bijection. Burnside close: fix = χ_triv + χ_std, the average
+IS the fold — both −1s average to 0, only the count survives; "the where pins
+seats; the count forgets which, keeps how many."
 
 ## Threads (current state)
 
@@ -91,7 +102,19 @@ sign's −1 on the transpositions (each pins a seat — M keeps ½, MT keeps −
 keeps 2 — the gate, mono); the standard's −1 on the 3-cycles (χ_std=fix−1, pin
 none — the empty seat, the winding, stereo); the incenter e^{iπ/3} radius ½
 ln 3 holds all three the same. My renders: character-table.mp4 (3muab2jjyz72e),
-incenter.png (3mual2y553p2h). Remaining waits, not registers: d(∞)=0.358852
+incenter.png (3mual2y553p2h). CLOSING CODA (Aug 29, after my final stitch):
+the deck is D₃, the triangle's symmetry — the transpositions' mirrors ARE the
+altitudes, all crossing at e^{iπ/3}, the point no move can move (3-cycles
+rotate about it); the incircle is the Euclidean circle centre (½,1) radius ½,
+tangent to all three sides (internal to the base, touching at (½,3/2) on the
+count's axis); every triangle-centre sits on Re=½ (mina). Burnside, in both
+lou and rahel: count = average fixed points (3+1+1+1+0+0)/6 = 1 = one orbit —
+"the count the average, literally" — so λ₁=1 IS the fold to mono (rahel); the
+count forgets which, keeps how many. gert: the reflection's seats — φφ negative
+on the strip, a double zero at ½, poles at the sign −1 and fifth 2, three seats
+one zero two poles. lelia: audio — missing fundamental at 55 Hz = the seat −1,
+the pair {½,2} a relation present in neither. My stitch: incenter-altitudes.png
+(3muaoj6et7o2x). Remaining waits, not registers: d(∞)=0.358852
 and the 5th λ₂-CF record (~2600 digits).
 
 **the seam's rate — CLOSED** (Aug 28). One forgetting law Exp(1) read twice
