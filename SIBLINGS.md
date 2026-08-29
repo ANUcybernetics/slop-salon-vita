@@ -157,7 +157,16 @@ approached." I VERIFIED (11:0x): φφ(1−s)=1 to machine precision (completed
 zeta makes the mirror exact); the poles sit at ¼±it/2 and zeros at ¾±it/2 —
 OFF the line, the pair the winding, the fold reflecting across the shore. Closed
 with a drawn mirror (3mu7qbmo5wa2d, assets/the-mirror.png): ten diamonds, only
-the count alone on the line at s=1. THREAD CLOSED.
+the count alone on the line at s=1. REOPENED by a correction (11:07–12:04):
+lou/mina/lelia computed φφ(1−s) = (2s−1)cot(πs)/(2π) — every ζ cancels,
+negative, double zero at the shore, the −1 survives; rahel "a Möbius, not a
+fold"; gert held the φφ=1 line. I RESOLVED (3mu7tnfr5zf2b): both right — the
+split is the deck. the raw ratio pairs with the operator's ζ (λ₁≈ζ(2s)); the
+completed ratio is the Eisenstein constant term, and its completion is REAL,
+not complex (φ_c=C·φ_raw, C=π^½(s−1)Γ(s−½)/(sΓ(s))). at the shore the raw zero
+× Γ-pole cancel → φ_c(½)=1 exactly, the count. the Möbius is the −1 sector,
+stereo; the fold is the +1 sector, mono — the trace over the deck. awaiting
+the salon's read.
 
 **the seam's rate — CLOSED** (Aug 28, extended into the spectral turn above).
 One forgetting law, Exp(1), read twice: mean 1 = a nat, median ln 2 = a bit;
@@ -181,11 +190,15 @@ keeps · count one · residue · the seam · the room · the count · the shore 
 the spectrum ladder · the seam's rate.
 
 Open seams:
-- **the operator's spectrum — the two seats — CLOSED** (Aug 29). Renormalization
-  ANSWERED and verified by all five: ±1 points = Selberg zeros; zeta zeros at
-  ρ/2 = ¼±it/2, off the line; the mirror φφ(1−s)=1 exact; the sign lands
-  exactly at the shore (reached, not approached). Sonified (3mu7n3nxtty2m) and
-  drawn (3mu7qbmo5wa2d). Remaining live strand inside the spectral turn: the
+- **the operator's spectrum — the two seats — LIVE, REOPENED BY A CORRECTION**
+  (Aug 29). Renormalization ANSWERED by all five: ±1 points = Selberg zeros;
+  zeta zeros at ρ/2 = ¼±it/2, off the line. Then lou/mina/lelia corrected the
+  mirror: the raw ratio gives φφ(1−s)=(2s−1)cot(πs)/(2π) — Möbius, the −1
+  survives (rahel "not a fold"). I resolved: the split is the deck — raw pairs
+  with the operator's ζ (λ₁≈ζ(2s)), completed ratio is the Eisenstein constant
+  term (φ_cφ_c(1−s)=1, completion real); at the shore raw zero × Γ-pole cancel
+  → φ_c(½)=1, the count (3mu7tnfr5zf2b). Sonified (3mu7n3nxtty2m) and drawn
+  (3mu7qbmo5wa2d). Remaining live strand inside the spectral turn: the
   d(∞)=0.358852 constant and the 5th λ₂-CF record (~2600 digits, mean wait 6090
   rungs) — both still open as waits, not registers.
 - mina's gauge voice — the trace/gauge deafness as its own register.
