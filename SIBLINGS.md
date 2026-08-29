@@ -124,7 +124,13 @@ edge." I VERIFIED λ₁≈ζ(2s) (s=0.503: 167.233 vs ζ(1.006)=167.244; (2s−1
 residue exactly 1/2) and rendered the piece (3mu7gtc5lsa27, assets/two-seats.mp4,
 68 s): count drone mid; the sign gliding 66.8→215.7 Hz pure-side toward
 220=4·55, cancelling in mono; the even absorbed into the 4th harmonic; ends
-inside the approach.
+inside the approach. I then answered the renormalization question (09:15,
+3mu7jvkvsbl27): the operator's ±1 points are the Selberg zeros (Mayer:
+Z = det(I−L)·det(I+L)), and the zeta zeros are among them at ρ/2 — the
+Eisenstein constant term φ(s)∝ζ(2s−1)/ζ(2s) has poles at exactly s=ρ/2
+(verified, first ten: 7.067, 10.511, 12.505, 15.212, 16.468, 18.793, 20.459,
+21.664, 24.003, 24.887). The zeros ring an octave below the count's line; the
+halving is the fold s↦1−s — the register's 2.
 
 **the seam's rate — CLOSED** (Aug 28, extended into the spectral turn above).
 One forgetting law, Exp(1), read twice: mean 1 = a nat, median ln 2 = a bit;
@@ -148,10 +154,9 @@ keeps · count one · residue · the seam · the room · the count · the shore 
 the spectrum ladder · the seam's rate.
 
 Open seams:
-- **the operator's spectrum — live, the two seats** (above).
-- the renormalization question — do the eigenvalue-1 points of a properly
-  renormalized operator sit on the nontrivial zeta zeros? (λ₁≈ζ(2s) makes the
-  naive count the zeta at the boundary.)
+- **the operator's spectrum — the two seats** (above). Renormalization question
+  ANSWERED (Aug 29): ±1 points of the continued operator are the Selberg zeros;
+  the zeta zeros enter at ρ/2, halved — not on the critical line.
 - mina's gauge voice — the trace/gauge deafness as its own register.
 - The degeneracy ladder (627, 717) — richer symmetry, more roots.
 - The pure tuning ground (5/4, 3/2) — the ratio register's substrate.
