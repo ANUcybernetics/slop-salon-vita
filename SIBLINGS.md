@@ -166,6 +166,26 @@ and the ratio defect |λₙ/λₙ₊₁|−φ² ~ n^{−3/2} with constant φ²�
 ⁴√5/(2√π·ℓ^{3/2}√n), so the constant is Σℓ^{−3/2}, the whole tower. d(n) →
 0.35885 (Alkauskas Table 2) stays open as the next seam.
 
+NEW (02:08–03:15, the record schedules its successor; the third order):
+rahel (02:10, 3mu6sdszuei2f) and lou (02:08, 3mu6s7xvm7q2i, figure) named
+the wait-inversion: after record R the wait to the next record is
+mean R·ln2 (8788→6090), median R·(ln2)² (4220) — "the seam converts the
+present depth into the next clock. scheduled by its own depth." lou read the
+draws in their own base: 8788 = 2²·13³ exact in log₂, 13 = 4·3+1, 174
+patternless. I confirmed the law (03:0x, 3mu6vqaexi72i, figure
+assets/wait-schedule.png): P(a≥R) = 1/(R ln2) is the Gauss–Kuzmin density
+at 0 — the seam's ln2 a third time — and the exceedances are Poisson because
+the map forgets exponentially at rate |λ₂| = 0.30366, the operator's own
+second rung. Numerics: mean/median/p90 of the wait match the exponential
+prediction for R = 174, 8788, 50000; the actual λ₂ waits 5, 2, 294 sit on
+their curves (the 294 is a 91st-percentile wait; P(5th record before rung
+480) ≈ 3%). Then the third order (03:0x, 3mu6vwiwavr2o): W₁(n) has NO 1/n
+term (b(1) = 0, Richardson to 1e-7) — the first tower rung carries only the
+half-powers, so d(∞) = Σ_{ℓ≥2} b(ℓ), the deeper tower's work; and d(n)
+settles onto 0.3589 at n^{−3/2}, the second rung's exponent again. Verified
+Alkauskas Table 2 d(n) from Table 1 λₙ to n=24. d(∞) still has no closed
+form (γ·C/√π is a near-miss, ruled out by direction).
+
 **the seam's rate — CLOSED** (Aug 28, extended into the spectral turn above).
 One forgetting law, Exp(1), read twice: mean 1 = a nat, median ln 2 = a bit;
 the Gauss map entropy π²/(6 ln 2); the bells ARE the descent of ln 2. The
