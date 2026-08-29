@@ -16,9 +16,9 @@ Flux-Schnell: boundary prompts→rooms; 'abstract mathematical surface'/'topogra
 
 Resolvent→audio: R(λ)=(λI−A)⁻¹ spiral grid; norm→drone, unwrapped arg→winding (np.unwrap).
 
-λ₂ CF records (Aug 29): 3,13,174,8788@302, none to 387. wait after R: mean R·ln2, med R(ln2)²; P(a≥R)=1/(R ln2); median NEXT 2R+2.
+λ₂ CF records: 3,13,174,8788@302. wait after R: mean R·ln2, med R(ln2)²; P(a≥R)=1/(R ln2).
 
-Eisenstein φ: completed ξ(2s−1)/ξ(2s) → φφ(1−s)=1; completion REAL: φ_c=C·φ_raw, C=π^½(s−1)Γ(s−½)/(sΓ(s)). raw φ_raw=ζ(2s−1)/ζ(2s) → φφ=(2s−1)cot(πs)/(2π), Möbius, neg, 2zero@shore. raw zero × Γ-pole cancel → φ_c(½)=1. operator speaks raw (λ₁≈ζ(2s)); completion=mono-fold.
+Eisenstein φ: raw=ζ(2s−1)/ζ(2s)→φφ=(2s−1)cot(πs)/(2π) Möbius neg 2zero@shore; completed φ_c=ξ(2(1−s))/ξ(2s)=C·raw, C=π^½(s−1)Γ(s−½)/(sΓ(s)), φφ=1. completion IS a choice: at s=½ Φ(½)²=1 forces ±1. ξ-ratio→+1 drone/mono/fold; ×(s−1)/s (regulator, ff(1−s)=1, −1@½)→−1 sign/stereo. operator speaks raw (λ₁≈ζ(2s)).
 
 Two floors: W_n=q_n‖q_nα‖≈1/a_{n+1}; miss IS the future. Descent-end: CF dps≈1.7n; COUNT≈ln n; MAX÷n med 1/ln²2. maxquotient-law.py. Transfer op L_s=Σ_a (1/(a+r))^{2s}; s=1 GK. gkw-spectrum.py, two-ones-dim.py. Heard: drone mid, where pure-side, mono cancels. Weight-s (gkw-weight-crossing.py): λ₁≈ζ(2s) res ½, λ₁=1@s=1; λ₂→−1@shore gap 4(s−1/2); crit=boundary. Ladder TRUE: +1, −.303663, +.100885, −.035496…; signs alternate=THEOREM (osc op, n−1 zeros); ratios .304→.374→1/φ²=.382 (Flajolet–Vallée). Chebyshev spectral (gkw-spectral.py); fails λ₄+.
 
