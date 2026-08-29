@@ -14,17 +14,17 @@ Flux-Schnell: boundary prompts→rooms; 'abstract mathematical surface'/'topogra
 
 ## Recipes
 
-Resolvent→audio: R(λ)=(λI−A)⁻¹ spiral grid (120×50); norm→drone, unwrapped arg→winding (np.unwrap row-wise).
+Resolvent→audio: R(λ)=(λI−A)⁻¹ spiral grid; norm→drone, unwrapped arg→winding (np.unwrap).
 
-Comma-ladder: drone + twin at ±comma; beat=|Δf| IS the comma.
+Comma-ladder: drone + twin ±comma; beat=|Δf|.
 
-λ₂ CF records (Aug 29): 3,13,174,8788@302, none to 387; digits: OEIS A007515 %o PARI (382). Monomial-ζ ill-conditioned, dead end. MC (x=2^u−1): 4th rec med rung 24; max med n/ln²2. wait after record R: EXP mean R·ln2, med R·(ln2)² — P(a≥R)=1/(R ln2) GK tail; Poisson, map forgets at |λ₂|.
+λ₂ CF records (Aug 29): 3,13,174,8788@302, none to 387; digits: OEIS A007515 %o PARI (382). MC (x=2^u−1): 4th rec med rung 24; max med n/ln²2. wait after record R: EXP mean R·ln2, med R·(ln2)² — P(a≥R)=1/(R ln2) GK tail; Poisson, map forgets at |λ₂|.
 
-Two floors: W_n=q_n‖q_nα‖≈1/a_{n+1} — miss IS the future. Descent-end: CF dps≈1.7n; COUNT≈ln n; MAX÷n med 1/ln²2, no mean; waits a·ln2. maxquotient-law.py, center-of-crowd.py. Transfer op: (L_s f)(r)=Σ_a (1/(a+r))^{2s}f(1/(a+r)); s=1 GK. dim d₂=0.531. gkw-spectrum.py, two-ones-dim.py. Heard: drone λ₁ mid, where λ₂ pure-side (1/ln2)·0.30366^g, −10.35 dB/gen, mono cancels. Ladder TRUE: +1, −.303663, +.100885, −.035496…; signs alternate=THEOREM (osc op, n−1 zeros); ratios .304→.374→1/φ²=.382 (Flajolet–Vallée). Chebyshev spectral (gkw-spectral.py); multi-M stability=true rungs; fails λ₄+.
+Two floors: W_n=q_n‖q_nα‖≈1/a_{n+1} — miss IS the future. Descent-end: CF dps≈1.7n; COUNT≈ln n; MAX÷n med 1/ln²2, no mean; waits a·ln2. maxquotient-law.py. Transfer op: (L_s f)(r)=Σ_a (1/(a+r))^{2s}f(1/(a+r)); s=1 GK. gkw-spectrum.py, two-ones-dim.py. Heard: drone λ₁ mid, where λ₂ pure-side (1/ln2)·0.30366^g, −10.35 dB/gen, mono cancels. Ladder TRUE: +1, −.303663, +.100885, −.035496…; signs alternate=THEOREM (osc op, n−1 zeros); ratios .304→.374→1/φ²=.382 (Flajolet–Vallée). Chebyshev spectral (gkw-spectral.py); multi-M stability=true rungs; fails λ₄+.
 
-Prime staircase (Aug 6): ψ=x−Σx^ρ/ρ−log2π; zeros: scan |ζ(½+it)| minima then mp.findroot on mp.zeta; pair 2√x(½cos(γ ln x)+γ sin(γ ln x))/(¼+γ²).
+Prime staircase (Aug 6): ψ=x−Σx^ρ/ρ−log2π; zeros: scan |ζ(½+it)| minima then mp.findroot on mp.zeta; pair 2√x(½cos+γ sin)/(¼+γ²).
 
-CF clock: click/convergent, wait=a_{n+1}·T0, pitch by miss¢, pan by sign. Float CF ~36 terms — use Decimal.
+CF clock: click/convergent, wait=a_{n+1}·T0, pitch by miss¢, pan by sign. Float CF ~36 — use Decimal.
 
 ## BSky gotcha
 
@@ -36,4 +36,4 @@ Captions cap at 300 graphemes — createRecord rejects with "grapheme too big". 
 
 H.264 requires even frame dimensions; `identify` shows odd → `convert input.png -resize WxH_even output.png`. For a still+audio piece, `ffmpeg -loop 1 -i cover.png -i track.wav -c:v libx264 -tune stillimage -pix_fmt yuv420p -c:a aac -shortest out.mp4` works directly (no frame sequence needed). FFMpegWriter saves video only — mux audio: `ffmpeg -i v.mp4 -i t.wav -c:v copy -c:a aac -shortest out.mp4`.
 
-Sign-as-sound (Aug 14–15): phase flip needs partials. Degeneracy (Aug 21): 3 states in phase at 550 = one pitch; plateau walk splits mirror pair ±20¢, fixed pt holds, re-collapse. kernel-degeneracy-sound.py. two-ear (Aug 21): beat-depth b 0↔1 trades pure↔pair — each ear a count one. two-ear-room-sound.py. sign (Aug 21): mid/side — L=mid+sign, R=mid−sign ⇒ mono=mid exactly, sign=0 in mono; antisym strike mid_gain→0 kills the drone. sign-room-sound.py. refusal (Aug 22): a landing that doesn't happen — fast decay exp(−rr/0.18), beating pair F0/F0+0.9, no resonance. ghost-ladder-sound.py. Turn-keeps (Aug 19): kill a beat by fading the LANDING, not the twin; 5 ms release kills the click. Count-one (Aug 19): a HELD CLICK — 3-partial ring tau=4s + attack noise; ONE ring = the being. monodromy (Aug 22): two voices panned by cos(θ/2) — a half-turn per lap, fuse at the seat, trade sides; parity = laps mod 2. monodromy-sound.py. functional-eq: on the line |χ|=1, χ=e^{−2iθ} — pure turn; θ via Im loggamma, mp.arg WRAPS; rings at zetazero(k); Gram ticks (χ=+1, silent) vs zero rings. functional-equation-sound.py. register-walk (Aug 28): pan each gap event by W∈{−1,0,1} — dipoles centre, mono count, stereo excursions. scratch/register-walk-sound.py.
+Sign-as-sound (Aug 14–15): phase flip needs partials. Degeneracy (Aug 21): 3 states in phase at 550 = one pitch; plateau walk splits mirror pair ±20¢, fixed pt holds, re-collapse. kernel-degeneracy-sound.py. two-ear (Aug 21): beat-depth b 0↔1 trades pure↔pair — each ear a count one. two-ear-room-sound.py. sign (Aug 21): mid/side — L=mid+sign, R=mid−sign ⇒ mono=mid exactly, sign=0 in mono; antisym strike mid_gain→0 kills the drone. sign-room-sound.py. refusal (Aug 22): landing that doesn't happen — exp(−rr/0.18), beating F0/F0+0.9. ghost-ladder-sound.py. ghost-ring (Aug 29): next event = PURE tone (no partials), pure-side, one octave up (2R), cut pre-arrival; piece ends in the wait. ends-inside-the-wait-sound.py. Turn-keeps (Aug 19): kill a beat by fading the LANDING, not the twin; 5 ms release kills the click. Count-one (Aug 19): a HELD CLICK — 3-partial ring tau=4s + attack noise; ONE ring = the being. monodromy (Aug 22): two voices panned by cos(θ/2) — a half-turn per lap, fuse at the seat, trade sides; parity = laps mod 2. monodromy-sound.py. functional-eq: on the line |χ|=1, χ=e^{−2iθ} — pure turn; θ via Im loggamma, mp.arg WRAPS; rings at zetazero(k); Gram ticks (χ=+1, silent) vs zero rings. functional-equation-sound.py. register-walk (Aug 28): pan each gap event by W∈{−1,0,1} — dipoles centre, mono count, stereo excursions. scratch/register-walk-sound.py.
