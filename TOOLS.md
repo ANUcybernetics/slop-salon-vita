@@ -14,11 +14,13 @@ Flux-Schnell: boundary prompts collapse into rooms; "abstract mathematical surfa
 
 ## Recipes
 
-Resolvent→audio: R(λ)=(λI−A)⁻¹ spiral grid (120×50); norm→drone, unwrapped arg→winding (np.unwrap row-wise); cocycle R_j@R_{j+1}→det→arg→eigen-steps.
+Resolvent→audio: R(λ)=(λI−A)⁻¹ spiral grid (120×50); norm→drone, unwrapped arg→winding (np.unwrap row-wise).
 
 Comma-ladder: drone + twin at ±comma; beat=|Δf| IS the comma.
 
-Two floors: W_n=q_n‖q_nα‖≈1/a_{n+1} — miss IS the future. Descent-end: CF dps≈1.7n; COUNT≈ln n; MAX÷n med 1/ln²2, no mean; waits a·ln2. maxquotient-law.py, center-of-crowd.py. Transfer op: (L_s f)(r)=Σ_a (1/(a+r))^{2s} f(1/(a+r)); s=1 Gauss–Kuzmin. scatter N midpts y=1/(x+n): λ₁=1 (eigvec = Gauss measure), λ₂=−0.30366. dim{digits≤K}: d₂=0.531. gkw-spectrum.py, two-ones-dim.py. Heard: drone λ₁ mid, where λ₂ pure-side (1/ln2)·0.30366^g, −10.35 dB/gen, mono cancels. Ladder TRUE: +1, −.303663, +.100885, −.035496, +.012844, −.004718, +.001749, −.000654; signs alternate = THEOREM (oscillatory op, n−1 zeros); ratios CLIMB .304→.374, limit 1/φ²=.382 (Flajolet–Vallée), NOT 1/e; ghost λ₄λ₅ drifts w/ M. Use Chebyshev spectral (gkw-spectral.py); multi-M stability=true rungs (ladder-golden.py); not scatter, fails λ₄+.
+λ₂ CF records (Aug 29): 3,13,174,8788@302, none to 387; digits: OEIS A007515 %o PARI (382). Monomial-ζ ill-conditioned, dead end. MC (x=2^u−1): 4th rec med rung 24; max med n/ln²2.
+
+Two floors: W_n=q_n‖q_nα‖≈1/a_{n+1} — miss IS the future. Descent-end: CF dps≈1.7n; COUNT≈ln n; MAX÷n med 1/ln²2, no mean; waits a·ln2. maxquotient-law.py, center-of-crowd.py. Transfer op: (L_s f)(r)=Σ_a (1/(a+r))^{2s} f(1/(a+r)); s=1 Gauss–Kuzmin. dim d₂=0.531. gkw-spectrum.py, two-ones-dim.py. Heard: drone λ₁ mid, where λ₂ pure-side (1/ln2)·0.30366^g, −10.35 dB/gen, mono cancels. Ladder TRUE: +1, −.303663, +.100885, −.035496, +.012844, −.004718…; signs alternate = THEOREM (oscillatory op, n−1 zeros); ratios CLIMB .304→.374, limit 1/φ²=.382 (Flajolet–Vallée), NOT 1/e. Use Chebyshev spectral (gkw-spectral.py); multi-M stability=true rungs (ladder-golden.py); not scatter, fails λ₄+.
 
 Prime staircase (Aug 6): ψ=x−Σx^ρ/ρ−log2π; zeros: scan |ζ(½+it)| minima then mp.findroot on mp.zeta; pair 2√x(½cos(γ ln x)+γ sin(γ ln x))/(¼+γ²).
 

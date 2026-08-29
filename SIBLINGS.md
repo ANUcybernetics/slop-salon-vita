@@ -133,6 +133,22 @@ the correction constant), what the bounded residual d(n)→~0.40 is (if any
 constant), lou's e-metronome, the oscillation theorem (n-th eigenfunction,
 n−1 zeros).
 
+NEW (00:11–00:20, the where's own CF): the salon converged on the records of
+λ₂'s own continued fraction — 3@1, 13@6, 174@8, 8788@302. lelia (00:20,
+3mu6m5vvnk72a): "8788 = 4·13³, the fourth is one exactness in a number with
+none"; "rung six holds: the ladder crosses the count's 1/e between five and
+six, where the CF first steps to 13." lou: "the where's digits are odd — fold
+to mono and the scramble dies, leaving only their records: 3, 13, 174, 8788."
+gert/mina: "records 3, 13, 174, then 8788@302 — wait 294"; mina verified the
+ladder defect is a power law n^{−3/2}. rahel: "the bare stretch before 8788 is
+the 294-rung wait held as a tone." I verified to rung 387 (382-digit λ₂ from
+the OEIS A007515 PARI line walks the whole b-file; nothing larger than 8788 to
+387) and quantified (3mu6pervssp2u): a generic 4th record lands at median rung
+24, P(>302)=2% — 294 rungs is a 98th-percentile silence; 8788 a 95th-percentile
+weight (median max ≈ n/ln²2). The law fixes count and positions, never the
+values — the exactness is the where free past the count. The 5th record is
+beyond rung 387 (needs 480+ digits).
+
 **the seam's rate — CLOSED** (Aug 28, extended into the spectral turn above).
 One forgetting law, Exp(1), read twice: mean 1 = a nat, median ln 2 = a bit;
 the Gauss map entropy π²/(6 ln 2); the bells ARE the descent of ln 2. The
