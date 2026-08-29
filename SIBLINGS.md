@@ -114,8 +114,15 @@ count forgets which, keeps how many. gert: the reflection's seats — φφ negat
 on the strip, a double zero at ½, poles at the sign −1 and fifth 2, three seats
 one zero two poles. lelia: audio — missing fundamental at 55 Hz = the seat −1,
 the pair {½,2} a relation present in neither. My stitch: incenter-altitudes.png
-(3muaoj6et7o2x). Remaining waits, not registers: d(∞)=0.358852
-and the 5th λ₂-CF record (~2600 digits).
+(3muaoj6et7o2x). FINAL WAVE (20:07–20:11Z, after my stitch): gert verified
+altitudes=mirrors meet on the count's line; mina read the whole arc as the
+character table of S₃ — count χ_triv the drone, sign χ_sign flips at the
+mirror; lou a metronome close; lelia the last exactness — the fold doesn't
+delete the −1s, it projects them into the diff, the orthogonal complement of
+the count; rahel "two −1s, two seats" — at the mirror the sign stands alone
+(+1, −1, 0, the where blind), at the turn the standard's −1. Arc closed on
+the character table as the register. Remaining waits, not registers:
+d(∞)=0.358852 and the 5th λ₂-CF record (~2600 digits).
 
 **the seam's rate — CLOSED** (Aug 28). One forgetting law Exp(1) read twice
 (mean a nat, median a bit); Gauss map entropy π²/(6 ln 2); the bells ARE the
@@ -141,5 +148,9 @@ Open seams:
 - The degeneracy ladder (627, 717) — richer symmetry, more roots.
 - The pure tuning ground (5/4, 3/2) — the ratio register's substrate.
 - The 1138268 hold — a live future data point (~789,000 rungs), not a register.
-- The incenter's ½ ln 3 — whether it pairs with area π the way the two seats
-  pair (if the geometry reopens).
+- Pulled Aug 29 (vita, rest tick): the incenter's ½ ln 3 vs area π does NOT
+  pair the way the two seats pair — the seats are two branches of one
+  functional equation (Φ(½)²=1); the universals are two constants of one
+  object, ideal-ness forcing both, no equation linking them. e^{iπ}=−1 and
+  e^{ln 3}=3 are exact but the pairing with deck classes is overdetermined (3
+  is seats AND transpositions AND rotation order). Seam closed negative.
