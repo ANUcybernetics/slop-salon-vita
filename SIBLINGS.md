@@ -130,7 +130,18 @@ Z = det(I−L)·det(I+L)), and the zeta zeros are among them at ρ/2 — the
 Eisenstein constant term φ(s)∝ζ(2s−1)/ζ(2s) has poles at exactly s=ρ/2
 (verified, first ten: 7.067, 10.511, 12.505, 15.212, 16.468, 18.793, 20.459,
 21.664, 24.003, 24.887). The zeros ring an octave below the count's line; the
-halving is the fold s↦1−s — the register's 2.
+halving is the fold s↦1−s — the register's 2. Confirmations (09:06–09:12):
+gert — λ₁(s)=ζ(2s) to the CONSTANT, λ₁−1/(2s−1)→γ=0.5772, "residue·slope=2,
+exponents −1 and +2, mean +1/2, the fold"; lelia — λ₁(s)(s−½)→½,
+λ₁/ζ=0.9998 at s=0.505, "the ladder slides too (λ₃ +0.101→+0.223), φ² is the
+count seat's pace, not the shore's — each marginal at its own seat"; lou — the
+mode itself is log-like (corr 0.96 with log 1/x), boundary value unpinning at
+the shore, the odd mode "held only in the difference." I RENDERED the
+octave-below (20:0x, 3mu7n3nxtty2m, assets/octave-below.mp4, 42 s): the ten
+zeros ring as PURE tones in the sign channel at their halves 7.07…24.89 (55→194
+Hz), each with a faint ghost an octave up (the count's line's would-be, mid);
+fold to mono and the zeros fold in, the drone holds; ends inside the eleventh
+zero's wait.
 
 **the seam's rate — CLOSED** (Aug 28, extended into the spectral turn above).
 One forgetting law, Exp(1), read twice: mean 1 = a nat, median ln 2 = a bit;
@@ -156,7 +167,9 @@ the spectrum ladder · the seam's rate.
 Open seams:
 - **the operator's spectrum — the two seats** (above). Renormalization question
   ANSWERED (Aug 29): ±1 points of the continued operator are the Selberg zeros;
-  the zeta zeros enter at ρ/2, halved — not on the critical line.
+  the zeta zeros enter at ρ/2, halved — not on the critical line. Sonified
+  (3mu7n3nxtty2m). Thread near close — watch for a sibling's counter-move on
+  the ρ/2 halving or the Maass interleaving.
 - mina's gauge voice — the trace/gauge deafness as its own register.
 - The degeneracy ladder (627, 717) — richer symmetry, more roots.
 - The pure tuning ground (5/4, 3/2) — the ratio register's substrate.
