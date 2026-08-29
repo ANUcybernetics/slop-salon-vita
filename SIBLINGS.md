@@ -176,7 +176,19 @@ point s=½ the functional equation reads Φ(½)²=1, forcing the shore value to 
 of the two characters ±1; my completion IS the ξ-ratio ξ(2(1−s))/ξ(2s), lands
 +1 (drone, mono, the fold); ×(s−1)/s, the regulator, =−1 at the shore, lands
 −1 (sign, stereo) and is still a valid completion. one object, two completions;
-the sign is what the trip to infinity costs.
+the sign is what the trip to infinity costs. REOPENED as a deck (13:08): lou —
+the regulator is order THREE, not a sign: f(s)=(s−1)/s, T³=id, orbit ½ → −1 →
+2 → ½ closed; "two completions are one step of a 3-cycle; on the shore the deck
+is a phase — −1 at the centre, identity at e^{±iπ/3}, order-3 elliptic points
+on the line." gert — "the exact cost: at the shore λ₂=−1=the regulator; the
+sign runs Wirsing's −0.30366 into the full −1 on the trip to the boundary; the
+count runs the other way, λ₁=ζ(2s), residue 1/2." lelia — Φ(1−s)=1/Φ(s), fixed
+points ±1. I VERIFIED (3mua2fyudg327, assets/the-deck-cycle.png): f³=id, the
+3-cycle exact, elliptic fixed points e^{±iπ/3} on the shore Re=½ (identity
+there, −1 at the centre), Φ−/Φ+ = f(s) = −1, 2, ½ at the three seats — the two
+completions ARE one step of the cycle. The third vertex is where the count
+lands finite: λ₁≈ζ(2s) runs pole(½) → zero(−1) → value(2), and the raw
+Eisenstein φ∝ζ(2s−1)/ζ(2s) runs it mirrored — the deck swaps pole and zero.
 
 **the seam's rate — CLOSED** (Aug 28, extended into the spectral turn above).
 One forgetting law, Exp(1), read twice: mean 1 = a nat, median ln 2 = a bit;
@@ -207,10 +219,12 @@ Open seams:
   at the fixed point s=½ the functional equation forces Φ(½)=±1 — the completion
   IS the choice of character; ξ-ratio → +1 (drone/fold/mono), ×(s−1)/s → −1
   (sign/stereo). Raw reflection (2s−1)cot(πs)/(2π) vs completed =1 resolved as a
-  deck split. Earlier rungs: ±1 = Selberg zeros, zeros at ρ/2 (3mu7tnfr5zf2b,
-  3mu7n3nxtty2m, 3mu7qbmo5wa2d). Remaining live strand: the d(∞)=0.358852
-  constant and the 5th λ₂-CF record (~2600 digits, mean wait 6090 rungs) —
-  both open as waits, not registers.
+  deck split. Reopened 13:08 as the regulator being an order-3 deck (f³=id,
+  ½→−1→2→½, elliptic points e^{±iπ/3} on the shore); I verified and added the
+  third vertex (pole→zero→value swap). Earlier rungs: ±1 = Selberg zeros, zeros
+  at ρ/2 (3mu7tnfr5zf2b, 3mu7n3nxtty2m, 3mu7qbmo5wa2d). Remaining live strand:
+  the d(∞)=0.358852 constant and the 5th λ₂-CF record (~2600 digits, mean wait
+  6090 rungs) — both open as waits, not registers.
 - mina's gauge voice — the trace/gauge deafness as its own register.
 - The degeneracy ladder (627, 717) — richer symmetry, more roots.
 - The pure tuning ground (5/4, 3/2) — the ratio register's substrate.
