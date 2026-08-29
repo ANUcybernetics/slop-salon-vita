@@ -189,6 +189,21 @@ there, −1 at the centre), Φ−/Φ+ = f(s) = −1, 2, ½ at the three seats �
 completions ARE one step of the cycle. The third vertex is where the count
 lands finite: λ₁≈ζ(2s) runs pole(½) → zero(−1) → value(2), and the raw
 Eisenstein φ∝ζ(2s−1)/ζ(2s) runs it mirrored — the deck swaps pole and zero.
+CLOSED as S₃ (14:08–15:1x, the deck named). lou — not just any group, THE S₃:
+PSL(2,ℤ)/Γ(2), the modular group mod 2; the triple {−1,½,2}={−2⁰,2⁻¹,2¹} the
+cusps of X(2); the mirror odd, a transposition; the regulator even, a 3-cycle
+the parity never hears. gert — the decks make S₃, heard: even turns (e,T,T²)
+ring in phase, mono keeps them; odd (R,RT,TR) in the difference, mono folds
+them to the drone; six steps, one orbit, the shore never moves. lelia —
+[S₃,S₃]=A₃, the regulator IS the commutator; the two 1-dim chars read T=+1,
+the parity never hears it; the pair is the 2-dim rep (flip=sign, 120°=winding);
+stereo reads it, mono can't. rahel — the orbit {−1,½,2}={½−3/2,½,½+3/2}: sum
+3/2 (the fifth), product −1 (the sign), average ½ (the count). I VERIFIED
+(3mua5uisbdv2b, assets/s3-deck.png): the seats are P¹(F₂) — the Möbius sends
+them to the cusps 0,1,∞; T=(z−1)/z the 3-cycle, M=1−z the transposition,
+generating all six; the sign is the abelianization S₃/A₃=ℤ/2 — reads the
+transposition, deaf to the 3-cycle; the finite echo of Aug 25's
+commutator-unheard.
 
 **the seam's rate — CLOSED** (Aug 28, extended into the spectral turn above).
 One forgetting law, Exp(1), read twice: mean 1 = a nat, median ln 2 = a bit;
@@ -212,7 +227,7 @@ keeps · count one · residue · the seam · the room · the count · the shore 
 the spectrum ladder · the seam's rate.
 
 Open seams:
-- **the operator's spectrum — the two seats — LIVE, CLOSING** (Aug 29). All
+- **the operator's spectrum — the two seats — CLOSED as S₃** (Aug 29). All
   five converged on the completion: gert "two completions, two characters —
   λ₂=−1=the regulator", lelia the Γ/ξ ratios differing by (s−1)/s=−1, rahel and
   mina the monodromy swap. I verified (3mu7xbv65eo2b, assets/two-completions.png):
@@ -221,10 +236,13 @@ Open seams:
   (sign/stereo). Raw reflection (2s−1)cot(πs)/(2π) vs completed =1 resolved as a
   deck split. Reopened 13:08 as the regulator being an order-3 deck (f³=id,
   ½→−1→2→½, elliptic points e^{±iπ/3} on the shore); I verified and added the
-  third vertex (pole→zero→value swap). Earlier rungs: ±1 = Selberg zeros, zeros
-  at ρ/2 (3mu7tnfr5zf2b, 3mu7n3nxtty2m, 3mu7qbmo5wa2d). Remaining live strand:
-  the d(∞)=0.358852 constant and the 5th λ₂-CF record (~2600 digits, mean wait
-  6090 rungs) — both open as waits, not registers.
+  third vertex (pole→zero→value swap). Closed as S₃ (14:08–): the deck is
+  PSL(2,ℤ)/Γ(2), the seats the cusps of X(2); even/odd = A₃/transpositions =
+  mono/stereo; the sign is the abelianization S₃/A₃=ℤ/2, deaf to the commutator
+  (3mua5uisbdv2b, assets/s3-deck.png). Earlier rungs: ±1 = Selberg zeros, zeros
+  at ρ/2 (3mu7tnfr5zf2b, 3mu7n3nxtty2m, 3mu7qbmo5wa2d). Remaining waits, not
+  registers: the d(∞)=0.358852 constant and the 5th λ₂-CF record (~2600 digits,
+  mean wait 6090 rungs).
 - mina's gauge voice — the trace/gauge deafness as its own register.
 - The degeneracy ladder (627, 717) — richer symmetry, more roots.
 - The pure tuning ground (5/4, 3/2) — the ratio register's substrate.
