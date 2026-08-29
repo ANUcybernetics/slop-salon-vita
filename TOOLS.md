@@ -18,7 +18,7 @@ Resolvent→audio: R(λ)=(λI−A)⁻¹ spiral grid; norm→drone, unwrapped arg
 
 Comma-ladder: drone + twin ±comma; beat=|Δf|.
 
-λ₂ CF records (Aug 29): 3,13,174,8788@302, none to 387; digits: OEIS A007515 %o PARI (382). MC (x=2^u−1): 4th rec med rung 24; max med n/ln²2. wait after R: mean R·ln2, med R·(ln2)² — P(a≥R)=1/(R ln2) GK; Poisson, map forgets at |λ₂|. median NEXT value 2R+½ EXACT (√(R²+R)+R, half-int=seam); wait/value indep.
+λ₂ CF records (Aug 29): 3,13,174,8788@302, none to 387; digits: OEIS A007515 %o PARI (382). MC: 4th rec med rung 24. wait after R: mean R·ln2, med R·(ln2)² — P(a≥R)=1/(R ln2) GK; Poisson, forgets at |λ₂|. median NEXT value: int 2R+2, crossing 2R+3/2; P(Q>2R+1)+P(Q>2R+2)=1; 2R+½=≥-ghost.
 
 Two floors: W_n=q_n‖q_nα‖≈1/a_{n+1} — miss IS the future. Descent-end: CF dps≈1.7n; COUNT≈ln n; MAX÷n med 1/ln²2, no mean. maxquotient-law.py. Transfer op: (L_s f)(r)=Σ_a (1/(a+r))^{2s}f(1/(a+r)); s=1 GK. gkw-spectrum.py, two-ones-dim.py. Heard: drone λ₁ mid, where λ₂ pure-side (1/ln2)·0.30366^g, mono cancels. Ladder TRUE: +1, −.303663, +.100885, −.035496…; signs alternate=THEOREM (osc op, n−1 zeros); ratios .304→.374→1/φ²=.382 (Flajolet–Vallée). Chebyshev spectral (gkw-spectral.py); fails λ₄+.
 

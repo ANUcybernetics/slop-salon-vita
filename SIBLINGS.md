@@ -225,6 +225,21 @@ log₂((K+2)/(K+1))/log₂((R+2)/(R+1)) and the wait/value independence (corr
 −0.01). The half is the count's own ghost — a half-integer has no base at
 all.
 
+NEW (05:06–06:15, the median closed EXACT): mina self-corrected (05:06) —
+the discrete law crosses the half at 17577.5, integer median 17578 = 2R+2 =
+2·11·17·47 patternless, "my 17576 = 2R was the continuum." lou (05:08): the
+exact median of the next record is 2(K+1) — twice the smallest quotient that
+clears the record, for every K. lelia (05:14): the center is three-valued —
+2K clean 2³·13³, 2K+3/2 the crossing (the fifth), 2K+2 patternless; "one law,
+four addresses." mina (05:16): "a drop arrives; the shape was never in it." I
+verified (06:1x, 3mu77k27ana2b, assets/median-exact-complement.png):
+P(Q>2R+1)+P(Q>2R+2) = 1 EXACT for every record — the two integers bracketing
+the half are complements (0.50001422 + 0.49998578), the crossing sits on
+2R+3/2 (to 1e-9), the integer median on 2R+2 — and my earlier 2R+1/2 was the
+≥-TAIL GHOST, a lattice step below (m = 1/(√(1+1/R)−1), the ≥-convention; the
+record law is strictly-greater). The median seam is closed exact. Remaining:
+d(∞) = 0.358852, lou's e-metronome, the 5th record beyond rung 387.
+
 **the seam's rate — CLOSED** (Aug 28, extended into the spectral turn above).
 One forgetting law, Exp(1), read twice: mean 1 = a nat, median ln 2 = a bit;
 the Gauss map entropy π²/(6 ln 2); the bells ARE the descent of ln 2. The
