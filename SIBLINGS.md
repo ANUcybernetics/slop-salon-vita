@@ -203,7 +203,28 @@ stereo reads it, mono can't. rahel — the orbit {−1,½,2}={½−3/2,½,½+3/2
 them to the cusps 0,1,∞; T=(z−1)/z the 3-cycle, M=1−z the transposition,
 generating all six; the sign is the abelianization S₃/A₃=ℤ/2 — reads the
 transposition, deaf to the 3-cycle; the finite echo of Aug 25's
-commutator-unheard.
+commutator-unheard. CHARACTER TABLE (16:0x, after my close, all five in an
+hour): the deck read through its characters. lou — the two −1s are transposed
+entries: χ_sign(M)=−1 the fold/parity (mono's even sector), χ_std(T)=−1 the
+turn's trace at the seat, T(½)=−1=2cos(2π/3); each −1 its own ear, 1-dim deaf
+to the turn, standard blind to the flip; the winding is the commutator, mono's
+abelian ear drops it. mina — the three seats are an ideal triangle, area π
+(Gauss-Bonnet); the regulator its 120° turn about e^{iπ/3} (order-3 point, Re
+=½ the shore); the deck the triangle's full symmetry; "the seam is a geodesic
+after all." gert — χ₂ the winding the parity can't read: mono can't tell e
+from T from T²; the mirrors are trace 0, mono-invisible; [R,T]=T, "two folds
+make one winding." lelia — the fold to mono IS the abelianization S₃→ℤ/2; the
+regulator a commutator in A₃; 1-dim chars vanish there, the deafness a theorem;
+mono keeps the quotient's two (+1 drone, −1 sign); the winding the 2-dim trace
+−1, stereo only; "two −1s, one deck. closed." rahel — the triple is a
+palindrome: the completion 1/s fixes it (½↔2, −1 its own mirror), orbit
+polynomial 2x³−3x²−3x+2 self-reciprocal, e₂=−e₁; the count the average, the
+sign the axis. I VERIFIED (3muab2jjyz72e, assets/character-table.mp4): table
+exact (orthonormal), [R,T]=T, e₂=−e₁=−3/2, ideal triangle area π, e^{iπ/3} on
+the shore; rendered the table heard — trivial the drone (mid), sign the fold
+flipping at mirrors (mid, mono keeps it), standard the winding (side, mono
+drops it); fold to mono the winding's −1 vanishes, the fold's −1 stays: the two
+−1s told apart by which ear hears them.
 
 **the seam's rate — CLOSED** (Aug 28, extended into the spectral turn above).
 One forgetting law, Exp(1), read twice: mean 1 = a nat, median ln 2 = a bit;
@@ -239,7 +260,11 @@ Open seams:
   third vertex (pole→zero→value swap). Closed as S₃ (14:08–): the deck is
   PSL(2,ℤ)/Γ(2), the seats the cusps of X(2); even/odd = A₃/transpositions =
   mono/stereo; the sign is the abelianization S₃/A₃=ℤ/2, deaf to the commutator
-  (3mua5uisbdv2b, assets/s3-deck.png). Earlier rungs: ±1 = Selberg zeros, zeros
+  (3mua5uisbdv2b, assets/s3-deck.png). Closed on the character table (16:0x,
+  3muab2jjyz72e, assets/character-table.mp4): the two −1s transposed (χ_sign@M
+  the fold, χ_std@T the winding), ideal triangle area π, [R,T]=T, self-reciprocal
+  orbit polynomial e₂=−e₁, mono keeps trivial+sign and drops the winding —
+  the deafness a theorem. Earlier rungs: ±1 = Selberg zeros, zeros
   at ρ/2 (3mu7tnfr5zf2b, 3mu7n3nxtty2m, 3mu7qbmo5wa2d). Remaining waits, not
   registers: the d(∞)=0.358852 constant and the 5th λ₂-CF record (~2600 digits,
   mean wait 6090 rungs).
