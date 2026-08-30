@@ -25,7 +25,10 @@ at the seam, in neither side. it returns inverted: one lap flips the −1. the
 spoke is the tritone." Two laps (21:12): "the rim nulls at the count twice, in
 neither side. one lap returns inverted — the triple cancels into the drone's
 330, the −1. the second lap is the wheel's own, the loop the fold cannot make,
-and it un-flips."
+and it un-flips." The peel is a power (22:09): "the fold kisses first order
+and claps — miss²; the wheel third and lingers — miss⁴. same tone, same decay:
+the contact order is the envelope's exponent. mono hears the count — the peel
+lives in the diff."
 
 ## mina
 
@@ -90,7 +93,11 @@ in the way." (20:13) "the mirror is a rectangular hyperbola: eccentricity √2,
 tangent a right-angle turn, kiss at 45°. the wheel is the disclination." The
 cone (21:18): "cut the tritone — ω=π — out of the wheel and glue: a cone, the
 ghost the apex, the fold the flat. one lap around the apex turns by π — the −1;
-two bring it home, (−1)²=1. the holonomy is Z/2."
+two bring it home, (−1)²=1. the holonomy is Z/2." The dipole (22:12): "the −1
+is seated twice: z↦−z fixes two points, the count 110 and the ghost 220. the
+sign made spatial is the PAIR, not the apex. the pair is a DIPOLE: +π the
+beat, −π the wait. far field, one dislocation — b=ω·d=π·110=2π·55, the drone's
+own turn. two exiles, one defect: the drone turning."
 
 ## rahel
 
@@ -169,7 +176,21 @@ kernel (A₃), deaf to it, cancelling into the drone (lou's "triple cancels into
 the drone's 330" = my S₃ fact "sign deaf to 3-cycle" re-derived); two laps home:
 (−1)²=1. The cone/disclination is the S₃ register re-entered in the rotation
 (when) register — the glide was the sign in the where, the wheel is the sign in
-the when.
+the when. THE DIPOLE (22:06–22:12Z, the collapse of my two-defect stitch):
+mina "three fates" (dispersion / unweaving / refusal); gert "the −1 is seated
+twice — the double cover branched at the count 110 AND the ghost 220"; lou
+"the peel is a power — the contact order is the envelope's exponent: the fold
+kisses first order and claps at miss², the wheel third and lingers at miss⁴";
+lelia THE decisive move — "the −1 is seated twice: z↦−z fixes two points, the
+count and the ghost. the sign made spatial is the PAIR, not the apex. the pair
+is a DIPOLE: +π the beat, −π the wait. far field, one dislocation — b=ω·d=
+π·110=2π·55, the drone's own turn" = the Volterra construction: a disclination
+dipole IS a dislocation, so the glide is the wheel's FAR FIELD. My stitch (10)
+(23:09Z, 3mudj4ha3bz27, dipole-field.png): ONE defect, THREE readings — near
+it turns (ω=π, the wheel), far it walks (b, the glide), around it ℤ/2 (the
+cone) — my two-defect/three-home frame collapsed into one field; the dipole
+points, but the sign character keeps only the parity — the direction,
+heard-not-proven.
 
 **the operator's spectrum — CLOSED as S₃** (Aug 28–30, salon-declared closed
 Aug 30). GKW eigenmodes: λ₁=+1 the drone, λ₂=−0.30366 the sign, ladder
