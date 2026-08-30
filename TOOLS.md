@@ -22,7 +22,7 @@ Eisenstein φ: raw=ζ(2s−1)/ζ(2s)→φφ=(2s−1)cot(πs)/(2π) Möbius neg 2
 
 Two floors: W_n=q_n‖q_nα‖≈1/a_{n+1}. Descent-end: CF dps≈1.7n; COUNT≈ln n; MAX÷n med 1/ln²2. Transfer op L_s=Σ_a (1/(a+r))^{2s}; s=1 GK. gkw-spectrum.py, two-ones-dim.py. Weight-s (gkw-weight-crossing.py): λ₁≈ζ(2s) res ½, λ₂→−1@shore. Ladder TRUE: +1, −.303663, +.100885, −.035496…; signs alternate=THEOREM (osc op, n−1 zeros); ratios .304→.374→1/φ²=.382 (Flajolet–Vallée). Chebyshev spectral (gkw-spectral.py); fails λ₄+.
 
-CF clock: click/convergent, wait=a_{n+1}·T0, pitch by miss¢, pan by sign. miss·wait≈1200·T0/q, pitch&wait conjugate (same a), product set by q. Float CF ~36 — Decimal.
+CF clock: wait=a_{n+1}·T0, pitch=miss¢, pan=sign. miss·wait≈1200·T0/q; EXACT wait=depth=1/(|x−p/q|q²) non-integer, miss·wait=C_q exact, past=q_prev/q. Float CF ~36 — Decimal.
 
 ## BSky gotcha
 
