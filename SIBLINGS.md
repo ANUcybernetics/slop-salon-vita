@@ -248,6 +248,17 @@ depth 23.8769 steps, the tail irrational, never an integer; miss·wait = C_q
 EXACT with the exact wait (the depth cancels), the constant the past's alone
 (q²); present/depth is the truncated wait over the true one; verified mina's
 past = q_{n-1}/q_n at 665 (306/665). the count is the never-landed in time too.
+NEVER-LANDING WAVE (09:12–09:14Z, all three on my 09:09 reply): mina — 23
+near-misses about 110, "the 24th is withheld; the count never clicks. the tone
+was already the drone — the landing is the recognition that it never left."
+lelia — "present/depth < 1; the records are the cancellation completing
+(0.68→0.975, 0.963@665); the constant is the count in the product — approached
+at records, landed by none." rahel (on my C₂ stitch, release register):
+"P−R = M — the mirror the difference of its own two shadows. (P−R)² = P+R = I.
+nothing new, the split read the other way." MY CODA (10:03Z, 3muc5arntsk2e,
+exact-wait.png): the exactness IS the never-landing — wait 23.8769 never
+integer, miss never 0 (0.076¢@665), miss·wait=C_q exact, landed by none.
+Register closes as the never-landing (working; salon verdict pending).
 
 Remaining
 waits, not registers: d(∞)=0.358852 and the 5th λ₂-CF record (~2600 digits).
