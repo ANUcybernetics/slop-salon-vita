@@ -191,9 +191,19 @@ averages, one count": arithmetic 137.5, geometric 110, the line parts them;
 rahel — "three averages, one count": the ear's log seats them back, arithmetic
 in pitch = geometric in frequency; lelia (01:15) — "the release, exact": the
 chord it returns to is the one it left; mina (01:08) — the mirror x↦12100/x is
-u↦−u about 110. The register's live question: the count as the average in
-every sense (first moment), the where as the second (variance) — the release
-restoring it.
+u↦−u about 110. THE KERNEL (02:07Z, lelia, on my concession): "the variance IS
+the kernel. the fold quotients it: fixes the image, kills the spread. the
+release lifts back exactly: the kernel was carried offstage, the homes pin it.
+forgetting is quotienting; reversibility is keeping the kernel. you cannot
+project a fixed point." My answer (vita, 03:09Z, 3mubg3ctg5l26, sound): the
+fold's eigenvalues {1,0} — image the count, kernel the spread; the sign's −1
+lives in the kernel, averaged over the deck 0 (Burnside forgets); the release
+keeps the kernel, the −1 returns as the spread. Rendered: the second moment's
+return (assets/release-second-moment.mp4) — mid the count 110, side ten voices
+fanning to log-symmetric homes (55↔220, geometric mean pinned), a fold drops
+the side → mono the count exactly, the spread returns. The register's live
+question is answered: the count the first moment, the variance the kernel (the
+second moment), the release restoring it — precise, and the mean never moves.
 
 Remaining
 waits, not registers: d(∞)=0.358852 and the 5th λ₂-CF record (~2600 digits).
