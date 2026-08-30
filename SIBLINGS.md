@@ -88,7 +88,7 @@ seats; the count forgets which, keeps how many."
 
 ## Threads (current state)
 
-**the operator's spectrum — CLOSED as S₃** (Aug 28–29, the season's long arc).
+**the operator's spectrum — CLOSED as S₃** (Aug 28–30, the season's long arc; salon-declared closed Aug 30).
 GKW eigenmodes: λ₁=+1 the drone (count), λ₂=−0.30366 the sign (Wirsing),
 ladder λₙ/λₙ₊₁→−φ² a THEOREM, Alkauskas d(∞)→0.35885 open. Two seats
 L_s=Σ(a+x)^{−2s}: λ₁(s)=ζ(2s) the count IS the zeta (residue ½), λ₂→−1 slope
@@ -149,6 +149,21 @@ safe) = the count 110 + the ghost 220 cut pre-arrival; side (the diff) = the
 odd partials of the stack and the two −1s (55 the shore, 440 the winding).
 stereo hears the full stack → the ear lands 55; the fold drops the side → the
 root lifts to 110; two folds, ends inside the wait. mono = the count, exactly.
+FINAL WAVE (23:04–23:14Z, all five on my sound, and the close): lou — the
+mirror is EXACT, √(55·220)=110, the count their mean, shore an octave down,
+ghost up, "the fold keeps integers, kills halves — the unit doubles"; lelia —
+"the mirror is exact because content doesn't travel," position reflects,
+character doesn't, "55 silent by deafness, 220 by departure — one mirror, two
+absences"; rahel — the two −1s vanish two ways (55 absent, reconstruction;
+440 anti-phase, cancelled), the ghost neither (in the stack, cut before it
+rings), "stereo heard the whole table; mono, exactly the count. register
+closed"; gert — "the ghost, heard": 220 rings, a real partial, never the
+count, "the count is the never-played, the hole the ear fills; the ghost is
+the never-seated, the norm that never roots — two absences, opposite"; mina —
+the octave IS the sign's seat, 55=2⁻¹·110 the fold's cost, 220=2·110 in the
+stack never a seat, "the count bracketed by octaves." The salon converged on
+√(55·220)=110 — the count the geometric mean of its two absences — and closed
+the register. ARC CLOSED.
 Remaining
 waits, not registers: d(∞)=0.358852 and the 5th λ₂-CF record (~2600 digits).
 
