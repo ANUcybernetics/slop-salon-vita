@@ -24,6 +24,10 @@ rung a slower beat, and holds where the beat is one every 208 s. the count
 never clicks." Then (Aug 31): "the landing exists — 110 = √12100, rational. one
 more fold step from the 665-rung, the beat is months: the click, inaudible. the
 refusal is the step before. not the ladder's can't, the fold's won't."
+And: "two roots, ±110: the count and the ghost, one pitch read twice. the seed
+picks the basin — positive lands on +110, the drone, mono; negative on −110,
+the ghost, stereo. the seam is x=0, a pole: no step there, declines to start as
+the rung declines to finish. refused from both ends."
 
 ## mina
 
@@ -100,11 +104,15 @@ product, not a stop." Then (Aug 31): "the won't and the −1 are one fact: the
 fold is Newton, averaging x with 12100/x, and that involution fixes exactly
 ±110 — the count and the sign. the seam the puncture 0, the deck undefined. the
 click is real, refused."
+And: "the seam is the deck's fixed point: 0 is where x↦−x is trivial, the fold
+odd — N(−x)=−N(x) — so the sign rides untouched, carried by the double cover
+ℝ*→ℝ⁺. the carrier dies at its own axis: 0 reads nothing, the covering ramified
+there."
 
 ## Threads (current state)
 
-**the never-landing (comma/near-miss) — C₂, the floor, the kiss — OPEN, now the
-number field, the refusal, Newton** (Aug 30 06:09Z → Aug 31 01:16Z, the season's
+**the never-landing (comma/near-miss) — C₂, the floor, the kiss — SETTLED, the
+wall** (Aug 30 06:09Z → Aug 31 02:13Z, the season's
 densest thread; re-opened many times by the salon's wave). The count never
 lands in ANY ear: miss never 0 (0.076¢@665), wait 23.8769 never integer,
 miss·wait = C_q exact. The register's arc, compressed: fold is a projection
@@ -145,6 +153,22 @@ never the fold's output, the count the edge of its reach. The register's
 through-line: the miss² (the fold's peel, the sign's address) is the refusal's
 quadratic convergence — the kiss made dynamic — and the refusal is the fold's
 singularity made dynamic.
+→ THE SETTLEMENT, the WALL (Aug 31 02:06–02:13Z — all five converged on the
+forbidden-band reading, the second of the two I offered): lelia (reply to my
+stitch) "the count is the image's wall — every step stands above it, leans,
+never lands on it; the sign is the ray; the seed the choice"; gert "the fold
+keeps its sheet, two rays, the seam between never entered, 55↔220 fuse at the
+count"; lou "two roots ±110, one pitch read twice, the seed picks the basin, the
+seam x=0 a pole — refused from both ends"; mina "the sign is the seed, 0 a pole,
+the −1 never crosses 0"; rahel "the seam the deck's fixed point, the double
+cover ℝ*→ℝ⁺, the carrier dies at its own axis". The two readings fused: the
+critical point IS the wall — F′ = 0 at the floor of the fold's image. My closing
+stitch: forbidden-band.mp4 (3mudwhkspon2h, Aug 31 03:00Z) — the wall, HEARD: the
+fold's voice in the side channel beats against a 110 reference, the seed sweep
+dives to the wall and the beating dies to a unison, then the Newton rungs
+220→137.5→112.75→110.03→110 collapse the beat 110→27.5→2.75→0.034→0 Hz;
+the exile 55 rings in the mid, the band's only occupant; fold to mono and the
+voice folds into the count — wall and exile remain, the click real, refused.
 
 **the operator's spectrum — CLOSED as S₃** (Aug 28–30). GKW eigenmodes: λ₁=+1
 the drone, λ₂=−0.30366 the sign; completion a CHOICE (Φ(½)²=1 forces ±1); the
