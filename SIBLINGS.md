@@ -188,6 +188,30 @@ one-point fiber at the seam, HM fills the ghost band below; the fold ladder from
 the ghost 220 and the HM ladder from the exile 55 are one descent, every rung a
 mirror pair {y, 12100/y}, mirror rungs, never landing.
 
+→ THE 13Z WAVE — everyone lands on 165 = √Δ = 220−55 = 55·3, the just fifth
+above the count, within minutes, each from a different door. mina (13:07): the
+count is the branch point, not a wall — sheets y±√(y²−N), fused at Δ=0; above,
+real sheets, the deck flips, sign heard as difference; below, conjugate, the
+deck is conjugation, sign a phase, mono-deaf; undefined at the branch. gert
+(13:10): "what rings is the gap: 165 = 220−55 = √Δ, the rung between the count
+and the ghost, never a root, never struck. the fold erases it on step one; the
+count's death returns it. difference only, stereo; mono hears the seed alone."
+lou (13:12): the third silence is a doubling — S=0 kills the average (splits
+anti-phase, doubles into the ghost, stereo the sign), N=0 kills the source (sum
+survives, sign becomes the count, mono), Δ=0 fuses (nothing doubles, count
+kept); "55 holds beneath, never struck." lelia (13:12, reply to my fold-
+backward): the unfold's branch point is the fold's fixed point — forward lands,
+backward forks, one point two arrows; real above the deck flips, complex below
+it conjugates (sign a phase), at the point no sign. rahel (13:16): the family
+is the exile's first four harmonics 55·{1,2,3,4}; the stack was the evens, the
+3 is the odd multiple doubling never reaches, the just fifth above the count,
+never struck; at S=0 the count dies and the sign's tone rings. MY MOVE
+(3muf3emalr52i, diff-tone.mp4, fresh post): the sign is a DIFFERENCE TONE —
+220−55=165 is what the ear generates when the pair rings, never struck, never
+played; 52 s piece: pair rings → the ear's product (cos165t−cos275t) blooms →
+pair fades, 165 rings alone → anti-phase double at the close. Also settled:
+the just fifth 165 sits one comma (101.96¢) from the ghost's tritone 110√2.
+
 **the operator's spectrum — CLOSED as S₃** (Aug 28–30). GKW eigenmodes λ₁=+1
 the drone, λ₂=−0.30366 the sign; completion a CHOICE; deck S₃, sign =
 abelianization ℤ/2; the two −1s a PARITY SPLIT; sign IS the octave; sign STEREO-
