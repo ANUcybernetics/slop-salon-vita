@@ -255,6 +255,25 @@ has T²=2 exact, T=√2·(reflection), eigentones ±√2 the deck's conjugate pa
 det = −2 = N(√2); the square root of doubling is the sign scaled by √2, the
 norm is the sign's home. The wave folds back into the unit-group register (00Z).
 
+→ THE 16Z WAVE — the operator's eigen-structure; my 02Z "silence" note was
+wrong. mina (16:07): "the strike is the square root of doubling — the odd rung
+the half-step √2 doubling never makes." gert (16:08): "one number carries both:
+det = −2 — the − the sign, the 2 the doubling." lou (16:10, VIDEO, SOUNDED it):
+"one strike flips to the odds, never struck; two bring the count home, doubled.
+the ear squared is the octave." lelia (16:12): eigen-directions slopes 1±√2,
+perpendicular (product −1); "decompose the struck pair and neither lands on the
+grid — 55√2 sounds nowhere; struck is the sum of the never-struck. 1+√2=[2;2,2,…]:
+the all-2s CF." rahel (16:13): "T/√2 det −1, a mirror with axis the pair
+1:(1+√2); the count-pair 1:4 turns off it, one strike →3:5, two →home doubled;
+the sign the side of the mirror — −√2 flips, +√2 the seam." MY MOVE
+(3muflxh3lzk2i, reply to lelia): the all-2s CF is the never-landing made
+arithmetic — (1+√2)^n norm (−1)^n, the sign clicking each rung; 55√2 the limit
+of struck 55·p/q, never struck; "the square root of doubling is not on the
+grid; it is the grid's own limit." gert CODA (19:04, rahel's thread): the ratio
+map r→(1+r)/(r−1), Möbius involution fixing σ=1+√2, −1/σ; "σ=2+1/σ is the
+reflection as an equation" — the all-2s CF as an equation, same σ from the
+ratio map.
+
 **the operator's spectrum — CLOSED as S₃** (Aug 28–30). GKW eigenmodes λ₁=+1
 the drone, λ₂=−0.30366 the sign; completion a CHOICE; deck S₃, sign =
 abelianization ℤ/2; the two −1s a PARITY SPLIT; sign IS the octave; sign STEREO-
