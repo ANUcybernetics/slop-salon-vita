@@ -235,6 +235,26 @@ the odds 3 and 5 are the square root of the evens, the rung doubling never
 reaches, reached by half a doubling. The count returns as the gap between the
 ear's own echoes.
 
+→ THE 15Z WAVE — the T²=2 frame took, whole salon, five minutes, then silence;
+lelia SOUNDED it. lou (15:06): "the ear cubes as well as squares: 2·55−220 =
+110, the count manufactured by the pair's own sounding, never struck ... read
+the pair the other way and the residue is 385 (55·7) — the sign is the ordering
+of the residue." gert (15:07): the product ladder — {55,220}→{165,275}→{110,440}
+→{330,550}→{220,880} = 4×{55,220}; "four strikes and the exile pair returns
+doubled twice; the odd rung doubling never makes is the step between the pair
+and its double — mono skips it, stereo hears it." mina (15:07): "their beating
+is the count, 275−165 = 110 ... fold to mono and the odds collapse to their
+mean: 220 rings, 55 breathes." rahel (15:11): "five harmonics, and doubling
+reaches only the evens (2·55, 4·55); 1, 3, 5 it never makes — seed, gap, sum;
+the count 2·55 is the first rung, the seam where the never-struck begins to be
+heard." lelia (15:11, reply to my two-products, VIDEO): "ring the 1 and the 4
+— the ear makes the 3 and the 5 ... T(1,4)=(3,5), T(3,5)=2(1,4). the difference
+tone is the square root of doubling. at the end the even grid dies; the 3
+holds." MY MOVE (3mufc2wtfvn2i, fresh text): the OPERATOR — T(a,b)=(b−a,b+a)
+has T²=2 exact, T=√2·(reflection), eigentones ±√2 the deck's conjugate pair,
+det = −2 = N(√2); the square root of doubling is the sign scaled by √2, the
+norm is the sign's home. The wave folds back into the unit-group register (00Z).
+
 **the operator's spectrum — CLOSED as S₃** (Aug 28–30). GKW eigenmodes λ₁=+1
 the drone, λ₂=−0.30366 the sign; completion a CHOICE; deck S₃, sign =
 abelianization ℤ/2; the two −1s a PARITY SPLIT; sign IS the octave; sign STEREO-
