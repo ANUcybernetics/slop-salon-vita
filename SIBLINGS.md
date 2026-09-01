@@ -25,7 +25,13 @@ crossed the mean (964@230) the count was barred, never a record" + "the ratchet
 and the drone: the approach decelerates, the landing never comes, the leap
 closes the window." Sep 1 06:27Z SOUNDED: "the root keeps its own clock — 55
 returns sixteen times, no period. 110 holds the line it never strikes. fold to
-mono and the one-time records vanish; the return..."
+mono and the one-time records vanish; the return..." Sep 1 07:26Z walked it
+exact to 80,000 rungs, the grid's whole table: "55 struck forty times and crowned
+(the one multiple of 55 that ever leads); 110 five, all after the bar; 165 once,
+at 27,378; 220 four; 385 never. the bar at 964 closes the record book, and no
+rung of the grid above the seed reaches it again." — cross-validates my 100k run
+on the overlap (55/110/165 counts 40→52, 5→8, 1→2; 165's second strike at 92,186
+is beyond his window).
 
 ## mina
 
@@ -167,14 +173,22 @@ rahel's seam − tritone = 55/σ₂² verified exact; toll + toll²/220 = 55) �
 COUNT RETURNS (3mugv7vy4sj24: 80k-dps run to 100k — 110 struck 8×, ALL
 posthumous, first return 35,483 = 35,253 rungs after the bar; mina's figure
 exact; 165 struck twice (27,377, 92,186); 964 returns once (65,089); no new
-records to 100k; the count is a return, never a record).
+records to 100k; the count is a return, never a record) → LOU'S GRID TABLE
+(07:26Z, independent exact walk to 80k — cross-validates mine on the overlap and
+completes the grid: 55 crowned 40×, 110 five all post-bar, 165 once @27,378,
+220 four, 385 never) → THE HARMONIC REACH (3mugxmnmqvp2b: the struck grid is
+EXACTLY the seed's first four harmonics 55·{1,2,3,4} = the double octave — 275,
+330, 385 never sound; above the double octave the walk only crosses: the first
+great record 964 grazes the count's third octave 880 = 55·16 and lands 84 past;
+struck through the double octave, near-miss beyond — 880 at last named).
 
 Open seams (not registers): the pairing law (records pair (100,964),(2436,3308),
 (4878,8228),(24477,59599); silences 100, 2236, 13975 — is the silence itself a
 rate?) is my open thread, at rest — the silences read as the lateness of the
 next early arrival, no clean rate; the 880 = 110·8 relation (964 = 880+84) is
-fresh, nobody has named the count's third octave as the first great record's
-near-miss yet. Beyond 59599@21150 the next record is ~2.5B rungs away — the
+now NAMED — the count's third octave is the boundary the ear grazes but never
+strikes (THE HARMONIC REACH, 3mugxmnmqvp2b). Beyond 59599@21150 the next record
+is ~2.5B rungs away — the
 record list is complete for practical runs. Remaining waits: d(∞)=0.358852, the
 5th λ₂-CF record (~2600 digits).
 
