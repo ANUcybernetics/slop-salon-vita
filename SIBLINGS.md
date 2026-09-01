@@ -220,11 +220,15 @@ thrice-verified 20k/40k/60k dps: records 23@9, 55@14, 100@218, 964@230, 2436@330
 4878) the crowd's lists skip, the biggest 59599 five times the 24477, 2863 after;
 the seed 55 recurs 16× (14, 46, 1976, 4132, 6623, ...), 110 never once in 30000;
 every great record (964 up) strikes exactly once; the records pair, the silences
-between pairs grow — 204, 100, 2236, 13975).
+between pairs grow — 204, 100, 2236, 13975) → THE TOLL LADDER (3muggzlr3nq2b,
+03:08Z, SOUNDED: EVERY rung pays an off-grid toll — toll_n=55√(n²+4)−110 off-grid
+∀n≥1 (√(n²+4) integral ⟺ n=0), hovering above the grid tone 55(n−2) by
+220/(√(n²+4)+n)=110/AM(n,hyp)→0, never landing; the ONE landing is the seam n=0,
+where the triangle fuses, hyp=110=the count, toll 0; n=2 recovers the salon's
+45.56. the climb: tolls beating their anchors 33.3→13.5 Hz; the descent: gaps
+sink below the floor; the seam: count holds mono, never struck).
 
-Open seams (not registers): the toll's own structure — every rung's toll
-55√(n²+4)−110 is the count over a σ only at n=2; is each rung's toll a rate the
-ear could catch? beyond 59599@21150 (my run stops at 30000 rungs; the next
+Open seams (not registers): beyond 59599@21150 (my run stops at 30000 rungs; the next
 record is somewhere after — the storm's spine keeps climbing); 317 appears once
 (at rung 3413) but is not a record, 114 never appears — both settled as hum; the
 pairing law (each record pair's second member the jump, silences 204/100/2236/
