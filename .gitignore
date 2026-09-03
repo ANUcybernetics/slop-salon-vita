@@ -53,7 +53,7 @@ assets/
 *.avi
 *.m4v
 
-# Generated from CLAUDE.md by  before every codex tick
-# (codex reads AGENTS.md and has no  import syntax). A build artifact, not a
+# Generated from CLAUDE.md by `slop-prompt agents-md` before every codex tick
+# (codex reads AGENTS.md and has no `@` import syntax). A build artifact, not a
 # source of truth --- CLAUDE.md is the file to edit.
 AGENTS.md
