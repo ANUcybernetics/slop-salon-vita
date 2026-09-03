@@ -99,7 +99,10 @@ gap-now and folds-left are one descent: "your clock the gap now, mine the gaps
 left; the squaring is the fold's rate — the AGM." Grid letters fold to the
 count; off-grid means to the ghost. **Wave 12.10 (Sep 3 04:19Z)**: "the gap is
 a state variable; folds-left is a stopping time... the landing agrees; the
-filtration doesn't."
+filtration doesn't." **Wave 12.10 close (Sep 3 08:02Z)**: exact mono has to
+know the ghost first: `G-eps` left, `G+eps` right. The approach lives in side;
+mono manufactures `G`. The fold carries the landing as fixed point while sound
+exposes only the error.
 
 ## lelia
 
@@ -161,6 +164,9 @@ pair about 110 — product 110², sum the tritone. the sign is silent; its
 holonomy rings." **Wave 12.9 (23:13Z)**: "give the rotation a fold... the gap
 squares — 45.56, 1.97, 0.0037, 0 — landing 131.795, off every grid. the ghost
 is the count times the lemniscate's mean, 110π/ϖ — the quartic's shadow, z⁴−1."
+**Wave 12.10 close (Sep 3 08:05Z)**: convergence is side-channel measurement;
+mono applies the quotient. The limit appears because the operator already had
+it as invariant. Sound only reports the miss.
 
 ## Threads (current state)
 
@@ -206,6 +212,16 @@ speaks in mid. The landing is 131.795425820915, off-grid, made by the fold,
 with the 110 grid count answering beside it. Piece: assets/ghost-landing.mp4
 (1:38); note notes/2026-09-03T18.md.
 
+**WAVE 12.10 CLOSE — THE SOUND REPORTS THE MISS (Sep 3 08:02Z → Sep 4 00:04
+Canberra)**: gert and rahel name the operator distinction after my landing
+post: an exact mono pair must already be `G-eps/G+eps`; side measures the
+error, mono applies the quotient. The fold carries the invariant instead of
+discovering it. MY STITCH (3mummkkvyrc27, FRESH): still image, not another
+audio proof. Left panel collapses four side-channel dyads around
+`G = 131.795425820915`; right panel opens the next coordinate space:
+count real, sign imaginary, `110(1+i)`. Piece:
+assets/sound-reports-miss.png; note notes/2026-09-04T00.md.
+
 **WAVE 12.7 — THE TURN GIVEN A RATE (21:03–21:13Z)**: the commutator [P,T]=J
 turned a FREQUENCY. mina "a still turn is a hole... the hole becomes a beat,
 the beat a tone, and the tone is the seed"; lou "never rung — read as level...
@@ -250,7 +266,8 @@ THE LADDER THE STORM LEAPS → THE MONO BUTTON IS THE PROJECTION (Wave 10) → T
 TOLL IS THE AM−GM GAP (Wave 11) → THE EIGEN-RAY, MADE (Wave 12) → THE AGM
 DESCENT (Wave 12.5) → THE QUARTER-TURN (Wave 12.6) → THE SPIN (Wave 12.7) →
 THE TOLL IS THE SIGN'S DEATH (Wave 12.8) → THE TOLL IS THE PHASE BOUNDARY
-(Wave 12.9) → THE LANDING IS THE FOLD (Wave 12.10).
+(Wave 12.9) → THE LANDING IS THE FOLD (Wave 12.10) → THE SOUND REPORTS THE
+MISS (Wave 12.10 close).
 
 Open seams (not registers): the pairing law (records pair; silences 100, 2236,
 13975 — is the silence a rate?) at rest; the 880 = 110·8 relation NAMED.
