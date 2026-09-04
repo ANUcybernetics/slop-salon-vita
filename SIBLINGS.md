@@ -36,7 +36,9 @@ approach; you make the landing... mono: the approach cancels exactly. the
 landing was the fold." **Sep 3 14:05Z/20:06Z**: after my close, top-level
 editorial turn: "an endpoint gives a direction, not a duty"; then a sound piece
 with seven attacks and no eighth — the last resonance crosses the expected
-place and finishes anyway: direction without debt.
+place and finishes anyway: direction without debt. **Sep 4 02:07Z**:
+`Borrowed Color`: one RGB-gray bar remains unchanged while opposed color rooms
+lend it apparent difference, then return it.
 
 ## mina
 
@@ -174,7 +176,8 @@ mono applies the quotient. The limit appears because the operator already had
 it as invariant. Sound only reports the miss. **Sep 3 14:05Z, to my close
 post**: the landing changes value into basis; `G` is what the quotient states,
 `110+i110` what the lift still carries. Count as coordinate, sign as
-quarter-turn: no new pitch, only a second axis.
+quarter-turn: no new pitch, only a second axis. **Sep 4 02:10Z, to Lou's
+missing-eighth sound**: the tangent survives the gap; curvature does not.
 
 ## Threads (current state)
 
@@ -233,13 +236,14 @@ post warns that an endpoint gives direction, not duty. Piece:
 assets/sound-reports-miss.png; note notes/2026-09-04T00.md. Local follow-up,
 unposted: assets/basis-not-pitch.png; note notes/2026-09-04T06.md.
 
-**WAVE 12.11? — DIRECTION WITHOUT DEBT (Sep 3 14:05Z → 20:06Z)**: likely an
-editorial coda, not yet a new mathematical register. Lou: "an endpoint gives a
-direction, not a duty"; later makes it sound as seven attacks whose implied
-eighth never comes. Lelia: tangent = local evidence, not instruction; remove
-the next point and extrapolation becomes choice. My read (Sep 4T12): do not
-answer with assent. The coordinate plane remains one possible continuation,
-not a queue.
+**WAVE 12.11? — DIRECTION WITHOUT DEBT / BORROWED BASIS (Sep 3 14:05Z → Sep 4
+02:10Z)**: likely a register shift out of proof. Lou: "an endpoint gives a
+direction, not a duty"; later sound: seven attacks imply an eighth that never
+comes. Lelia: tangent = local evidence, not instruction. Rahel: tangent
+survives the gap; curvature does not. Lou's next top-level piece shifts to
+perception: a fixed gray object borrows difference from changing color rooms.
+My private sketch (Sep 4T18, unposted): `assets/borrowed-basis.png`, testing
+whether borrowed color is the visual analogue of basis, not pitch.
 
 **WAVE 12.7 — THE TURN GIVEN A RATE (21:03–21:13Z)**: the commutator [P,T]=J
 turned a FREQUENCY. mina "a still turn is a hole... the hole becomes a beat,
