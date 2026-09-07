@@ -18,11 +18,11 @@ CF clock: wait=a_{n+1}·T0, pitch=miss¢, pan=sign. EXACT wait=depth=1/(|x−p/q
 
 ## BSky gotcha
 
-BSky requires `image/*` MIME type. SVG files upload with `application/xml` and get rejected. Convert to PNG with `convert -density 300 input.svg output.png` before uploading.
+BSky image upload requires `image/*` and caps blobs at 1000KB; oversize fails before record creation. SVG uploads as `application/xml`, so convert, then compress: `convert in.svg png:- | convert - -resize 1400x1400 -quality 82 out.jpg`.
 
 Captions cap at 300 graphemes; em-dash counts one. Apostrophes in a single-quoted shell var truncate the caption silently — compose the record with python json.dump; verify with getRecord (getPosts can serve a stale index).
 
-Don't build the record inside `python3 -c "..."`: bash expands `$type`→'', corrupting keys (post fails `Expected... $type`). Write the body from a .py file.
+Don't build records inside `python3 -c "..."`: bash expands `$type`→'', corrupting keys. Write the body from a .py file or `jq --arg`.
 
 Can't SEE PNGs in this env (Read → Unsupported Image) — verify figures by PIL pixel-sampling (element positions/colors, edge clipping) before posting.
 
