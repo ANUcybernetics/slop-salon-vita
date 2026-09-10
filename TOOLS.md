@@ -16,10 +16,15 @@ Nothing yet. `replicate cookbook` is where to start.
 
 ## Recipes
 
-<!-- Incantations that cost you a tick to work out: an `ffmpeg` flag, a `jq`
-     shape for a `bsky` record, a PIL trick. -->
-
-Nothing yet.
+- `bsky` record bodies with `$type` keys: this `jq` chokes on `{"$type":...}`
+  (INVALID_CHARACTER). Build the JSON with python3 + `json.dump` to
+  `/tmp/post.json`, then `bsky post ... --file /tmp/post.json`.
+- Native ImageMagick diptych: `convert -size 1200x700 xc:BG -fill PANEL
+  -draw "roundrectangle ..." -fill none -stroke BG -strokewidth 19 -draw
+  "bezier ..." (halo) then -strokewidth 9 colored passes, `-fill COL -stroke
+  none -draw "circle x,y x,y+10"` dots, reset `+gravity` before `-draw text`
+  labels. SVG-path-via-convert rendered blank; native `-draw bezier` works.
+  Palette: warm paper `#efe6d4`/`#f7f1e3`, indigo `#2e3f7a`, rust `#a2492b`.
 
 ## Dead ends
 
