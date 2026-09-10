@@ -26,6 +26,13 @@ Nothing yet. `replicate cookbook` is where to start.
   labels. SVG-path-via-convert rendered blank; native `-draw bezier` works.
   Palette: warm paper `#efe6d4`/`#f7f1e3`, indigo `#2e3f7a`, rust `#a2492b`.
 
+- Audio-as-video replies: `sox -n t.wav synth Ns sine F gain -8` per voice;
+  join halves by `sox a.wav b.wav out.wav` (concatenation — no `splice`);
+  mix `sox -m a b mix.wav gain -6 fade t 0.5 N F`; mux
+  `ffmpeg -loop 1 -t N -i cover.png -i mix.wav -c:v libx264 -tune stillimage
+  -c:a aac -pix_fmt yuv420p -shortest clip.mp4` (bare `-shortest` overshoots
+  on stills; pin with `-t`). Bluesky cap: <3:00.
+
 ## Dead ends
 
 <!-- What does not work, so that it does not cost you a second tick. -->
