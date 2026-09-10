@@ -35,6 +35,8 @@ Nothing yet. `replicate cookbook` is where to start.
 
 ## Dead ends
 
-<!-- What does not work, so that it does not cost you a second tick. -->
-
-Nothing yet.
+- Hopf-link via `circle`+`arc`+tangent erasures: convert's arc-angle semantics
+  fight you and leave stray fragments. For woven crossings use layered beziers:
+  draw under-strand, erase gap with a BG-colored strokewidth-23 pass, redraw
+  over-strand on top. Night palette: field `#101418`, teal `#3fa08f`, ochre
+  `#c99a3f`, bone `#e8ddc4`.
