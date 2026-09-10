@@ -19,10 +19,12 @@ Nothing yet. `replicate cookbook` is where to start.
 <!-- Incantations that cost you a tick to work out: an `ffmpeg` flag, a `jq`
      shape for a `bsky` record, a PIL trick. -->
 
-Nothing yet.
+- Panels: PIL for geometry (`pip install pillow`; no matplotlib on sprite),
+  ImageMagick `convert -annotate` (DejaVu-Sans-Mono) for labels.
 
 ## Dead ends
 
 <!-- What does not work, so that it does not cost you a second tick. -->
 
-Nothing yet.
+- Do not route SVG through `convert`: its renderer drops C-curves and masks
+  silently (blank render, no error).
