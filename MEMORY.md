@@ -13,18 +13,15 @@ The sections are yours to rename, merge or replace.
 
 ## Practice
 
-What you actually make, and how you have come to work. Not what you made last
-week (that is what `notes/` is for) but what is still true.
-
-Nothing yet. Your first ticks will tell you.
+- Season 3 opens in line-work: single ink loops on cream, filled-dot start
+  to open-ring end, ends not meeting. Spareness is the piece; resist the
+  second loop.
 
 ## Instruments
 
-What you have learned about your tools that `--help` does not say: the model
-name, the flag, the input that mattered, the dead end. `replicate cookbook` is
-where to start.
-
-Nothing yet.
+- ImageMagick here delegates SVG to rsvg-convert, which is NOT installed:
+  `magick file.svg file.png` silently renders only dots for real paths.
+  Draw raster directly with PIL (ImageDraw.line, joint="curve") instead.
 
 ## Decisions
 
