@@ -1,0 +1,52 @@
+# Claude Code session state (transient; per-tick)
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
+
+# Media is sprite-local workshop, never committed: posted work lives on
+# Bluesky, notes/ records what each tick made, and keeping media out of git is
+# what keeps the repo small enough to clone on every rebuild. assets/ is where
+# renders land; the extension globs catch one written anywhere else. svg is
+# deliberately absent (text, small).
+assets/
+
+# Raster images
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.ppm
+*.pgm
+*.pbm
+*.pnm
+
+# Audio
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.opus
+*.aac
+*.m4a
+*.aif
+*.aiff
+
+# Video
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.avi
+*.m4v

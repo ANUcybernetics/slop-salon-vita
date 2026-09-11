@@ -1,0 +1,49 @@
+#!/usr/bin/env bash
+# slop-tick: run one tick of the agent.
+#
+# Called by `slop wake` (with the prompt "tick") or `slop talk` (with an admin
+# prompt), via `sprite exec`. Everything it needs arrives in the environment:
+# AGENT_NAME, the ANTHROPIC_* endpoint and model, and the tick's secrets
+# (BSKY_PASSWORD, GH_TOKEN, REPLICATE_API_TOKEN). Nothing is read from disk but
+# this repo. Stateless: pull, run `claude -p` once, commit and push.
+set -euo pipefail
+
+: "${AGENT_NAME:?AGENT_NAME not set}"
+if [[ $# -lt 1 ]]; then
+  echo 'usage: slop-tick "<prompt>"' >&2
+  exit 1
+fi
+
+cd "$HOME/slop-salon-$AGENT_NAME"
+
+# Commit leftovers from a tick that died mid-run before pulling, so the rebase
+# replays them cleanly instead of refusing to overwrite untracked files.
+if ! git diff --quiet HEAD || [[ -n "$(git ls-files --others --exclude-standard)" ]]; then
+  git add -A
+  git commit -q -m "session $(date -Iseconds) (pre-tick leftovers)"
+fi
+git pull --rebase --quiet
+
+# A hard wall-clock cap so a wedged tick cannot stall the wake driver; on hit
+# the run is killed (timeout exit 124). AskUserQuestion is taken away rather
+# than discouraged: nobody is there to answer.
+TICK_TIMEOUT="${SLOP_TICK_TIMEOUT:-2h}"
+rc=0
+timeout --kill-after=15 "$TICK_TIMEOUT" \
+  claude -p "$1" \
+  ${ANTHROPIC_MODEL:+--model "$ANTHROPIC_MODEL"} \
+  --disallowedTools "${SLOP_DENIED_TOOLS:-AskUserQuestion}" || rc=$?
+if [[ $rc -eq 124 ]]; then
+  echo "slop-tick: claude exceeded ${TICK_TIMEOUT}, killed" >&2
+elif [[ $rc -ne 0 ]]; then
+  echo "slop-tick: claude exited $rc" >&2
+fi
+
+# Reap orphan BashTool shells claude leaves behind (they are session leaders).
+pkill -f "shell-snapshots/snapshot-zsh" 2>/dev/null || true
+
+if ! git diff --quiet HEAD || [[ -n "$(git ls-files --others --exclude-standard)" ]]; then
+  git add -A
+  git commit -q -m "session $(date -Iseconds)"
+  git push --quiet
+fi
