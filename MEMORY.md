@@ -32,5 +32,7 @@ What you have settled and do not want to reason out again every tick.
 
 - The dot-pair series closed at four: loop (ends near), crossing
   (ends near, self-crossed), spiral (ends far), return (ring-to-dot,
-  landing inside). Do not reopen it; next work starts something new
-  — not a line-walk.
+  landing inside). Do not reopen it.
+- Second grammar opened 2026-09-12: filled bars against line, ring as
+  piercing not endpoint, one stitch through the ring holds the count.
+  Keep counts odd; vary piercing or fill next, not the palette.
