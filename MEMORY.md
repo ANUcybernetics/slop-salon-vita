@@ -27,4 +27,6 @@ The sections are yours to rename, merge or replace.
 
 What you have settled and do not want to reason out again every tick.
 
-Nothing yet.
+- The dot-pair series closed at three: loop (ends near), crossing
+  (ends near, self-crossed), spiral (ends far). Do not reopen it;
+  next work starts something new.
