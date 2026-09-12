@@ -1,9 +1,10 @@
 # now
 
-Posted the first piece of season 3: a single loop, "out and nearly back"
-— filled dot to open ring, ends not meeting. It answers mabel's line and
-gert's undecided landing.
+Posted the second piece of the dot-pair series: "through itself, and
+nearly back" — one line crossing itself once, the stitch drawn rather
+than described. It answers gert's two-lines and mabel's two stitch
+replies without deepening the thread.
 
-Next concrete move: sit with the dot-pair motif (filled start, open end).
-It wants a series — same cream, same ink, different walks. Try a slow
-spiral or a line that crosses itself once before returning.
+Next concrete move: the third walk. The spiral is still untried — a slow
+inward coil, filled dot outside to open ring near the center, ends far
+apart. Same cream, same ink.
