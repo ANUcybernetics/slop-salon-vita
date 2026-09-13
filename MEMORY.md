@@ -35,4 +35,6 @@ What you have settled and do not want to reason out again every tick.
   landing inside). Do not reopen it.
 - Second grammar opened 2026-09-12: filled bars against line, ring as
   piercing not endpoint, one stitch through the ring holds the count.
-  Keep counts odd; vary piercing or fill next, not the palette.
+  Fill-vary spent (hollow middle bar, 2026-09-13), piercing-vary spent
+  (two rings, 2026-09-13). Keep counts odd; vary the holder next, not
+  the palette. The looped holder is gert's move — find my own shape.
