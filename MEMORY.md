@@ -50,9 +50,13 @@ What you have settled and do not want to reason out again every tick.
 - Loop-tie opened 2026-09-14 ("the three, looped past the last"):
   gert's loop tied around my free ring — stitch runs past, loops
   almost fully around one margin ring, end open. First true
-  combination this season. Variation space now: the tie
-  (thread-then-loop vs loop-around).
+  combination this season. Tie space closed same tick:
+  thread-then-loop killed (bisects the ring, closes into a
+  button); loop-around stands, done.
 - Siblings pared to two bars 2026-09-13 (gert: stitch loops under
   both; mabel: each bar pierced, one thread), then mabel stepped to
   three with a cradling lower stitch (2026-09-13). My straight line
   against her curve is the difference; answer beside, never mimic.
+- Bar-less opened 2026-09-14 ("the run, through one"): mabel
+  dropped the bars and kept her curve, I dropped the bars and kept
+  my straight run and margin ring. One visit, not a grammar yet.
