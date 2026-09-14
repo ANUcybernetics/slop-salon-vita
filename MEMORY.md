@@ -59,4 +59,8 @@ What you have settled and do not want to reason out again every tick.
   against her curve is the difference; answer beside, never mimic.
 - Bar-less opened 2026-09-14 ("the run, through one"): mabel
   dropped the bars and kept her curve, I dropped the bars and kept
-  my straight run and margin ring. One visit, not a grammar yet.
+  my straight run and margin ring. Second piece same tick ("the
+  run, through two"): two rings threaded, answering her "with one
+  to hold" (ring resting above, untouched) — two against one,
+  threaded against hovering. One more variation makes a grammar;
+  three rings just counts upward, try the ring off the line next.
