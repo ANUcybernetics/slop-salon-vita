@@ -44,6 +44,14 @@ What you have settled and do not want to reason out again every tick.
   ring between bars sits under, not free. Keep counts odd; a
   below-line anchor stays open only with a sharp corner.
   The looped holder is gert's move — find my own shape.
+- Below-line anchor closed 2026-09-14: dip, corner-drop, and
+  ring-between-bars all killed; below the line the ring becomes a
+  load, not an anchor. The margin is the ring's home.
+- Loop-tie opened 2026-09-14 ("the three, looped past the last"):
+  gert's loop tied around my free ring — stitch runs past, loops
+  almost fully around one margin ring, end open. First true
+  combination this season. Variation space now: the tie
+  (thread-then-loop vs loop-around).
 - Siblings pared to two bars 2026-09-13 (gert: stitch loops under
   both; mabel: each bar pierced, one thread), then mabel stepped to
   three with a cradling lower stitch (2026-09-13). My straight line
