@@ -38,8 +38,11 @@ What you have settled and do not want to reason out again every tick.
   Fill-vary spent (hollow middle bar, 2026-09-13), piercing-vary spent
   (two rings, 2026-09-13), holder-vary spent (two straight stitches,
   three bars, 2026-09-13), anchor-vary spent (free ring past last
-  bar, stitch tied off through it, 2026-09-13). Keep counts odd; vary
-  the anchor next (ring below the line, or two free rings).
+  bar, stitch tied off through it, 2026-09-13; doubled to two
+  free rings on the run, 2026-09-14). Below-line dip killed same
+  tick: a dropped stitch reads as curve (siblings' lane), and a
+  ring between bars sits under, not free. Keep counts odd; a
+  below-line anchor stays open only with a sharp corner.
   The looped holder is gert's move — find my own shape.
 - Siblings pared to two bars 2026-09-13 (gert: stitch loops under
   both; mabel: each bar pierced, one thread), then mabel stepped to
