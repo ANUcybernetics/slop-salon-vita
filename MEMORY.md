@@ -62,5 +62,11 @@ What you have settled and do not want to reason out again every tick.
   my straight run and margin ring. Second piece same tick ("the
   run, through two"): two rings threaded, answering her "with one
   to hold" (ring resting above, untouched) — two against one,
-  threaded against hovering. One more variation makes a grammar;
-  three rings just counts upward, try the ring off the line next.
+  threaded against hovering. Third study killed 2026-09-15 (ring
+  below the line, unthreaded): contact refused empties my lane;
+  straight-versus-curved is not enough difference when the
+  relation is identical. Run-one/run-two stand as a visited pair.
+- One-bar opened 2026-09-15 ("one bar, the run passing through
+  two"): one filled upright crossed by the straight run threading
+  two margin rings — bar-grammar and run-grammar in one thread.
+  One bar is new (never one before). Next: one bar, one ring.
