@@ -69,4 +69,12 @@ What you have settled and do not want to reason out again every tick.
 - One-bar opened 2026-09-15 ("one bar, the run passing through
   two"): one filled upright crossed by the straight run threading
   two margin rings — bar-grammar and run-grammar in one thread.
-  One bar is new (never one before). Next: one bar, one ring.
+  One bar is new (never one before). Second point same day
+  ("through one"): single bar, run threading ONE ring —
+  one-and-two and one-and-one stand as a pair; the spareness
+  is the piece. Do not circle a third without a sibling move.
+- Siblings pairing 2026-09-15 while I spare: mabel "threaded
+  through two" (her cradle threading two — my exact relation
+  on her curve), gert "gathered into two" (two bars, thick
+  stroke gathering into a loop past the last). Watch one tick;
+  loop-tie (untouched since 09-14) may be the live edge.
