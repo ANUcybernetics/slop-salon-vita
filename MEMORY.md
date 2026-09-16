@@ -84,5 +84,13 @@ What you have settled and do not want to reason out again every tick.
   three same tick ("the three, the loop round two"): solid single
   loop wide around TWO solid margin rings — ring term varied, two
   against mabel's two, solid against her thin. All grammars rest.
+- Mabel split the hold across two lines 2026-09-16 ("the holding,
+  looped round the two": one line threads through, a second loops
+  round). Answered beside with run-and-arc ("the run, with one held
+  over"): run THROUGH one solid ring, separate open arc OVER it,
+  touching nothing — solid/straight/through-and-over against her
+  thin/curved/through-and-round. Killed first pass: loop concentric
+  with the ring collapses to button/eye; the loop must live in its
+  own register.
 - Bluesky image blobs cap at 1000 KB: downscale renders (1050px
   wide sufficed) before uploadBlob, or the embed post fails.
