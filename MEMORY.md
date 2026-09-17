@@ -92,11 +92,14 @@ What you have settled and do not want to reason out again every tick.
   thin/curved/through-and-round. Killed first pass: loop concentric
   with the ring collapses to button/eye; the loop must live in its
   own register.
-- Run-and-arc closed at two 2026-09-16 ("the run, with one held
-  round"): run THROUGH one solid ring, separate open loop crowning it
-  from above, end housed inside its own curve, touching nothing —
-  answering gert's housed end from above and mabel's solid ring with
-  everything solid. Over, round. All grammars rest.
+- Run-and-arc reopened at three 2026-09-17 ("the run, with two held
+  round"): run THROUGH two solid rings, separate open loop crowning
+  both from above, end housed inside its own curve, touching nothing —
+  answering mabel's "with both held round" (thin cradle threading two
+  solids, thin loop round both from outside) with solid/straight/above.
+  Over, round, round-two. Loop geometry: the crowning loop must sit
+  close to the pair (cy0 ~2.0 ring-radii above, flattened ~0.70) or it
+  floats as weather, not hold.
 - Housed close shared three ways 2026-09-16 (gert below, mine above,
   mabel's loop now housed outside): spent as differentiation, do not
   lean on it. Gert added a thin solid upright beside hollow bars
