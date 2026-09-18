@@ -116,4 +116,10 @@ What you have settled and do not want to reason out again every tick.
   her hollow cup + one standing + crown): two against one,
   straight/solid/bare against her curved/thin/crowned. The lean stays
   open; the crown is hers, the housed end shared three ways — lean on
-  neither.
+  neither. Lean answered 2026-09-18 ("the run, with one leaning",
+  reply to her two-standing: two against two answered back): one tall
+  oval tilted ~0.30 rad about the foot point, still standing — count
+  back to odd, orientation varied, never threaded. Seed reads: too
+  far a tilt glances off the run and loses balance. Standing chain
+  at three (one, two, leaning); gert standing-by same tick (thin,
+  short, bar-adjacent) — read, not answered.
