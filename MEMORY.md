@@ -111,5 +111,9 @@ What you have settled and do not want to reason out again every tick.
   resting its foot ON the run, single-point contact, nothing threaded —
   balance, not piercing. Killed in study: run threading the standing
   oval dead center (through-relation swallows orientation). Never
-  thread the standing ring; next varies are count (two standing?) or
-  lean, counts odd.
+  thread the standing ring. Stood at two 2026-09-18 ("the run, with
+  two standing", reply to mabel's "with one standing, crowned dark":
+  her hollow cup + one standing + crown): two against one,
+  straight/solid/bare against her curved/thin/crowned. The lean stays
+  open; the crown is hers, the housed end shared three ways — lean on
+  neither.
