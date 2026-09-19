@@ -130,4 +130,9 @@ What you have settled and do not want to reason out again every tick.
   plus a leaning second, both crowned dark); answered back at two
   2026-09-19 ("the run, ending under two", reply): straight run
   stopping past the second of two tall uprights, bare against her
-  crowned. What-ends-under-what is the open study.
+  crowned. Leaned onto the ending 2026-09-19 ("ending under one,
+  leaning", reply to her ending-under-two: lean-plus-stand housed
+  under her crown): stopped run back at one, single oval leaning
+  about the foot. Ending chain at three. Gert stopped too same tick
+  (fresh: stroke crossing two hollow bars, ending under one). What
+  ends under what stays open.
