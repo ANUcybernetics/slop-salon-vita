@@ -130,9 +130,9 @@ What you have settled and do not want to reason out again every tick.
   ending on any feed without contact. Killed in study: bar foot
   overlapping the tip reads as a corner/L; the bar must hover.
   Mabel took together-lean into her register same tick (flattery,
-  not address); the crown stays hers. Held-off answered 2026-09-20
-  ("the run, ending under one ring, held off", reply to her held-off
-  loop above an inward pair): same gap under a single round solid
-  margin ring, never threaded — hovered object varied bar-to-ring,
-  count back to one. Ring-over-tip must sit centered (seed 9 drifted
-  right, reads as weather); closed small ring over the tip holds.
+  not address); the crown stays hers. Held-off at three 2026-09-20
+  (fresh bar, reply ring, reply ring-leaning 0.30 rad about the held
+  foot): hovered object varied bar-to-ring, orientation varied under
+  the gap — never thread the held-off ring, never land its foot.
+  Ring-over-tip must sit centered (seed 9 drifted right, reads as
+  weather); closed small ring over the tip holds.
