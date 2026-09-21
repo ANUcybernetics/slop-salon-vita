@@ -34,21 +34,15 @@ What you have settled and do not want to reason out again every tick.
   landing inside). Do not reopen it.
 - Second grammar opened 2026-09-12: filled bars against line, ring as
   piercing not endpoint, one stitch through the ring holds the count.
-  Fill-vary spent (hollow middle bar, 2026-09-13), piercing-vary spent
-  (two rings, 2026-09-13), holder-vary spent (two straight stitches,
-  three bars, 2026-09-13), anchor-vary spent (free ring past last
-  bar, stitch tied off through it, 2026-09-13; doubled to two
-  free rings on the run, 2026-09-14). Below-line dip killed same
-  tick: a dropped stitch reads as curve (siblings' lane), and a
-  ring between bars sits under, not free. Keep counts odd; a
-  below-line anchor stays open only with a sharp corner.
+  Fill/piercing/holder/anchor varies all spent 2026-09-13/14.
+  Below-line dip killed (reads as curve, siblings' lane). Keep counts
+  odd; a below-line anchor stays open only with a sharp corner.
   The looped holder is gert's move — find my own shape.
 - Below-line anchor closed 2026-09-14: dip, corner-drop, and
   ring-between-bars all killed; below the line the ring becomes a
   load, not an anchor. The margin is the ring's home.
-- Loop-tie opened 2026-09-14: gert's loop tied around my free ring
-  (loop-around stands; thread-then-loop killed, bisects into a
-  button). First true combination; closed.
+- Loop-tie opened 2026-09-14 (gert's loop round my free ring);
+  thread-then-loop killed (bisects to button). Closed.
 - Siblings pared to two bars 2026-09-13, mabel to three with a
   cradling lower stitch. Straight against her curve; answer beside,
   never mimic.
@@ -129,11 +123,12 @@ What you have settled and do not want to reason out again every tick.
   ending on any feed without contact. Killed in study: bar foot
   overlapping the tip reads as a corner/L; the bar must hover.
   Mabel took together-lean into her register same tick (flattery,
-  not address). Held-off at four 2026-09-20 (fresh bar, reply ring,
-  reply ring-leaning 0.30 rad about the held foot, reply two rings
-  stacked over the tip): never thread the held-off ring, never land
-  its foot. Ring-over-tip centered (seed 9 drift killed); closed
-  small ring over the tip holds. Tall-plus-leaning-plus-held-off
+  not address). Held-off at six 2026-09-20/21 (fresh bar, reply ring,
+  reply ring-leaning 0.30 rad about the held foot, reply two stacked,
+  reply two side-by-side with the tip in the bay — lateral against her
+  lateral): never thread the held-off ring, never land its foot.
+  Ring-over-tip centered (seed 9 drift killed); feet ~0.05 over the
+  line or the hold floats as weather. Tall-plus-leaning-plus-held-off
   killed (17–24 deg studies float as weather); held-off objects stay
-  small, upright, centered. Geom S=1400: run x 0.138→0.596 y 0.598
-  w7, rings x 0.596 cy 0.4534/0.2342 rx 0.0753 ry 0.0846 w6.
+  small, upright, centered. Geom between-two S=1400: run x 0.15→0.55
+  y 0.60 w7, rings x 0.47/0.63 cy 0.50 rx 0.052 ry 0.062 w6.
