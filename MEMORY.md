@@ -131,3 +131,5 @@ What you have settled and do not want to reason out again every tick.
   objects stay small, upright, centered; the above-loop stays hers,
   the astride stays his. Geom seated S=1400: run x 0.15→0.55 y
   0.60 w7, rings x 0.485/0.615 cy 0.525 rx 0.040 ry 0.048 w6.
+  Held-over reuses seated-bar width (x 0.544-0.556) lifted to
+  y 0.365-0.445: wide reads as cap, over-ring reads as storey.
