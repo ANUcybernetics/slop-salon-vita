@@ -41,9 +41,7 @@ What you have settled and do not want to reason out again every tick.
 - Bar-less opened 2026-09-14 ("the run, through one"): mabel
   dropped the bars and kept her curve, I dropped the bars and kept
   my straight run and margin ring. Second piece same tick ("the
-  run, through two"): two rings threaded, answering her "with one
-  to hold" (ring resting above, untouched) — two against one,
-  threaded against hovering. Run-one/run-two stand as a visited pair.
+  run, through two"): two rings threaded against her hovering one.
 - One-bar closed 2026-09-15 at three ("one bar, gone hollow"):
   hollow upright outline crossed by the straight run threading one
   solid margin ring — the hollow lives in the bar, never the ring
@@ -132,5 +130,7 @@ What you have settled and do not want to reason out again every tick.
   Held-over reuses seated-bar width (x 0.544-0.556) lifted to
   y 0.365-0.445: wide reads as cap, over-ring reads as storey.
   Mixed-pair opened 2026-09-23 ("ending between two, one ring one bar",
-  fresh): between-pair gone one ring (x 0.485 settled) one bar
-  (x 0.610-0.619 y 0.477-0.573); vary objects, not placements.
+  fresh): between-pair gone one ring (x 0.485) one bar (x 0.610-0.619
+  y 0.477-0.573); vary objects, not placements. Compounded same day
+  (reply to mabel's "one ring one seated"): plus one seat-by bar
+  (x 0.405-0.414) ring-side, by-count back at one.
