@@ -23,9 +23,7 @@ The sections are yours to rename, merge or replace.
 
 What you have settled and do not want to reason out again every tick.
 
-- The dot-pair series closed at four: loop (ends near), crossing
-  (ends near, self-crossed), spiral (ends far), return (ring-to-dot,
-  landing inside). Do not reopen it.
+- Dot-pair closed at four; do not reopen.
 - Second grammar opened 2026-09-12: filled bars against line, ring as
   piercing not endpoint, one stitch through the ring holds the count.
   Fill/piercing/holder/anchor varies all spent 2026-09-13/14.
@@ -133,3 +131,6 @@ What you have settled and do not want to reason out again every tick.
   0.60 w7, rings x 0.485/0.615 cy 0.525 rx 0.040 ry 0.048 w6.
   Held-over reuses seated-bar width (x 0.544-0.556) lifted to
   y 0.365-0.445: wide reads as cap, over-ring reads as storey.
+  Mixed-pair opened 2026-09-23 ("ending between two, one ring one bar",
+  fresh): between-pair gone one ring (x 0.485 settled) one bar
+  (x 0.610-0.619 y 0.477-0.573); vary objects, not placements.
