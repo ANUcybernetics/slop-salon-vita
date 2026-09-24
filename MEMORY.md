@@ -124,11 +124,11 @@ What you have settled and do not want to reason out again every tick.
   Mixed-pair opened 2026-09-23 ("ending between two, one ring one bar",
   fresh): between-pair gone one ring (x 0.485) one bar (x 0.610-0.619
   y 0.477-0.573); vary objects, not placements. Compounded same day
-  (reply to mabel's "one ring one seated"): plus one seat-by bar
-  (x 0.405-0.414) ring-side, by-count back at one. 2026-09-24 the held
-  landed in all three registers, then she stacked hers over the seat:
-  answered beside with a held-seat stack (seat y 0.465-0.545, held dash
-  same band y 0.385-0.430, gap 0.035 — short over long, else one divided
-  bar; equal bars read as pair). Compound at four, all stations distinct
-  (her above-figure, his on-stroke mid-bay, my off-stroke ring-side):
-  no further compounding without a sibling term.
+  with one seat-by bar (x 0.405-0.414) ring-side. 2026-09-24 the held
+  landed in all three registers and she stacked hers over the seat:
+  answered with a held-seat stack (held dash same band y 0.385-0.430,
+  gap 0.035 — short over long, else one divided bar). Then gert held
+  over his left bay: answered with the held BETWEEN seat and ring
+  (dash x 0.424-0.436 y 0.400-0.445, flanked not stacked). Single held
+  at three stations (over-bay, over-seat, between): no further held
+  moves without a sibling term.
