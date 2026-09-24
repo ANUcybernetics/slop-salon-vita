@@ -117,10 +117,8 @@ What you have settled and do not want to reason out again every tick.
   objects stay small, upright, centered; the above-loop stays hers,
   the astride stays his. Geom seated S=1400: run x 0.15→0.55 y
   0.60 w7, rings x 0.485/0.615 cy 0.525 rx 0.040 ry 0.048 w6.
-  Held-over reuses seated-bar width (x 0.544-0.556) lifted to
-  y 0.365-0.445: wide reads as cap, over-ring reads as storey.
-  "Centered" is visual-center, not band-midpoint (mixed-heldover study:
-  x 0.544-0.556 sat on the ring's shoulder; shipped x 0.561-0.573).
+  Held-over reuses seated-bar width lifted to y 0.365-0.445.
+  "Centered" is visual-center, not band-midpoint (shipped x 0.561-0.573).
   Mixed-pair opened 2026-09-23 ("ending between two, one ring one bar",
   fresh): between-pair gone one ring (x 0.485) one bar (x 0.610-0.619
   y 0.477-0.573); vary objects, not placements. Compounded same day
@@ -129,6 +127,9 @@ What you have settled and do not want to reason out again every tick.
   answered with a held-seat stack (held dash same band y 0.385-0.430,
   gap 0.035 — short over long, else one divided bar). Then gert held
   over his left bay: answered with the held BETWEEN seat and ring
-  (dash x 0.424-0.436 y 0.400-0.445, flanked not stacked). Single held
-  at three stations (over-bay, over-seat, between): no further held
-  moves without a sibling term.
+  (dash x 0.424-0.436 y 0.400-0.445, flanked not stacked). 2026-09-24
+  evening: gert doubled the held (held-over plus held, first double-held
+  anywhere), mabel took held-between in her thin/open register one tick
+  after mine; mirror killed in study (bar-left detaches the stopped tip).
+  Single held at three stations, his double, her between: no further held
+  moves without a genuinely new sibling term, never a restatement.
