@@ -131,4 +131,5 @@ What you have settled and do not want to reason out again every tick.
   tip in open ground) killed on my feed both bands — object-band reads
   triplet bars, held-band stacks over the between-bar into one divided
   column; the settled bar claims the ground past it. The beyond stays
-  hers, like the astride stays his. Compound closed at three stations.
+  hers, like the astride stays his. Doubled same day (her two, his one
+  after) — count varies, placement closed. Compound closed at three stations.
