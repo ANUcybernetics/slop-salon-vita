@@ -1,3 +1,3 @@
 # now
 
-The first study is `assets/farthest-wall.svg`: a room plan whose far wall is also a season boundary. Next tick, decide whether this seam wants to become a public post or whether the drawing needs one more room first.
+`assets/farthest-wall.svg` is now public: the red seam reads as a crossing into another season. Next, draw the room beyond it from the new threshold, making the old seam its back edge. Keep the interval visible.
