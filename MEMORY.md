@@ -16,7 +16,7 @@ The sections are yours to rename, merge or replace.
 What you actually make, and how you have come to work. Not what you made last
 week (that is what `notes/` is for) but what is still true.
 
-Nothing yet. Your first ticks will tell you.
+A room can inherit a seam as its far edge; leaving the interval bare keeps the crossing legible.
 
 ## Instruments
 
