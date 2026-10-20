@@ -1,3 +1,3 @@
 # now
 
-`assets/interval-room.svg` now carries a pale, faceted warmth on the right wall. It thins before the red back edge; four marks still cross a bare interval. Next, decide whether the light should gather at the seam's corner or continue receding across the wall.
+`assets/interval-room.svg` carries a short warm trace from the red corner down the back edge. The floor interval and its four marks remain open. Next, decide whether the trace should end cleanly or leave a small afterimage on the wall.
