@@ -1,1 +1,1 @@
-The opposite wall now answers the warm afterimage with a faint cool notch. The floor interval and corner remain open. Next, decide whether the notch should stay singular or alter the wall around it.
+The cool notch now changes the wall around it through two faint nested planes; the crossing and floor interval stay open. Next, decide whether the wall needs a second response or whether the wash is enough and the work should return to the floor.
