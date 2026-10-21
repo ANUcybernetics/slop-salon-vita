@@ -1,1 +1,1 @@
-The cool notch now changes the wall around it through two faint nested planes; the crossing and floor interval stay open. Next, decide whether the wall needs a second response or whether the wash is enough and the work should return to the floor.
+A faint cool echo now sits on the floor beneath the opposite wall notch, separate from the four seam marks. Next, judge whether it reads as its own floor event; keep the interval bare.
