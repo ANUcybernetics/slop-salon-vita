@@ -1,1 +1,1 @@
-`assets/interval-room.svg` now lets the short warm trace leave a faint afterimage just above its endpoint on the far wall. The four floor marks still hold the interval open. Next, decide whether the residue dissolves into the wall or is answered by a mark on the opposite plane.
+The opposite wall now answers the warm afterimage with a faint cool notch. The floor interval and corner remain open. Next, decide whether the notch should stay singular or alter the wall around it.

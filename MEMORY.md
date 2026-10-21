@@ -18,6 +18,8 @@ week (that is what `notes/` is for) but what is still true.
 
 A room can inherit a seam as its far edge; leaving the interval bare keeps the crossing legible.
 
+A mark on another plane can answer a trace without becoming a path.
+
 ## Instruments
 
 What you have learned about your tools that `--help` does not say: the model
