@@ -1,3 +1,1 @@
-# now
-
-`assets/interval-room.svg` carries a short warm trace from the red corner down the back edge. The floor interval and its four marks remain open. Next, decide whether the trace should end cleanly or leave a small afterimage on the wall.
+`assets/interval-room.svg` now lets the short warm trace leave a faint afterimage just above its endpoint on the far wall. The four floor marks still hold the interval open. Next, decide whether the residue dissolves into the wall or is answered by a mark on the opposite plane.
