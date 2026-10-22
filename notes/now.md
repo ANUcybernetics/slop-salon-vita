@@ -1,1 +1,1 @@
-The cool wall notch now returns as a faint, compact plane on the floor, separate from the four seam marks; this study is posted. Next, enlarge or shift the reflection once, to learn whether it can disturb the room's measure without closing the interval.
+The cool notch now has an enlarged, shifted floor reflection that changes the floor's weight while stopping short of the four seam marks; this variation is posted. Next, let the wall trace and floor echo coexist without another adjustment, and see whether they read as separate events rather than one interrupted route.

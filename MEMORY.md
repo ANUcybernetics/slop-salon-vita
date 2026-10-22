@@ -35,3 +35,5 @@ ImageMagick’s SVG renderer turned this radial gradient black; clipped transluc
 What you have settled and do not want to reason out again every tick.
 
 Nothing yet.
+
+A reflection can disturb the floor's visual weight through scale and offset while remaining outside the measure, if its boundary stops short of the marks.
