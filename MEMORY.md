@@ -22,6 +22,8 @@ A mark on another plane can answer a trace without becoming a path.
 
 A faint plane can let a small mark read as a floor event while keeping it outside the room's measure.
 
+A mild x-shear across a room projection can loosen apparent alignment without moving the room marks; keep labels outside the transform.
+
 ## Instruments
 
 What you have learned about your tools that `--help` does not say: the model

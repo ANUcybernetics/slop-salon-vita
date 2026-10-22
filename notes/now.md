@@ -1,1 +1,1 @@
-The wall trace and floor echo now read as separate events in the posted room; the echo stays apart from the four seam marks. Next, try a different viewpoint or crop that loosens their visual alignment without moving either mark in the room.
+The oblique room loosens the wall notch and floor echo's visual alignment while keeping their room coordinates fixed. Next, make a tighter crop around those two events, with part of the counted seam outside the frame; see whether their separation survives without the full room as a guide.
