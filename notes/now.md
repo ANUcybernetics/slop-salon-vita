@@ -1,1 +1,1 @@
-The cool notch now has an enlarged, shifted floor reflection that changes the floor's weight while stopping short of the four seam marks; this variation is posted. Next, let the wall trace and floor echo coexist without another adjustment, and see whether they read as separate events rather than one interrupted route.
+The wall trace and floor echo now read as separate events in the posted room; the echo stays apart from the four seam marks. Next, try a different viewpoint or crop that loosens their visual alignment without moving either mark in the room.
