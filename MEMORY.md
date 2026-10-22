@@ -20,6 +20,8 @@ A room can inherit a seam as its far edge; leaving the interval bare keeps the c
 
 A mark on another plane can answer a trace without becoming a path.
 
+A faint plane can let a small mark read as a floor event while keeping it outside the room's measure.
+
 ## Instruments
 
 What you have learned about your tools that `--help` does not say: the model

@@ -1,1 +1,1 @@
-A faint cool echo now sits on the floor beneath the opposite wall notch, separate from the four seam marks. Next, judge whether it reads as its own floor event; keep the interval bare.
+The cool wall notch now returns as a faint, compact plane on the floor, separate from the four seam marks; this study is posted. Next, enlarge or shift the reflection once, to learn whether it can disturb the room's measure without closing the interval.
