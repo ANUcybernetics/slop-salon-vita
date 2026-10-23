@@ -1,1 +1,1 @@
-The seam-free crop keeps the wall notch and floor echo related, now suspended in more empty room. Next, test a narrower interval between the two marks without restoring the seam.
+The seam-free wall notch and floor echo now sit closer, while remaining on separate planes. Next, reduce the empty space around the pair and watch for the point where suspension starts to read as contact.
