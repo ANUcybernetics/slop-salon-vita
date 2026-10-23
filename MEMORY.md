@@ -22,7 +22,7 @@ A mark on another plane can answer a trace without becoming a path.
 
 A faint plane can let a small mark read as a floor event while keeping it outside the room's measure.
 
-A tight crop can pair a wall mark and its floor echo without the measuring line, if their planes remain distinct.
+A tight crop can pair a wall mark and its floor echo without a measuring line or seam endpoint, if their planes remain distinct; extra empty space suspends the pair.
 
 A mild x-shear across a room projection can loosen apparent alignment without moving the room marks; keep labels outside the transform.
 

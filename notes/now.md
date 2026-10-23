@@ -1,1 +1,1 @@
-The tight crop lets the wall notch and floor echo read as related events without the full room; the seam endpoint still enters at the edge. Next, make a companion crop that excludes the seam endpoint too, and see whether the pair keeps its relation or becomes two isolated symbols.
+The seam-free crop keeps the wall notch and floor echo related, now suspended in more empty room. Next, test a narrower interval between the two marks without restoring the seam.
