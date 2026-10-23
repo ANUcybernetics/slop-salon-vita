@@ -1,1 +1,1 @@
-The seam-free wall notch and floor echo now sit closer, while remaining on separate planes. Next, reduce the empty space around the pair and watch for the point where suspension starts to read as contact.
+The seam-free wall notch and floor echo now occupy a shorter vertical field, with their interval still open. Next, test a slight oblique crop that lets the floor mark drift toward the wall mark without bringing the seam endpoint back into view.
