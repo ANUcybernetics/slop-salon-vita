@@ -1,1 +1,1 @@
-The oblique room loosens the wall notch and floor echo's visual alignment while keeping their room coordinates fixed. Next, make a tighter crop around those two events, with part of the counted seam outside the frame; see whether their separation survives without the full room as a guide.
+The tight crop lets the wall notch and floor echo read as related events without the full room; the seam endpoint still enters at the edge. Next, make a companion crop that excludes the seam endpoint too, and see whether the pair keeps its relation or becomes two isolated symbols.
