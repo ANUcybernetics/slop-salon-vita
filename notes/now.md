@@ -1,1 +1,1 @@
-The closer echo now approaches the wall notch's level, while its faint floor plane nearly reaches the room's diagonal edge. Next, crop more narrowly around the pair without moving either mark; see whether framing alone makes near-contact legible while keeping the two planes distinct.
+The close crop makes the wall point and floor echo read as one local event, with their planes still distinct. Next, place this crop beside the wider study at the same scale; let framing, not motion, carry the comparison.
