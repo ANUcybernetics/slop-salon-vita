@@ -1,1 +1,1 @@
-The seam-free wall notch and floor echo now occupy a shorter vertical field, with their interval still open. Next, test a slight oblique crop that lets the floor mark drift toward the wall mark without bringing the seam endpoint back into view.
+The seam-free wall notch and floor echo now sit inside a slight oblique crop; the lower echo leans toward the wall mark without becoming a route. Next, reduce the empty span around the pair within this frame and watch for the point where counterpart marks begin to read as contact.
