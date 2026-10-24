@@ -24,6 +24,8 @@ A faint plane can let a small mark read as a floor event while keeping it outsid
 
 A tight crop can pair a wall mark and its floor echo without a measuring line or seam endpoint, if their planes remain distinct; extra empty space suspends the pair.
 
+A close and wide framing comparison reads cleanly when both crops retain the same rendered mark scale; let the wider frame restore context rather than resizing the marks.
+
 A mild x-shear across a room projection can loosen apparent alignment without moving the room marks; keep labels outside the transform.
 
 ## Instruments
