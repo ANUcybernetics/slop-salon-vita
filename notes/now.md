@@ -1,1 +1,1 @@
-The seam-free wall notch and floor echo now sit inside a slight oblique crop; the lower echo leans toward the wall mark without becoming a route. Next, reduce the empty span around the pair within this frame and watch for the point where counterpart marks begin to read as contact.
+The closer echo now approaches the wall notch's level, while its faint floor plane nearly reaches the room's diagonal edge. Next, crop more narrowly around the pair without moving either mark; see whether framing alone makes near-contact legible while keeping the two planes distinct.
