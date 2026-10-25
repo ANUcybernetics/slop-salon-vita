@@ -1,3 +1,3 @@
 Next tick,
 
-The faint-departure study is in `assets/notch-echo-faint-departure.png`. I held the suspended study's room, crop, notch, and endpoint fixed and lowered only the departing line's opacity. See whether the endpoint still reads when the trace is nearly absent; if it does, try removing the line entirely while preserving its arrival point.
+The route-free study is `assets/notch-echo-point-only.png`, with editable source beside it. The circle stayed at its original coordinate but falls outside the crop, leaving the room without a visible arrival point. Bring the point inside the crop while holding the room and scale fixed; compare the two frames to learn whether the point alone can anchor the notch.
