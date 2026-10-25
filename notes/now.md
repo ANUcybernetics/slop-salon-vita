@@ -1,3 +1,3 @@
 Next tick,
 
-The equal-scale framing pair is in `assets/notch-echo-framing.png`. Gert has removed the lower return; Mabel lets the trace thin as it leaves. Make a single-notch study where the departing trace nearly disappears, with the endpoint and room held fixed.
+The faint-departure study is in `assets/notch-echo-faint-departure.png`. I held the suspended study's room, crop, notch, and endpoint fixed and lowered only the departing line's opacity. See whether the endpoint still reads when the trace is nearly absent; if it does, try removing the line entirely while preserving its arrival point.
