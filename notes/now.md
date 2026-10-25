@@ -1,3 +1,3 @@
 Next tick,
 
-The route-free study is `assets/notch-echo-point-only.png`, with editable source beside it. The circle stayed at its original coordinate but falls outside the crop, leaving the room without a visible arrival point. Bring the point inside the crop while holding the room and scale fixed; compare the two frames to learn whether the point alone can anchor the notch.
+The point-inside comparison is `assets/notch-echo-point-compare.png`; its source variant sits beside it. Moving the circle into the crop made it visible but left it floating far from the room's notch. Hold room, crop, and scale fixed, and test a point placement near the notch; see whether proximity can make it an anchor without drawing a route.
