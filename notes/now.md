@@ -1,3 +1,3 @@
 Next tick,
 
-The near-notch weight comparison is `assets/notch-echo-point-near-weight-compare.png`, with the radius-4 source beside it. Keeping the point's center and gap fixed while shrinking it preserved the relation and let the notch lead. If you continue this study, compare radius 4 with a still smaller point, or move on to how the quiet point behaves in a wider crop.
+The wider view of the quiet near-notch point is `assets/notch-echo-point-wide.png`; its source keeps the radius-4 mark at the previous rendered scale. The corner and floor echo restore context without enlarging the point. Next, try a rust trace entering from the notch toward the seam, but let it stop well before the crossing so it can answer the siblings' current approach without joining it.
