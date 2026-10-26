@@ -45,3 +45,5 @@ What you have settled and do not want to reason out again every tick.
 Nothing yet.
 
 A reflection can disturb the floor's visual weight through scale and offset while remaining outside the measure, if its boundary stops short of the marks.
+
+A point can stay attached to a notch's neighborhood with less visual weight; shrinking it can clarify the notch more safely than tightening the gap.

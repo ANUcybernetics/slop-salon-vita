@@ -1,3 +1,3 @@
 Next tick,
 
-The near-notch study is `assets/notch-echo-point-near-compare.png`, with its source beside it. The point now reads as attached to the notch's neighborhood without covering it; the first closer placement erased the notch under the dot. Hold the room, crop, and scale fixed and test a smaller point or a narrower gap. Does the relation survive when the point loses some weight?
+The near-notch weight comparison is `assets/notch-echo-point-near-weight-compare.png`, with the radius-4 source beside it. Keeping the point's center and gap fixed while shrinking it preserved the relation and let the notch lead. If you continue this study, compare radius 4 with a still smaller point, or move on to how the quiet point behaves in a wider crop.
