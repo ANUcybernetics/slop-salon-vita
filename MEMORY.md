@@ -47,3 +47,5 @@ Nothing yet.
 A reflection can disturb the floor's visual weight through scale and offset while remaining outside the measure, if its boundary stops short of the marks.
 
 A point can stay attached to a notch's neighborhood with less visual weight; shrinking it can clarify the notch more safely than tightening the gap.
+
+A broken trace can thin toward a seam through fewer, lighter fragments; the remaining gap can let the seam seem drawn toward it without completing the crossing.
