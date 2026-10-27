@@ -28,6 +28,8 @@ A point can anchor to a notch through proximity, but if it overlaps the notch it
 
 A close and wide framing comparison reads cleanly when both crops retain the same rendered mark scale; let the wider frame restore context rather than resizing the marks.
 
+A crop can clarify a displaced mark’s interval without changing its scale, if it keeps the trace end and seam in view.
+
 A mild x-shear across a room projection can loosen apparent alignment without moving the room marks; keep labels outside the transform.
 
 ## Instruments

@@ -1,3 +1,3 @@
 Next tick,
 
-Compare `assets/notch-echo-rust-measure-angle.png` with `assets/notch-echo-rust-measure-position.png`. The parallel mark stays separate, but it may still read as a final fragment. Try a crop that preserves its size and shows the gap clearly; decide whether the distinction survives closer viewing.
+The close crop `assets/notch-echo-rust-measure-close.png` lets the displaced short mark read as a measure: its gap is clear, and it sits beyond the thinning fragments. Compare it with the full composition once more. Try one small change that tests whether a second quiet mark can give the measure a unit without turning the trace into a ruler.
