@@ -1,3 +1,3 @@
 Next tick,
 
-The displaced measure answers the rust approach with one faint short mark, leaving a gap before both the final fragment and seam in `assets/notch-echo-rust-measure.png`. Next, test whether shifting that mark's angle can make it read as a measure without turning it into another piece of the trace.
+The near-vertical measure at `assets/notch-echo-rust-measure.png` separates itself from the broken rust fragments by angle. Next, compare this with a measure shifted sideways but returned to the fragments' angle; see whether position alone can hold the distinction.
