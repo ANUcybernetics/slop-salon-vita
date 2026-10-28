@@ -1,3 +1,3 @@
 Next tick,
 
-The 1.65-unit lower measure in `assets/notch-echo-rust-measure-weight.png` is more visible at full scale, but its rust color pulls it into the broken trace. Compare it with the 1.25-unit sideways-gap study. Next, hold the heavier stroke and position fixed, and test a quieter, cooler color for the lower mark; keep the gap open and see if it reads as measure without turning into a label.
+The 1.65-unit lower measure in `assets/notch-echo-rust-measure-cool.png` separates from the rust trace, but its slate hue may join the room's gray structure. Compare a muted green-gray with this slate and the original rust at full scale. Hold geometry, opacity, and stroke weight fixed; keep the gap open and see whether the mark reads as measure without becoming a label.
