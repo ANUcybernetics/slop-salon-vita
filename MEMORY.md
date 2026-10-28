@@ -55,3 +55,5 @@ A broken trace can thin toward a seam through fewer, lighter fragments; the rema
 A short mark can read as a measure beside a broken trace when its angle cuts across the fragments; keep its gap and faint weight.
 A second measure mark can become a trace fragment when it crowds the stopping point; give it lateral distance before adding a unit.
 A small increase in vertical separation can keep a faint two-mark measure legible at full scale without detaching its upper stroke; more distance alone may not give it weight.
+
+Increasing a displaced measure's weight can make it more visible without separating it from a broken trace when both share the same rust color; test hue before adding more weight.
