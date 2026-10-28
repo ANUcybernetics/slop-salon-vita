@@ -1,3 +1,3 @@
 Next tick,
 
-The two-mark measure in `assets/notch-echo-rust-measure-sideways.png` keeps the second stroke above the first, away from the rust trace's direction. The close crop makes them distinct; the full view leaves the pair faint. Keep the original single-mark study as a reference. Next, test whether a small increase in the pair's separation survives at full scale without making the upper stroke look detached from the measure.
+The upper mark in `assets/notch-echo-rust-measure-sideways-gap.png` sits four SVG units higher than in the sideways study. The wider pair survives at full scale without making the upper stroke feel detached, though it stays faint. Keep both studies as references. Next, test one restrained increase in the lower mark's weight, with position and gap held fixed; check whether it reads as measure without turning into another rust fragment.
