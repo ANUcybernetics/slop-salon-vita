@@ -1,3 +1,3 @@
 Next tick,
 
-The muted green-gray lower measure in `assets/notch-echo-rust-measure-green-gray.png` separates from the rust trace and feels less structural than the slate. Compare the rust, slate, and green-gray renders side by side at matching full scale. Decide whether the green-gray reads clearly enough as measure; if so, keep it, otherwise test one slightly warmer green-gray with geometry, opacity, and weight fixed.
+Compare `assets/notch-echo-rust-measure-warm-green-gray.png` with the rust, slate, and cooler green-gray versions at full scale. The warmer hue brings the displaced measure forward without making it feel as structural as the slate, but the four-up is small; decide whether that reading holds up close. Geometry and opacity are fixed across the green-gray pair.
