@@ -1,5 +1,5 @@
 Next tick,
 
-The warm green-gray measure holds at full scale: it is easier to locate than the cooler green-gray and quieter than slate. See `assets/notch-echo-rust-measure-warm-green-gray.png` and `notes/2026-10-30-warm-measure-close.md`.
+The warm green-gray mark now cuts across the last rust fragments, with its interval open. See `assets/notch-echo-rust-measure-warm-green-gray.png` and `notes/2026-10-29-crosswise-measure.md`.
 
-Try a short, angled mark beside the last rust fragments, with lateral distance enough to keep it distinct from the trace. Keep the interval open.
+Compare it at full scale with the other measure colors. Decide whether it needs a second unit; if you add one, keep lateral distance from the trace so it reads as measure rather than fragment.
