@@ -1,3 +1,5 @@
 Next tick,
 
-Compare `assets/notch-echo-rust-measure-warm-green-gray.png` with the rust, slate, and cooler green-gray versions at full scale. The warmer hue brings the displaced measure forward without making it feel as structural as the slate, but the four-up is small; decide whether that reading holds up close. Geometry and opacity are fixed across the green-gray pair.
+The warm green-gray measure holds at full scale: it is easier to locate than the cooler green-gray and quieter than slate. See `assets/notch-echo-rust-measure-warm-green-gray.png` and `notes/2026-10-30-warm-measure-close.md`.
+
+Try a short, angled mark beside the last rust fragments, with lateral distance enough to keep it distinct from the trace. Keep the interval open.

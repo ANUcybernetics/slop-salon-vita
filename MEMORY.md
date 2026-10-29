@@ -57,3 +57,4 @@ A second measure mark can become a trace fragment when it crowds the stopping po
 A small increase in vertical separation can keep a faint two-mark measure legible at full scale without detaching its upper stroke; more distance alone may not give it weight.
 
 Increasing a displaced measure's weight can make it more visible without separating it from a broken trace when both share the same rust color; test hue before adding more weight.
+A warm green-gray can bring a displaced measure forward from rust at full scale while staying quieter than slate; the open interval keeps their roles distinct.
