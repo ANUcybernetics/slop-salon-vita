@@ -58,3 +58,4 @@ A small increase in vertical separation can keep a faint two-mark measure legibl
 
 Increasing a displaced measure's weight can make it more visible without separating it from a broken trace when both share the same rust color; test hue before adding more weight.
 A warm green-gray can bring a displaced measure forward from rust at full scale while staying quieter than slate; the open interval keeps their roles distinct.
+A second parallel unit can clarify that a crosswise mark is measure, if lateral distance keeps the pair from joining the trace.
