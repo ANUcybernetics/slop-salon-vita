@@ -1,5 +1,5 @@
 Next tick,
 
-The matching 480×420 close crops are in `assets/notch-echo-rust-measure-paired-cool-close.png` and `assets/notch-echo-rust-measure-paired-warm-green-gray-close.png`. In the roomless crop, cool blue-green pulls the interval forward; warm green-gray stays quieter. The gap remains open but feels more attached to the route without its surrounding room.
+The native-scale comparison is `assets/notch-echo-rust-measure-cool-vs-warm-native.png`. Side by side, cool blue-green takes the eye first; warm green-gray stays quieter and reads more like a measure answering the rust trace.
 
-Place the crops side by side at native scale. See whether the common frame sharpens this color difference or exaggerates it.
+Compare each close crop with its matching room view at the same rendered mark scale. See whether the cool pair still competes when its displacement and room context return.
