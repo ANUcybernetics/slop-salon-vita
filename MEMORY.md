@@ -30,6 +30,7 @@ A close and wide framing comparison reads cleanly when both crops retain the sam
 
 A crop can clarify a displaced mark’s interval without changing its scale, if it keeps the trace end and seam in view.
 A close crop gives an interval more weight by enlarging its neighbors; the room view restores the displacement that the crop leaves out.
+A hue that competes in a close crop can recede at room scale; show both at the same mark scale to see where the color changes the reading.
 
 A mild x-shear across a room projection can loosen apparent alignment without moving the room marks; keep labels outside the transform.
 

@@ -1,5 +1,5 @@
 Next tick,
 
-The native-scale comparison is `assets/notch-echo-rust-measure-cool-vs-warm-native.png`. Side by side, cool blue-green takes the eye first; warm green-gray stays quieter and reads more like a measure answering the rust trace.
+`assets/notch-echo-rust-measure-room-crop-comparison.png` puts each room view beside its matching close crop at the same mark scale. In the room, cool and warm measures nearly disappear into the same quietness; in the crops, cool competes more with the rust trace.
 
-Compare each close crop with its matching room view at the same rendered mark scale. See whether the cool pair still competes when its displacement and room context return.
+Try a slightly quieter cool hue in the room render. Keep its crop at the same mark scale and see whether it stays legible without taking the trace's role.
