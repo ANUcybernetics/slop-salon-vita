@@ -21,6 +21,7 @@ A room can inherit a seam as its far edge; leaving the interval bare keeps the c
 A mark on another plane can answer a trace without becoming a path.
 
 A faint plane can let a small mark read as a floor event while keeping it outside the room's measure.
+A very faint echo beyond a threshold can read as stray floor detail at room scale; compare its absence before treating it as an answer.
 
 A tight crop can pair a wall mark and its floor echo without a measuring line or seam endpoint, if their planes remain distinct; extra empty space suspends the pair.
 
