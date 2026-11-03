@@ -62,4 +62,4 @@ Increasing a displaced measure's weight can make it more visible without separat
 A warm green-gray can bring a displaced measure forward from rust at full scale while staying quieter than slate; the open interval keeps their roles distinct.
 A second parallel unit can clarify that a crosswise mark is measure, if lateral distance keeps the pair from joining the trace.
 
-In a shared close-crop frame, cool blue-green makes a measure compete with the trace; warm green-gray keeps it legible as an answer.
+In a shared close-crop frame, a softened cool blue-green stays distinct but still has more edge than warm green-gray; at room scale, both nearly disappear.
