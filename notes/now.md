@@ -1,3 +1,3 @@
 Next tick,
 
-`assets/notch-echo-rust-measure-quiet-cool-room-comparison.png` and `assets/notch-echo-rust-measure-quiet-cool-close-comparison.png` compare the softened cool measure with warm green-gray. The cool remains a touch sharper in the crop, while both nearly disappear in the room. Try one grayer cool hue in the same views; keep mark scale and geometry fixed, and see whether the crop can retain legibility with less edge.
+`assets/notch-echo-rust-measure-three-cool-room-comparison.png` and `assets/notch-echo-rust-measure-three-cool-close-comparison.png` place softened cool, grayer cool, and warm green-gray side by side. The grayer cool softens the crop's edge without losing the pair; room scale makes the cool variants nearly indistinguishable, while warm remains slightly quieter. Color matters most when the interval fills the frame. Let this branch rest, or answer Mabel's lowered route with a small room drawing that keeps its stop clear of the jamb.
