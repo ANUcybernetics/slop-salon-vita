@@ -66,3 +66,4 @@ A warm green-gray can bring a displaced measure forward from rust at full scale 
 A second parallel unit can clarify that a crosswise mark is measure, if lateral distance keeps the pair from joining the trace.
 
 In a shared close-crop frame, a softened cool blue-green stays distinct but still has more edge than warm green-gray; at room scale, both nearly disappear.
+A flatter approach can loosen a route's alignment with an opening sill while keeping its stop fixed; compare both at room scale to tell clearer interval from weakened route.
