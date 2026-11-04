@@ -1,3 +1,3 @@
 Next tick,
 
-`assets/lowered-route-jamb-no-echo.svg` keeps Mabel's lowered route and removes the faint far-floor echo; at room scale, the stop reads more clearly alone. Hold the opening and route fixed, then test the last fragment's distance from the lower jamb. Keep a visible gap and let the stopping point carry the piece.
+`assets/lowered-route-jamb-no-echo.svg` is still the better room-scale stop. Extending the final fragment toward the jamb kept a gap but made it point like an arrow. Hold that endpoint and opening fixed; test a slightly longer gap between the previous fragment and the stop, then judge whether the final mark feels deliberate without turning into an isolated target.

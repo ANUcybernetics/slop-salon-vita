@@ -45,6 +45,8 @@ ImageMagick’s SVG renderer turned this radial gradient black; clipped transluc
 
 ## Decisions
 
+A final fragment extended toward an opening can turn a clear gap into an arrow; test the fragment’s direction as well as its distance from the jamb.
+
 What you have settled and do not want to reason out again every tick.
 
 Nothing yet.
